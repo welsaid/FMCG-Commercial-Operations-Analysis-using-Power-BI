@@ -1,0 +1,1514 @@
+CustomerID,Customer,Channel,Segment,StoreSize,CreditTermsDays,RouteID,DistributorID,RegionID,Region,State,OpenedYear
+C00001,Customer 00001,E-commerce,Micro,Medium,21,RT0001,D001,R1,North,Kaduna,2018
+C00002,Customer 00002,Wholesale,SME,Small,30,RT0001,D001,R1,North,Kaduna,2022
+C00003,Customer 00003,HoReCa,Micro,Medium,14,RT0001,D001,R1,North,Kaduna,2023
+C00004,Customer 00004,Wholesale,Key Account,Small,14,RT0001,D001,R1,North,Kaduna,2022
+C00005,Customer 00005,E-commerce,Mid-market,Medium,14,RT0001,D001,R1,North,Kaduna,2024
+C00006,Customer 00006,Wholesale,Micro,Small,14,RT0001,D001,R1,North,Kaduna,2018
+C00007,Customer 00007,General Trade,Micro,Medium,30,RT0001,D001,R1,North,Kaduna,2024
+C00008,Customer 00008,Modern Trade,Micro,Large,30,RT0001,D001,R1,North,Kaduna,2018
+C00009,Customer 00009,General Trade,Mid-market,Large,14,RT0001,D001,R1,North,Kaduna,2018
+C00010,Customer 00010,Modern Trade,SME,Small,7,RT0001,D001,R1,North,Kaduna,2021
+C00011,Customer 00011,Modern Trade,Micro,Small,30,RT0001,D001,R1,North,Kaduna,2020
+C00012,Customer 00012,Modern Trade,Micro,Small,7,RT0001,D001,R1,North,Kaduna,2016
+C00013,Customer 00013,Wholesale,SME,Medium,7,RT0001,D001,R1,North,Kaduna,2017
+C00014,Customer 00014,General Trade,SME,Small,7,RT0001,D001,R1,North,Kaduna,2019
+C00015,Customer 00015,General Trade,SME,Medium,7,RT0002,D001,R1,North,Kaduna,2021
+C00016,Customer 00016,Wholesale,Micro,Small,30,RT0002,D001,R1,North,Kaduna,2020
+C00017,Customer 00017,General Trade,SME,Large,14,RT0002,D001,R1,North,Kaduna,2019
+C00018,Customer 00018,Modern Trade,Mid-market,Small,7,RT0002,D001,R1,North,Kaduna,2017
+C00019,Customer 00019,General Trade,Mid-market,Medium,0,RT0002,D001,R1,North,Kaduna,2019
+C00020,Customer 00020,HoReCa,SME,Medium,7,RT0002,D001,R1,North,Kaduna,2017
+C00021,Customer 00021,General Trade,Mid-market,Medium,0,RT0002,D001,R1,North,Kaduna,2016
+C00022,Customer 00022,General Trade,SME,Small,7,RT0002,D001,R1,North,Kaduna,2020
+C00023,Customer 00023,Modern Trade,Key Account,Large,21,RT0002,D001,R1,North,Kaduna,2016
+C00024,Customer 00024,Wholesale,Micro,Small,14,RT0002,D001,R1,North,Kaduna,2022
+C00025,Customer 00025,Wholesale,Mid-market,Medium,14,RT0002,D001,R1,North,Kaduna,2020
+C00026,Customer 00026,Wholesale,SME,Medium,0,RT0003,D001,R1,North,Kaduna,2017
+C00027,Customer 00027,General Trade,SME,Medium,21,RT0003,D001,R1,North,Kaduna,2016
+C00028,Customer 00028,Wholesale,SME,Small,7,RT0003,D001,R1,North,Kaduna,2022
+C00029,Customer 00029,General Trade,SME,Medium,0,RT0003,D001,R1,North,Kaduna,2020
+C00030,Customer 00030,General Trade,SME,Small,7,RT0003,D001,R1,North,Kaduna,2021
+C00031,Customer 00031,General Trade,SME,Medium,14,RT0003,D001,R1,North,Kaduna,2021
+C00032,Customer 00032,Modern Trade,SME,Small,30,RT0003,D001,R1,North,Kaduna,2021
+C00033,Customer 00033,General Trade,SME,Small,30,RT0003,D001,R1,North,Kaduna,2016
+C00034,Customer 00034,General Trade,SME,Small,21,RT0003,D001,R1,North,Kaduna,2016
+C00035,Customer 00035,Wholesale,Key Account,Large,0,RT0003,D001,R1,North,Kaduna,2016
+C00036,Customer 00036,Modern Trade,Micro,Medium,21,RT0003,D001,R1,North,Kaduna,2023
+C00037,Customer 00037,General Trade,Micro,Small,21,RT0003,D001,R1,North,Kaduna,2022
+C00038,Customer 00038,Wholesale,SME,Small,30,RT0003,D001,R1,North,Kaduna,2018
+C00039,Customer 00039,E-commerce,Micro,Small,30,RT0003,D001,R1,North,Kaduna,2020
+C00040,Customer 00040,Wholesale,Micro,Small,21,RT0003,D001,R1,North,Kaduna,2023
+C00041,Customer 00041,General Trade,SME,Small,7,RT0003,D001,R1,North,Kaduna,2020
+C00042,Customer 00042,Modern Trade,Mid-market,Medium,0,RT0003,D001,R1,North,Kaduna,2017
+C00043,Customer 00043,General Trade,Mid-market,Medium,14,RT0003,D001,R1,North,Kaduna,2022
+C00044,Customer 00044,General Trade,Micro,Medium,7,RT0003,D001,R1,North,Kaduna,2023
+C00045,Customer 00045,HoReCa,Mid-market,Small,30,RT0004,D001,R1,North,Kaduna,2021
+C00046,Customer 00046,Wholesale,Mid-market,Large,7,RT0004,D001,R1,North,Kaduna,2017
+C00047,Customer 00047,General Trade,Micro,Medium,14,RT0004,D001,R1,North,Kaduna,2019
+C00048,Customer 00048,Wholesale,SME,Medium,14,RT0004,D001,R1,North,Kaduna,2019
+C00049,Customer 00049,General Trade,SME,Medium,14,RT0004,D001,R1,North,Kaduna,2018
+C00050,Customer 00050,HoReCa,SME,Small,30,RT0004,D001,R1,North,Kaduna,2021
+C00051,Customer 00051,General Trade,Micro,Medium,7,RT0004,D001,R1,North,Kaduna,2017
+C00052,Customer 00052,Wholesale,SME,Small,30,RT0004,D001,R1,North,Kaduna,2022
+C00053,Customer 00053,General Trade,SME,Small,21,RT0004,D001,R1,North,Kaduna,2016
+C00054,Customer 00054,Modern Trade,Micro,Medium,14,RT0004,D001,R1,North,Kaduna,2022
+C00055,Customer 00055,General Trade,Micro,Small,7,RT0004,D001,R1,North,Kaduna,2022
+C00056,Customer 00056,General Trade,Mid-market,Medium,21,RT0004,D001,R1,North,Kaduna,2021
+C00057,Customer 00057,Modern Trade,SME,Small,14,RT0004,D001,R1,North,Kaduna,2017
+C00058,Customer 00058,HoReCa,SME,Small,21,RT0004,D001,R1,North,Kaduna,2024
+C00059,Customer 00059,General Trade,SME,Small,14,RT0004,D001,R1,North,Kaduna,2016
+C00060,Customer 00060,Wholesale,Micro,Small,21,RT0004,D001,R1,North,Kaduna,2023
+C00061,Customer 00061,Wholesale,Mid-market,Medium,21,RT0004,D001,R1,North,Kaduna,2019
+C00062,Customer 00062,Wholesale,Micro,Large,21,RT0004,D001,R1,North,Kaduna,2017
+C00063,Customer 00063,E-commerce,Micro,Small,30,RT0004,D001,R1,North,Kaduna,2023
+C00064,Customer 00064,General Trade,SME,Small,0,RT0004,D001,R1,North,Kaduna,2019
+C00065,Customer 00065,Wholesale,SME,Small,14,RT0005,D001,R1,North,Kaduna,2023
+C00066,Customer 00066,HoReCa,SME,Small,30,RT0005,D001,R1,North,Kaduna,2021
+C00067,Customer 00067,General Trade,Micro,Small,14,RT0005,D001,R1,North,Kaduna,2017
+C00068,Customer 00068,General Trade,SME,Medium,0,RT0005,D001,R1,North,Kaduna,2018
+C00069,Customer 00069,General Trade,SME,Large,7,RT0005,D001,R1,North,Kaduna,2020
+C00070,Customer 00070,Wholesale,SME,Small,14,RT0005,D001,R1,North,Kaduna,2018
+C00071,Customer 00071,General Trade,SME,Medium,7,RT0005,D001,R1,North,Kaduna,2020
+C00072,Customer 00072,Modern Trade,SME,Medium,21,RT0005,D001,R1,North,Kaduna,2018
+C00073,Customer 00073,Wholesale,SME,Small,21,RT0005,D001,R1,North,Kaduna,2020
+C00074,Customer 00074,Wholesale,Mid-market,Medium,0,RT0005,D001,R1,North,Kaduna,2022
+C00075,Customer 00075,General Trade,Micro,Small,21,RT0005,D001,R1,North,Kaduna,2024
+C00076,Customer 00076,Wholesale,Micro,Small,21,RT0005,D001,R1,North,Kaduna,2018
+C00077,Customer 00077,General Trade,SME,Small,7,RT0005,D001,R1,North,Kaduna,2021
+C00078,Customer 00078,Modern Trade,Mid-market,Small,14,RT0006,D001,R1,North,Kaduna,2022
+C00079,Customer 00079,Wholesale,Micro,Small,21,RT0006,D001,R1,North,Kaduna,2018
+C00080,Customer 00080,General Trade,Micro,Small,0,RT0006,D001,R1,North,Kaduna,2018
+C00081,Customer 00081,General Trade,Mid-market,Medium,7,RT0006,D001,R1,North,Kaduna,2023
+C00082,Customer 00082,Wholesale,SME,Small,14,RT0006,D001,R1,North,Kaduna,2021
+C00083,Customer 00083,General Trade,SME,Small,14,RT0006,D001,R1,North,Kaduna,2019
+C00084,Customer 00084,General Trade,Micro,Medium,0,RT0006,D001,R1,North,Kaduna,2023
+C00085,Customer 00085,General Trade,Micro,Medium,7,RT0006,D001,R1,North,Kaduna,2016
+C00086,Customer 00086,General Trade,SME,Medium,0,RT0006,D001,R1,North,Kaduna,2017
+C00087,Customer 00087,Wholesale,Micro,Small,7,RT0006,D001,R1,North,Kaduna,2018
+C00088,Customer 00088,General Trade,Micro,Small,14,RT0006,D001,R1,North,Kaduna,2018
+C00089,Customer 00089,Modern Trade,SME,Medium,7,RT0006,D001,R1,North,Kaduna,2016
+C00090,Customer 00090,General Trade,Mid-market,Medium,0,RT0007,D001,R1,North,Kaduna,2021
+C00091,Customer 00091,General Trade,SME,Medium,7,RT0007,D001,R1,North,Kaduna,2022
+C00092,Customer 00092,General Trade,SME,Large,0,RT0007,D001,R1,North,Kaduna,2016
+C00093,Customer 00093,Wholesale,Key Account,Large,14,RT0007,D001,R1,North,Kaduna,2023
+C00094,Customer 00094,Wholesale,SME,Large,14,RT0007,D001,R1,North,Kaduna,2024
+C00095,Customer 00095,General Trade,SME,Small,14,RT0007,D001,R1,North,Kaduna,2017
+C00096,Customer 00096,Wholesale,Micro,Large,7,RT0007,D001,R1,North,Kaduna,2021
+C00097,Customer 00097,General Trade,SME,Small,7,RT0007,D001,R1,North,Kaduna,2022
+C00098,Customer 00098,Modern Trade,SME,Small,0,RT0007,D001,R1,North,Kaduna,2016
+C00099,Customer 00099,E-commerce,Key Account,Small,14,RT0007,D001,R1,North,Kaduna,2022
+C00100,Customer 00100,E-commerce,Micro,Medium,21,RT0007,D001,R1,North,Kaduna,2016
+C00101,Customer 00101,HoReCa,Micro,Medium,30,RT0007,D001,R1,North,Kaduna,2022
+C00102,Customer 00102,Modern Trade,Micro,Large,21,RT0007,D001,R1,North,Kaduna,2021
+C00103,Customer 00103,General Trade,SME,Small,14,RT0007,D001,R1,North,Kaduna,2024
+C00104,Customer 00104,Modern Trade,Micro,Small,21,RT0008,D002,R1,North,Abuja,2018
+C00105,Customer 00105,HoReCa,Micro,Large,21,RT0008,D002,R1,North,Abuja,2023
+C00106,Customer 00106,Wholesale,SME,Medium,0,RT0008,D002,R1,North,Abuja,2021
+C00107,Customer 00107,General Trade,Mid-market,Small,14,RT0008,D002,R1,North,Abuja,2019
+C00108,Customer 00108,Wholesale,Key Account,Medium,21,RT0008,D002,R1,North,Abuja,2022
+C00109,Customer 00109,General Trade,SME,Medium,14,RT0008,D002,R1,North,Abuja,2018
+C00110,Customer 00110,General Trade,Micro,Small,21,RT0008,D002,R1,North,Abuja,2020
+C00111,Customer 00111,HoReCa,Micro,Large,14,RT0008,D002,R1,North,Abuja,2022
+C00112,Customer 00112,General Trade,SME,Medium,21,RT0008,D002,R1,North,Abuja,2024
+C00113,Customer 00113,Wholesale,SME,Small,30,RT0008,D002,R1,North,Abuja,2018
+C00114,Customer 00114,General Trade,SME,Small,7,RT0008,D002,R1,North,Abuja,2018
+C00115,Customer 00115,General Trade,Key Account,Large,7,RT0008,D002,R1,North,Abuja,2019
+C00116,Customer 00116,Modern Trade,Mid-market,Large,30,RT0008,D002,R1,North,Abuja,2016
+C00117,Customer 00117,General Trade,Micro,Large,7,RT0008,D002,R1,North,Abuja,2021
+C00118,Customer 00118,General Trade,Micro,Small,30,RT0008,D002,R1,North,Abuja,2021
+C00119,Customer 00119,Modern Trade,SME,Small,7,RT0008,D002,R1,North,Abuja,2018
+C00120,Customer 00120,General Trade,Micro,Small,0,RT0008,D002,R1,North,Abuja,2024
+C00121,Customer 00121,HoReCa,Micro,Large,7,RT0008,D002,R1,North,Abuja,2019
+C00122,Customer 00122,Wholesale,SME,Small,30,RT0008,D002,R1,North,Abuja,2018
+C00123,Customer 00123,Wholesale,Key Account,Large,30,RT0009,D002,R1,North,Abuja,2020
+C00124,Customer 00124,General Trade,Mid-market,Medium,0,RT0009,D002,R1,North,Abuja,2023
+C00125,Customer 00125,General Trade,SME,Large,21,RT0009,D002,R1,North,Abuja,2018
+C00126,Customer 00126,General Trade,Key Account,Medium,0,RT0009,D002,R1,North,Abuja,2020
+C00127,Customer 00127,E-commerce,Mid-market,Large,30,RT0009,D002,R1,North,Abuja,2016
+C00128,Customer 00128,HoReCa,SME,Large,21,RT0009,D002,R1,North,Abuja,2021
+C00129,Customer 00129,Modern Trade,Micro,Medium,21,RT0009,D002,R1,North,Abuja,2023
+C00130,Customer 00130,General Trade,Mid-market,Small,7,RT0009,D002,R1,North,Abuja,2018
+C00131,Customer 00131,HoReCa,Mid-market,Medium,7,RT0009,D002,R1,North,Abuja,2023
+C00132,Customer 00132,E-commerce,SME,Medium,0,RT0009,D002,R1,North,Abuja,2022
+C00133,Customer 00133,General Trade,Micro,Small,14,RT0009,D002,R1,North,Abuja,2022
+C00134,Customer 00134,General Trade,Mid-market,Small,7,RT0009,D002,R1,North,Abuja,2020
+C00135,Customer 00135,General Trade,SME,Small,21,RT0009,D002,R1,North,Abuja,2017
+C00136,Customer 00136,General Trade,Key Account,Medium,21,RT0009,D002,R1,North,Abuja,2019
+C00137,Customer 00137,General Trade,Micro,Medium,0,RT0009,D002,R1,North,Abuja,2022
+C00138,Customer 00138,HoReCa,Mid-market,Large,30,RT0009,D002,R1,North,Abuja,2020
+C00139,Customer 00139,General Trade,Key Account,Large,30,RT0009,D002,R1,North,Abuja,2021
+C00140,Customer 00140,Modern Trade,SME,Small,0,RT0010,D002,R1,North,Abuja,2022
+C00141,Customer 00141,General Trade,Micro,Small,0,RT0010,D002,R1,North,Abuja,2017
+C00142,Customer 00142,General Trade,Micro,Small,21,RT0010,D002,R1,North,Abuja,2020
+C00143,Customer 00143,Wholesale,Mid-market,Large,30,RT0010,D002,R1,North,Abuja,2018
+C00144,Customer 00144,General Trade,Micro,Large,0,RT0010,D002,R1,North,Abuja,2022
+C00145,Customer 00145,HoReCa,Micro,Large,30,RT0010,D002,R1,North,Abuja,2020
+C00146,Customer 00146,General Trade,SME,Medium,21,RT0010,D002,R1,North,Abuja,2018
+C00147,Customer 00147,Wholesale,Micro,Small,21,RT0010,D002,R1,North,Abuja,2020
+C00148,Customer 00148,General Trade,Mid-market,Small,0,RT0010,D002,R1,North,Abuja,2020
+C00149,Customer 00149,Modern Trade,Key Account,Large,14,RT0010,D002,R1,North,Abuja,2023
+C00150,Customer 00150,E-commerce,Mid-market,Medium,0,RT0010,D002,R1,North,Abuja,2021
+C00151,Customer 00151,Modern Trade,Mid-market,Medium,14,RT0010,D002,R1,North,Abuja,2017
+C00152,Customer 00152,Modern Trade,SME,Small,14,RT0010,D002,R1,North,Abuja,2024
+C00153,Customer 00153,General Trade,Key Account,Medium,7,RT0011,D002,R1,North,Abuja,2021
+C00154,Customer 00154,General Trade,SME,Medium,21,RT0011,D002,R1,North,Abuja,2016
+C00155,Customer 00155,General Trade,Mid-market,Medium,30,RT0011,D002,R1,North,Abuja,2017
+C00156,Customer 00156,General Trade,SME,Medium,14,RT0011,D002,R1,North,Abuja,2016
+C00157,Customer 00157,General Trade,SME,Small,7,RT0011,D002,R1,North,Abuja,2016
+C00158,Customer 00158,General Trade,SME,Small,14,RT0011,D002,R1,North,Abuja,2021
+C00159,Customer 00159,Wholesale,Mid-market,Small,7,RT0011,D002,R1,North,Abuja,2021
+C00160,Customer 00160,Wholesale,Key Account,Large,0,RT0011,D002,R1,North,Abuja,2020
+C00161,Customer 00161,Wholesale,Micro,Medium,30,RT0011,D002,R1,North,Abuja,2019
+C00162,Customer 00162,Wholesale,Mid-market,Large,21,RT0011,D002,R1,North,Abuja,2022
+C00163,Customer 00163,General Trade,Key Account,Small,7,RT0012,D003,R1,North,Abuja,2022
+C00164,Customer 00164,Modern Trade,SME,Small,21,RT0012,D003,R1,North,Abuja,2019
+C00165,Customer 00165,General Trade,Micro,Medium,7,RT0012,D003,R1,North,Abuja,2016
+C00166,Customer 00166,General Trade,Key Account,Medium,7,RT0012,D003,R1,North,Abuja,2020
+C00167,Customer 00167,General Trade,Mid-market,Medium,0,RT0012,D003,R1,North,Abuja,2019
+C00168,Customer 00168,General Trade,Micro,Small,30,RT0012,D003,R1,North,Abuja,2019
+C00169,Customer 00169,Wholesale,SME,Medium,30,RT0012,D003,R1,North,Abuja,2020
+C00170,Customer 00170,Modern Trade,SME,Small,0,RT0012,D003,R1,North,Abuja,2019
+C00171,Customer 00171,Modern Trade,SME,Medium,21,RT0012,D003,R1,North,Abuja,2024
+C00172,Customer 00172,General Trade,SME,Small,7,RT0012,D003,R1,North,Abuja,2022
+C00173,Customer 00173,General Trade,Micro,Small,14,RT0012,D003,R1,North,Abuja,2021
+C00174,Customer 00174,General Trade,SME,Small,0,RT0012,D003,R1,North,Abuja,2019
+C00175,Customer 00175,General Trade,SME,Small,14,RT0012,D003,R1,North,Abuja,2021
+C00176,Customer 00176,General Trade,SME,Small,7,RT0012,D003,R1,North,Abuja,2023
+C00177,Customer 00177,General Trade,SME,Small,7,RT0012,D003,R1,North,Abuja,2018
+C00178,Customer 00178,General Trade,Micro,Small,7,RT0012,D003,R1,North,Abuja,2020
+C00179,Customer 00179,Modern Trade,Mid-market,Medium,21,RT0012,D003,R1,North,Abuja,2024
+C00180,Customer 00180,General Trade,SME,Small,14,RT0012,D003,R1,North,Abuja,2019
+C00181,Customer 00181,Modern Trade,Micro,Medium,21,RT0012,D003,R1,North,Abuja,2023
+C00182,Customer 00182,General Trade,Mid-market,Medium,0,RT0013,D003,R1,North,Abuja,2020
+C00183,Customer 00183,HoReCa,Key Account,Small,21,RT0013,D003,R1,North,Abuja,2023
+C00184,Customer 00184,General Trade,SME,Small,0,RT0013,D003,R1,North,Abuja,2024
+C00185,Customer 00185,E-commerce,Key Account,Large,21,RT0013,D003,R1,North,Abuja,2023
+C00186,Customer 00186,General Trade,SME,Small,14,RT0013,D003,R1,North,Abuja,2017
+C00187,Customer 00187,General Trade,SME,Medium,0,RT0013,D003,R1,North,Abuja,2021
+C00188,Customer 00188,E-commerce,Mid-market,Medium,21,RT0013,D003,R1,North,Abuja,2023
+C00189,Customer 00189,General Trade,SME,Medium,30,RT0013,D003,R1,North,Abuja,2021
+C00190,Customer 00190,General Trade,SME,Medium,14,RT0013,D003,R1,North,Abuja,2016
+C00191,Customer 00191,HoReCa,SME,Medium,7,RT0013,D003,R1,North,Abuja,2021
+C00192,Customer 00192,General Trade,SME,Small,14,RT0013,D003,R1,North,Abuja,2024
+C00193,Customer 00193,General Trade,Micro,Small,21,RT0013,D003,R1,North,Abuja,2022
+C00194,Customer 00194,Modern Trade,Micro,Medium,14,RT0013,D003,R1,North,Abuja,2019
+C00195,Customer 00195,Modern Trade,Micro,Medium,30,RT0013,D003,R1,North,Abuja,2019
+C00196,Customer 00196,Wholesale,Mid-market,Medium,0,RT0013,D003,R1,North,Abuja,2019
+C00197,Customer 00197,General Trade,SME,Small,7,RT0014,D003,R1,North,Abuja,2018
+C00198,Customer 00198,General Trade,Mid-market,Small,14,RT0014,D003,R1,North,Abuja,2021
+C00199,Customer 00199,Modern Trade,SME,Small,30,RT0014,D003,R1,North,Abuja,2020
+C00200,Customer 00200,General Trade,Key Account,Medium,7,RT0014,D003,R1,North,Abuja,2019
+C00201,Customer 00201,Modern Trade,SME,Medium,30,RT0014,D003,R1,North,Abuja,2022
+C00202,Customer 00202,Wholesale,Micro,Small,7,RT0014,D003,R1,North,Abuja,2016
+C00203,Customer 00203,Modern Trade,Micro,Small,30,RT0014,D003,R1,North,Abuja,2016
+C00204,Customer 00204,HoReCa,SME,Small,21,RT0014,D003,R1,North,Abuja,2018
+C00205,Customer 00205,General Trade,SME,Medium,14,RT0014,D003,R1,North,Abuja,2018
+C00206,Customer 00206,Modern Trade,Micro,Small,14,RT0014,D003,R1,North,Abuja,2017
+C00207,Customer 00207,General Trade,SME,Small,14,RT0014,D003,R1,North,Abuja,2022
+C00208,Customer 00208,General Trade,SME,Small,30,RT0014,D003,R1,North,Abuja,2020
+C00209,Customer 00209,Wholesale,SME,Small,21,RT0014,D003,R1,North,Abuja,2024
+C00210,Customer 00210,Modern Trade,Micro,Medium,14,RT0014,D003,R1,North,Abuja,2018
+C00211,Customer 00211,Modern Trade,SME,Medium,30,RT0014,D003,R1,North,Abuja,2019
+C00212,Customer 00212,General Trade,Micro,Small,21,RT0014,D003,R1,North,Abuja,2019
+C00213,Customer 00213,Modern Trade,Mid-market,Medium,21,RT0014,D003,R1,North,Abuja,2021
+C00214,Customer 00214,General Trade,Micro,Medium,0,RT0014,D003,R1,North,Abuja,2016
+C00215,Customer 00215,General Trade,SME,Medium,14,RT0014,D003,R1,North,Abuja,2018
+C00216,Customer 00216,General Trade,Micro,Small,14,RT0015,D003,R1,North,Abuja,2019
+C00217,Customer 00217,General Trade,Micro,Medium,30,RT0015,D003,R1,North,Abuja,2017
+C00218,Customer 00218,General Trade,Micro,Small,0,RT0015,D003,R1,North,Abuja,2016
+C00219,Customer 00219,General Trade,Micro,Small,7,RT0015,D003,R1,North,Abuja,2018
+C00220,Customer 00220,General Trade,Key Account,Medium,0,RT0015,D003,R1,North,Abuja,2022
+C00221,Customer 00221,General Trade,SME,Medium,14,RT0015,D003,R1,North,Abuja,2020
+C00222,Customer 00222,General Trade,SME,Medium,30,RT0015,D003,R1,North,Abuja,2021
+C00223,Customer 00223,Modern Trade,Micro,Small,0,RT0015,D003,R1,North,Abuja,2021
+C00224,Customer 00224,HoReCa,Mid-market,Medium,7,RT0015,D003,R1,North,Abuja,2020
+C00225,Customer 00225,General Trade,SME,Medium,7,RT0015,D003,R1,North,Abuja,2021
+C00226,Customer 00226,Wholesale,Micro,Small,14,RT0015,D003,R1,North,Abuja,2017
+C00227,Customer 00227,E-commerce,Micro,Small,30,RT0015,D003,R1,North,Abuja,2020
+C00228,Customer 00228,Modern Trade,Mid-market,Large,7,RT0015,D003,R1,North,Abuja,2022
+C00229,Customer 00229,Wholesale,Micro,Small,14,RT0015,D003,R1,North,Abuja,2018
+C00230,Customer 00230,General Trade,Mid-market,Large,14,RT0015,D003,R1,North,Abuja,2018
+C00231,Customer 00231,General Trade,SME,Medium,14,RT0015,D003,R1,North,Abuja,2023
+C00232,Customer 00232,General Trade,Micro,Medium,0,RT0015,D003,R1,North,Abuja,2023
+C00233,Customer 00233,General Trade,Micro,Small,21,RT0015,D003,R1,North,Abuja,2023
+C00234,Customer 00234,General Trade,Mid-market,Large,7,RT0016,D003,R1,North,Abuja,2016
+C00235,Customer 00235,General Trade,Mid-market,Large,14,RT0016,D003,R1,North,Abuja,2023
+C00236,Customer 00236,Modern Trade,SME,Small,21,RT0016,D003,R1,North,Abuja,2017
+C00237,Customer 00237,HoReCa,Micro,Small,30,RT0016,D003,R1,North,Abuja,2022
+C00238,Customer 00238,Modern Trade,Mid-market,Medium,21,RT0016,D003,R1,North,Abuja,2018
+C00239,Customer 00239,General Trade,Micro,Small,14,RT0016,D003,R1,North,Abuja,2023
+C00240,Customer 00240,Wholesale,Mid-market,Large,0,RT0016,D003,R1,North,Abuja,2016
+C00241,Customer 00241,Modern Trade,SME,Small,21,RT0016,D003,R1,North,Abuja,2017
+C00242,Customer 00242,General Trade,SME,Medium,14,RT0016,D003,R1,North,Abuja,2018
+C00243,Customer 00243,General Trade,Mid-market,Small,21,RT0016,D003,R1,North,Abuja,2018
+C00244,Customer 00244,General Trade,SME,Medium,14,RT0016,D003,R1,North,Abuja,2018
+C00245,Customer 00245,General Trade,Mid-market,Small,14,RT0016,D003,R1,North,Abuja,2023
+C00246,Customer 00246,Wholesale,Micro,Small,21,RT0016,D003,R1,North,Abuja,2019
+C00247,Customer 00247,Modern Trade,SME,Small,14,RT0016,D003,R1,North,Abuja,2024
+C00248,Customer 00248,General Trade,Mid-market,Medium,21,RT0016,D003,R1,North,Abuja,2021
+C00249,Customer 00249,General Trade,SME,Small,0,RT0017,D003,R1,North,Abuja,2018
+C00250,Customer 00250,E-commerce,Micro,Large,21,RT0017,D003,R1,North,Abuja,2017
+C00251,Customer 00251,Modern Trade,SME,Medium,0,RT0017,D003,R1,North,Abuja,2020
+C00252,Customer 00252,General Trade,SME,Medium,7,RT0017,D003,R1,North,Abuja,2019
+C00253,Customer 00253,General Trade,SME,Medium,30,RT0017,D003,R1,North,Abuja,2024
+C00254,Customer 00254,Wholesale,SME,Medium,14,RT0017,D003,R1,North,Abuja,2018
+C00255,Customer 00255,Wholesale,Key Account,Large,21,RT0017,D003,R1,North,Abuja,2021
+C00256,Customer 00256,Modern Trade,Micro,Medium,21,RT0017,D003,R1,North,Abuja,2016
+C00257,Customer 00257,General Trade,Mid-market,Medium,14,RT0017,D003,R1,North,Abuja,2021
+C00258,Customer 00258,General Trade,Mid-market,Medium,0,RT0017,D003,R1,North,Abuja,2016
+C00259,Customer 00259,General Trade,Micro,Medium,7,RT0017,D003,R1,North,Abuja,2018
+C00260,Customer 00260,General Trade,Micro,Medium,0,RT0017,D003,R1,North,Abuja,2017
+C00261,Customer 00261,General Trade,SME,Medium,0,RT0017,D003,R1,North,Abuja,2016
+C00262,Customer 00262,General Trade,Micro,Small,21,RT0017,D003,R1,North,Abuja,2021
+C00263,Customer 00263,General Trade,Mid-market,Small,14,RT0017,D003,R1,North,Abuja,2022
+C00264,Customer 00264,Modern Trade,SME,Small,30,RT0017,D003,R1,North,Abuja,2022
+C00265,Customer 00265,E-commerce,SME,Small,30,RT0018,D003,R1,North,Abuja,2022
+C00266,Customer 00266,Modern Trade,Mid-market,Medium,30,RT0018,D003,R1,North,Abuja,2018
+C00267,Customer 00267,General Trade,SME,Small,14,RT0018,D003,R1,North,Abuja,2024
+C00268,Customer 00268,General Trade,Mid-market,Small,30,RT0018,D003,R1,North,Abuja,2021
+C00269,Customer 00269,General Trade,Micro,Medium,21,RT0018,D003,R1,North,Abuja,2023
+C00270,Customer 00270,General Trade,Micro,Small,21,RT0018,D003,R1,North,Abuja,2022
+C00271,Customer 00271,Wholesale,SME,Small,21,RT0018,D003,R1,North,Abuja,2024
+C00272,Customer 00272,HoReCa,Key Account,Small,7,RT0018,D003,R1,North,Abuja,2022
+C00273,Customer 00273,Wholesale,Mid-market,Medium,30,RT0018,D003,R1,North,Abuja,2022
+C00274,Customer 00274,Modern Trade,SME,Small,14,RT0018,D003,R1,North,Abuja,2021
+C00275,Customer 00275,Modern Trade,Micro,Medium,30,RT0018,D003,R1,North,Abuja,2017
+C00276,Customer 00276,General Trade,Key Account,Medium,21,RT0018,D003,R1,North,Abuja,2024
+C00277,Customer 00277,General Trade,SME,Medium,0,RT0018,D003,R1,North,Abuja,2020
+C00278,Customer 00278,Wholesale,SME,Small,14,RT0018,D003,R1,North,Abuja,2022
+C00279,Customer 00279,Modern Trade,Key Account,Large,0,RT0018,D003,R1,North,Abuja,2022
+C00280,Customer 00280,General Trade,Micro,Small,7,RT0018,D003,R1,North,Abuja,2017
+C00281,Customer 00281,General Trade,Micro,Large,7,RT0018,D003,R1,North,Abuja,2020
+C00282,Customer 00282,Wholesale,Micro,Small,14,RT0018,D003,R1,North,Abuja,2019
+C00283,Customer 00283,Modern Trade,Key Account,Medium,14,RT0018,D003,R1,North,Abuja,2022
+C00284,Customer 00284,General Trade,SME,Small,14,RT0018,D003,R1,North,Abuja,2016
+C00285,Customer 00285,Modern Trade,SME,Medium,21,RT0019,D003,R1,North,Abuja,2022
+C00286,Customer 00286,General Trade,Micro,Small,0,RT0019,D003,R1,North,Abuja,2016
+C00287,Customer 00287,General Trade,Micro,Medium,21,RT0019,D003,R1,North,Abuja,2020
+C00288,Customer 00288,General Trade,Mid-market,Medium,7,RT0019,D003,R1,North,Abuja,2016
+C00289,Customer 00289,General Trade,SME,Medium,30,RT0019,D003,R1,North,Abuja,2023
+C00290,Customer 00290,Modern Trade,SME,Medium,30,RT0019,D003,R1,North,Abuja,2017
+C00291,Customer 00291,General Trade,Micro,Small,14,RT0019,D003,R1,North,Abuja,2021
+C00292,Customer 00292,General Trade,SME,Small,0,RT0019,D003,R1,North,Abuja,2016
+C00293,Customer 00293,Wholesale,Mid-market,Medium,14,RT0019,D003,R1,North,Abuja,2024
+C00294,Customer 00294,General Trade,SME,Medium,21,RT0019,D003,R1,North,Abuja,2017
+C00295,Customer 00295,Wholesale,SME,Small,7,RT0019,D003,R1,North,Abuja,2016
+C00296,Customer 00296,Wholesale,SME,Small,30,RT0019,D003,R1,North,Abuja,2022
+C00297,Customer 00297,General Trade,SME,Small,21,RT0019,D003,R1,North,Abuja,2021
+C00298,Customer 00298,HoReCa,Key Account,Small,14,RT0019,D003,R1,North,Abuja,2018
+C00299,Customer 00299,General Trade,Micro,Small,0,RT0019,D003,R1,North,Abuja,2022
+C00300,Customer 00300,General Trade,Micro,Small,14,RT0019,D003,R1,North,Abuja,2016
+C00301,Customer 00301,General Trade,Micro,Small,14,RT0019,D003,R1,North,Abuja,2019
+C00302,Customer 00302,General Trade,Micro,Small,14,RT0019,D003,R1,North,Abuja,2024
+C00303,Customer 00303,Modern Trade,Micro,Small,14,RT0019,D003,R1,North,Abuja,2018
+C00304,Customer 00304,General Trade,Micro,Small,21,RT0020,D004,R1,North,Kaduna,2017
+C00305,Customer 00305,General Trade,SME,Large,30,RT0020,D004,R1,North,Kaduna,2017
+C00306,Customer 00306,General Trade,Micro,Small,0,RT0020,D004,R1,North,Kaduna,2021
+C00307,Customer 00307,Modern Trade,Micro,Small,14,RT0020,D004,R1,North,Kaduna,2020
+C00308,Customer 00308,Wholesale,SME,Medium,14,RT0020,D004,R1,North,Kaduna,2023
+C00309,Customer 00309,General Trade,Mid-market,Medium,0,RT0020,D004,R1,North,Kaduna,2016
+C00310,Customer 00310,Wholesale,SME,Medium,14,RT0020,D004,R1,North,Kaduna,2022
+C00311,Customer 00311,General Trade,SME,Large,21,RT0020,D004,R1,North,Kaduna,2020
+C00312,Customer 00312,General Trade,Micro,Small,21,RT0020,D004,R1,North,Kaduna,2022
+C00313,Customer 00313,General Trade,Mid-market,Medium,0,RT0020,D004,R1,North,Kaduna,2018
+C00314,Customer 00314,HoReCa,SME,Medium,21,RT0020,D004,R1,North,Kaduna,2020
+C00315,Customer 00315,General Trade,SME,Small,7,RT0020,D004,R1,North,Kaduna,2022
+C00316,Customer 00316,General Trade,SME,Small,0,RT0020,D004,R1,North,Kaduna,2020
+C00317,Customer 00317,General Trade,Mid-market,Small,7,RT0020,D004,R1,North,Kaduna,2022
+C00318,Customer 00318,General Trade,SME,Medium,0,RT0020,D004,R1,North,Kaduna,2023
+C00319,Customer 00319,Modern Trade,SME,Small,7,RT0020,D004,R1,North,Kaduna,2021
+C00320,Customer 00320,General Trade,Micro,Small,14,RT0020,D004,R1,North,Kaduna,2021
+C00321,Customer 00321,General Trade,SME,Medium,21,RT0020,D004,R1,North,Kaduna,2018
+C00322,Customer 00322,E-commerce,Micro,Small,30,RT0021,D004,R1,North,Kaduna,2018
+C00323,Customer 00323,E-commerce,SME,Small,30,RT0021,D004,R1,North,Kaduna,2019
+C00324,Customer 00324,E-commerce,Micro,Medium,7,RT0021,D004,R1,North,Kaduna,2021
+C00325,Customer 00325,General Trade,Key Account,Large,0,RT0021,D004,R1,North,Kaduna,2019
+C00326,Customer 00326,E-commerce,SME,Small,30,RT0021,D004,R1,North,Kaduna,2017
+C00327,Customer 00327,Wholesale,Micro,Large,21,RT0021,D004,R1,North,Kaduna,2018
+C00328,Customer 00328,General Trade,Micro,Medium,14,RT0021,D004,R1,North,Kaduna,2018
+C00329,Customer 00329,General Trade,Mid-market,Medium,7,RT0021,D004,R1,North,Kaduna,2023
+C00330,Customer 00330,Wholesale,Mid-market,Medium,14,RT0021,D004,R1,North,Kaduna,2021
+C00331,Customer 00331,Wholesale,Micro,Medium,14,RT0021,D004,R1,North,Kaduna,2016
+C00332,Customer 00332,Wholesale,Mid-market,Medium,0,RT0021,D004,R1,North,Kaduna,2021
+C00333,Customer 00333,General Trade,SME,Large,0,RT0021,D004,R1,North,Kaduna,2016
+C00334,Customer 00334,General Trade,Micro,Small,7,RT0021,D004,R1,North,Kaduna,2016
+C00335,Customer 00335,Wholesale,SME,Medium,30,RT0021,D004,R1,North,Kaduna,2018
+C00336,Customer 00336,Wholesale,Key Account,Large,21,RT0021,D004,R1,North,Kaduna,2023
+C00337,Customer 00337,Modern Trade,Mid-market,Medium,21,RT0022,D004,R1,North,Kaduna,2023
+C00338,Customer 00338,Modern Trade,SME,Large,7,RT0022,D004,R1,North,Kaduna,2019
+C00339,Customer 00339,General Trade,Micro,Large,7,RT0022,D004,R1,North,Kaduna,2023
+C00340,Customer 00340,General Trade,Micro,Medium,21,RT0022,D004,R1,North,Kaduna,2016
+C00341,Customer 00341,E-commerce,Micro,Small,30,RT0022,D004,R1,North,Kaduna,2018
+C00342,Customer 00342,Wholesale,Mid-market,Medium,21,RT0022,D004,R1,North,Kaduna,2016
+C00343,Customer 00343,General Trade,Key Account,Medium,7,RT0022,D004,R1,North,Kaduna,2021
+C00344,Customer 00344,General Trade,Mid-market,Medium,0,RT0022,D004,R1,North,Kaduna,2023
+C00345,Customer 00345,Wholesale,SME,Small,30,RT0022,D004,R1,North,Kaduna,2017
+C00346,Customer 00346,General Trade,Mid-market,Large,0,RT0022,D004,R1,North,Kaduna,2021
+C00347,Customer 00347,E-commerce,Micro,Small,0,RT0022,D004,R1,North,Kaduna,2022
+C00348,Customer 00348,Modern Trade,Mid-market,Small,30,RT0022,D004,R1,North,Kaduna,2021
+C00349,Customer 00349,Wholesale,Micro,Small,21,RT0022,D004,R1,North,Kaduna,2019
+C00350,Customer 00350,General Trade,SME,Medium,14,RT0022,D004,R1,North,Kaduna,2023
+C00351,Customer 00351,General Trade,SME,Medium,14,RT0022,D004,R1,North,Kaduna,2022
+C00352,Customer 00352,General Trade,SME,Small,7,RT0022,D004,R1,North,Kaduna,2020
+C00353,Customer 00353,Modern Trade,Micro,Medium,30,RT0022,D004,R1,North,Kaduna,2020
+C00354,Customer 00354,Modern Trade,Key Account,Medium,14,RT0022,D004,R1,North,Kaduna,2020
+C00355,Customer 00355,General Trade,Mid-market,Medium,30,RT0022,D004,R1,North,Kaduna,2019
+C00356,Customer 00356,General Trade,Mid-market,Medium,7,RT0022,D004,R1,North,Kaduna,2018
+C00357,Customer 00357,Wholesale,Key Account,Large,30,RT0023,D004,R1,North,Kaduna,2018
+C00358,Customer 00358,General Trade,SME,Small,7,RT0023,D004,R1,North,Kaduna,2016
+C00359,Customer 00359,General Trade,Micro,Small,21,RT0023,D004,R1,North,Kaduna,2020
+C00360,Customer 00360,Wholesale,SME,Small,21,RT0023,D004,R1,North,Kaduna,2016
+C00361,Customer 00361,General Trade,Micro,Small,7,RT0023,D004,R1,North,Kaduna,2022
+C00362,Customer 00362,HoReCa,SME,Small,21,RT0023,D004,R1,North,Kaduna,2018
+C00363,Customer 00363,Wholesale,Micro,Medium,30,RT0023,D004,R1,North,Kaduna,2016
+C00364,Customer 00364,Wholesale,Micro,Small,30,RT0023,D004,R1,North,Kaduna,2018
+C00365,Customer 00365,Modern Trade,Micro,Medium,0,RT0023,D004,R1,North,Kaduna,2021
+C00366,Customer 00366,Modern Trade,Micro,Small,14,RT0023,D004,R1,North,Kaduna,2022
+C00367,Customer 00367,General Trade,SME,Medium,30,RT0023,D004,R1,North,Kaduna,2021
+C00368,Customer 00368,General Trade,Mid-market,Small,0,RT0023,D004,R1,North,Kaduna,2017
+C00369,Customer 00369,Modern Trade,Micro,Small,30,RT0023,D004,R1,North,Kaduna,2024
+C00370,Customer 00370,Wholesale,SME,Small,21,RT0023,D004,R1,North,Kaduna,2016
+C00371,Customer 00371,General Trade,Micro,Medium,0,RT0023,D004,R1,North,Kaduna,2020
+C00372,Customer 00372,Modern Trade,Micro,Medium,14,RT0024,D005,R2,South,Benin,2021
+C00373,Customer 00373,General Trade,SME,Medium,7,RT0024,D005,R2,South,Benin,2022
+C00374,Customer 00374,Wholesale,Micro,Large,14,RT0024,D005,R2,South,Benin,2018
+C00375,Customer 00375,Modern Trade,SME,Medium,30,RT0024,D005,R2,South,Benin,2021
+C00376,Customer 00376,General Trade,Mid-market,Medium,0,RT0024,D005,R2,South,Benin,2023
+C00377,Customer 00377,General Trade,Mid-market,Small,14,RT0024,D005,R2,South,Benin,2021
+C00378,Customer 00378,General Trade,Key Account,Medium,7,RT0024,D005,R2,South,Benin,2021
+C00379,Customer 00379,Modern Trade,SME,Small,30,RT0024,D005,R2,South,Benin,2020
+C00380,Customer 00380,Modern Trade,Mid-market,Medium,0,RT0024,D005,R2,South,Benin,2020
+C00381,Customer 00381,E-commerce,SME,Small,0,RT0024,D005,R2,South,Benin,2019
+C00382,Customer 00382,General Trade,Key Account,Large,7,RT0024,D005,R2,South,Benin,2018
+C00383,Customer 00383,HoReCa,Mid-market,Large,14,RT0024,D005,R2,South,Benin,2023
+C00384,Customer 00384,Modern Trade,Micro,Large,14,RT0024,D005,R2,South,Benin,2024
+C00385,Customer 00385,General Trade,SME,Small,14,RT0024,D005,R2,South,Benin,2017
+C00386,Customer 00386,Modern Trade,SME,Medium,30,RT0024,D005,R2,South,Benin,2020
+C00387,Customer 00387,General Trade,Mid-market,Small,0,RT0024,D005,R2,South,Benin,2019
+C00388,Customer 00388,General Trade,Micro,Small,7,RT0024,D005,R2,South,Benin,2021
+C00389,Customer 00389,E-commerce,Mid-market,Large,7,RT0025,D005,R2,South,Benin,2022
+C00390,Customer 00390,Wholesale,SME,Small,30,RT0025,D005,R2,South,Benin,2020
+C00391,Customer 00391,Wholesale,Mid-market,Large,30,RT0025,D005,R2,South,Benin,2023
+C00392,Customer 00392,General Trade,SME,Small,7,RT0025,D005,R2,South,Benin,2020
+C00393,Customer 00393,General Trade,Micro,Small,0,RT0025,D005,R2,South,Benin,2021
+C00394,Customer 00394,General Trade,Key Account,Large,30,RT0025,D005,R2,South,Benin,2020
+C00395,Customer 00395,General Trade,Micro,Small,7,RT0025,D005,R2,South,Benin,2020
+C00396,Customer 00396,Modern Trade,SME,Small,21,RT0025,D005,R2,South,Benin,2023
+C00397,Customer 00397,General Trade,Micro,Medium,7,RT0025,D005,R2,South,Benin,2020
+C00398,Customer 00398,Modern Trade,SME,Medium,21,RT0025,D005,R2,South,Benin,2024
+C00399,Customer 00399,General Trade,Key Account,Medium,7,RT0025,D005,R2,South,Benin,2018
+C00400,Customer 00400,General Trade,Mid-market,Small,30,RT0025,D005,R2,South,Benin,2018
+C00401,Customer 00401,Wholesale,Micro,Large,0,RT0025,D005,R2,South,Benin,2023
+C00402,Customer 00402,Modern Trade,SME,Medium,30,RT0025,D005,R2,South,Benin,2019
+C00403,Customer 00403,Wholesale,SME,Medium,30,RT0025,D005,R2,South,Benin,2018
+C00404,Customer 00404,E-commerce,Mid-market,Small,0,RT0025,D005,R2,South,Benin,2019
+C00405,Customer 00405,Modern Trade,Key Account,Small,30,RT0025,D005,R2,South,Benin,2022
+C00406,Customer 00406,Wholesale,Micro,Medium,0,RT0026,D005,R2,South,Benin,2020
+C00407,Customer 00407,General Trade,SME,Small,0,RT0026,D005,R2,South,Benin,2019
+C00408,Customer 00408,General Trade,Micro,Large,0,RT0026,D005,R2,South,Benin,2024
+C00409,Customer 00409,Modern Trade,Mid-market,Small,21,RT0026,D005,R2,South,Benin,2022
+C00410,Customer 00410,Wholesale,Key Account,Small,14,RT0026,D005,R2,South,Benin,2018
+C00411,Customer 00411,General Trade,Mid-market,Large,30,RT0026,D005,R2,South,Benin,2019
+C00412,Customer 00412,HoReCa,SME,Small,14,RT0026,D005,R2,South,Benin,2021
+C00413,Customer 00413,E-commerce,SME,Small,21,RT0026,D005,R2,South,Benin,2017
+C00414,Customer 00414,HoReCa,SME,Small,21,RT0026,D005,R2,South,Benin,2021
+C00415,Customer 00415,General Trade,SME,Small,21,RT0026,D005,R2,South,Benin,2022
+C00416,Customer 00416,Wholesale,SME,Small,7,RT0026,D005,R2,South,Benin,2022
+C00417,Customer 00417,General Trade,SME,Small,0,RT0026,D005,R2,South,Benin,2021
+C00418,Customer 00418,General Trade,Micro,Small,0,RT0026,D005,R2,South,Benin,2020
+C00419,Customer 00419,General Trade,Mid-market,Medium,0,RT0026,D005,R2,South,Benin,2022
+C00420,Customer 00420,General Trade,Mid-market,Medium,7,RT0026,D005,R2,South,Benin,2017
+C00421,Customer 00421,General Trade,Mid-market,Large,7,RT0026,D005,R2,South,Benin,2022
+C00422,Customer 00422,HoReCa,SME,Large,14,RT0026,D005,R2,South,Benin,2024
+C00423,Customer 00423,General Trade,SME,Small,7,RT0026,D005,R2,South,Benin,2021
+C00424,Customer 00424,Modern Trade,Mid-market,Medium,30,RT0027,D005,R2,South,Benin,2017
+C00425,Customer 00425,General Trade,Mid-market,Medium,30,RT0027,D005,R2,South,Benin,2018
+C00426,Customer 00426,General Trade,SME,Large,0,RT0027,D005,R2,South,Benin,2020
+C00427,Customer 00427,General Trade,Micro,Small,0,RT0027,D005,R2,South,Benin,2021
+C00428,Customer 00428,Wholesale,Key Account,Large,7,RT0027,D005,R2,South,Benin,2020
+C00429,Customer 00429,General Trade,Micro,Small,21,RT0027,D005,R2,South,Benin,2022
+C00430,Customer 00430,Modern Trade,Micro,Medium,0,RT0027,D005,R2,South,Benin,2019
+C00431,Customer 00431,HoReCa,Mid-market,Medium,30,RT0027,D005,R2,South,Benin,2016
+C00432,Customer 00432,Modern Trade,SME,Small,0,RT0027,D005,R2,South,Benin,2016
+C00433,Customer 00433,Modern Trade,Micro,Medium,21,RT0027,D005,R2,South,Benin,2016
+C00434,Customer 00434,Modern Trade,Mid-market,Large,30,RT0027,D005,R2,South,Benin,2022
+C00435,Customer 00435,HoReCa,Key Account,Medium,14,RT0027,D005,R2,South,Benin,2023
+C00436,Customer 00436,General Trade,Micro,Medium,0,RT0027,D005,R2,South,Benin,2019
+C00437,Customer 00437,Wholesale,SME,Small,7,RT0027,D005,R2,South,Benin,2017
+C00438,Customer 00438,Wholesale,SME,Small,14,RT0027,D005,R2,South,Benin,2019
+C00439,Customer 00439,General Trade,SME,Small,7,RT0027,D005,R2,South,Benin,2022
+C00440,Customer 00440,General Trade,SME,Small,14,RT0027,D005,R2,South,Benin,2021
+C00441,Customer 00441,Wholesale,SME,Small,30,RT0028,D005,R2,South,Benin,2021
+C00442,Customer 00442,General Trade,Mid-market,Small,30,RT0028,D005,R2,South,Benin,2022
+C00443,Customer 00443,HoReCa,SME,Small,0,RT0028,D005,R2,South,Benin,2021
+C00444,Customer 00444,Modern Trade,Micro,Small,21,RT0028,D005,R2,South,Benin,2021
+C00445,Customer 00445,Modern Trade,SME,Medium,7,RT0028,D005,R2,South,Benin,2022
+C00446,Customer 00446,Modern Trade,Micro,Medium,14,RT0028,D005,R2,South,Benin,2018
+C00447,Customer 00447,E-commerce,SME,Large,7,RT0028,D005,R2,South,Benin,2021
+C00448,Customer 00448,Wholesale,Micro,Small,30,RT0028,D005,R2,South,Benin,2020
+C00449,Customer 00449,General Trade,SME,Medium,30,RT0028,D005,R2,South,Benin,2020
+C00450,Customer 00450,General Trade,Key Account,Medium,7,RT0028,D005,R2,South,Benin,2022
+C00451,Customer 00451,General Trade,Micro,Large,14,RT0028,D005,R2,South,Benin,2023
+C00452,Customer 00452,Wholesale,SME,Small,21,RT0028,D005,R2,South,Benin,2021
+C00453,Customer 00453,Wholesale,SME,Medium,21,RT0028,D005,R2,South,Benin,2017
+C00454,Customer 00454,E-commerce,SME,Small,21,RT0028,D005,R2,South,Benin,2017
+C00455,Customer 00455,Modern Trade,SME,Small,30,RT0028,D005,R2,South,Benin,2020
+C00456,Customer 00456,General Trade,SME,Large,0,RT0028,D005,R2,South,Benin,2018
+C00457,Customer 00457,E-commerce,Mid-market,Large,30,RT0029,D005,R2,South,Benin,2024
+C00458,Customer 00458,E-commerce,SME,Large,30,RT0029,D005,R2,South,Benin,2017
+C00459,Customer 00459,General Trade,Micro,Small,14,RT0029,D005,R2,South,Benin,2021
+C00460,Customer 00460,General Trade,SME,Medium,14,RT0029,D005,R2,South,Benin,2016
+C00461,Customer 00461,General Trade,SME,Large,0,RT0029,D005,R2,South,Benin,2021
+C00462,Customer 00462,General Trade,SME,Medium,21,RT0029,D005,R2,South,Benin,2016
+C00463,Customer 00463,General Trade,Key Account,Medium,14,RT0029,D005,R2,South,Benin,2017
+C00464,Customer 00464,General Trade,SME,Large,30,RT0029,D005,R2,South,Benin,2016
+C00465,Customer 00465,Wholesale,SME,Small,30,RT0029,D005,R2,South,Benin,2023
+C00466,Customer 00466,HoReCa,SME,Small,30,RT0029,D005,R2,South,Benin,2018
+C00467,Customer 00467,Modern Trade,SME,Medium,14,RT0029,D005,R2,South,Benin,2017
+C00468,Customer 00468,General Trade,SME,Small,0,RT0030,D005,R2,South,Benin,2016
+C00469,Customer 00469,General Trade,Micro,Small,30,RT0030,D005,R2,South,Benin,2021
+C00470,Customer 00470,General Trade,SME,Small,21,RT0030,D005,R2,South,Benin,2018
+C00471,Customer 00471,General Trade,Micro,Large,30,RT0030,D005,R2,South,Benin,2019
+C00472,Customer 00472,Wholesale,SME,Small,7,RT0030,D005,R2,South,Benin,2021
+C00473,Customer 00473,General Trade,SME,Medium,0,RT0030,D005,R2,South,Benin,2016
+C00474,Customer 00474,General Trade,Micro,Small,7,RT0030,D005,R2,South,Benin,2022
+C00475,Customer 00475,Wholesale,SME,Medium,30,RT0030,D005,R2,South,Benin,2021
+C00476,Customer 00476,General Trade,Micro,Small,7,RT0030,D005,R2,South,Benin,2019
+C00477,Customer 00477,General Trade,Mid-market,Large,0,RT0030,D005,R2,South,Benin,2019
+C00478,Customer 00478,Modern Trade,Key Account,Large,14,RT0030,D005,R2,South,Benin,2018
+C00479,Customer 00479,General Trade,Mid-market,Small,21,RT0030,D005,R2,South,Benin,2024
+C00480,Customer 00480,General Trade,SME,Medium,21,RT0030,D005,R2,South,Benin,2019
+C00481,Customer 00481,HoReCa,Micro,Small,14,RT0031,D005,R2,South,Benin,2017
+C00482,Customer 00482,General Trade,Micro,Small,0,RT0031,D005,R2,South,Benin,2022
+C00483,Customer 00483,Modern Trade,Mid-market,Medium,14,RT0031,D005,R2,South,Benin,2022
+C00484,Customer 00484,General Trade,Mid-market,Medium,0,RT0031,D005,R2,South,Benin,2021
+C00485,Customer 00485,General Trade,SME,Large,14,RT0031,D005,R2,South,Benin,2017
+C00486,Customer 00486,Modern Trade,Micro,Medium,7,RT0031,D005,R2,South,Benin,2024
+C00487,Customer 00487,General Trade,Mid-market,Small,0,RT0031,D005,R2,South,Benin,2022
+C00488,Customer 00488,General Trade,Mid-market,Large,7,RT0031,D005,R2,South,Benin,2016
+C00489,Customer 00489,General Trade,Mid-market,Medium,14,RT0031,D005,R2,South,Benin,2017
+C00490,Customer 00490,General Trade,Micro,Medium,7,RT0031,D005,R2,South,Benin,2020
+C00491,Customer 00491,General Trade,SME,Small,7,RT0031,D005,R2,South,Benin,2023
+C00492,Customer 00492,General Trade,Micro,Small,21,RT0032,D006,R2,South,Port Harcourt,2024
+C00493,Customer 00493,General Trade,Mid-market,Medium,21,RT0032,D006,R2,South,Port Harcourt,2020
+C00494,Customer 00494,E-commerce,Key Account,Medium,30,RT0032,D006,R2,South,Port Harcourt,2023
+C00495,Customer 00495,General Trade,Micro,Small,7,RT0032,D006,R2,South,Port Harcourt,2017
+C00496,Customer 00496,Wholesale,Mid-market,Medium,14,RT0032,D006,R2,South,Port Harcourt,2023
+C00497,Customer 00497,Modern Trade,Micro,Small,21,RT0032,D006,R2,South,Port Harcourt,2021
+C00498,Customer 00498,Wholesale,Micro,Small,21,RT0032,D006,R2,South,Port Harcourt,2016
+C00499,Customer 00499,Modern Trade,Mid-market,Medium,14,RT0032,D006,R2,South,Port Harcourt,2021
+C00500,Customer 00500,General Trade,Micro,Small,0,RT0032,D006,R2,South,Port Harcourt,2022
+C00501,Customer 00501,General Trade,SME,Medium,7,RT0032,D006,R2,South,Port Harcourt,2016
+C00502,Customer 00502,HoReCa,SME,Medium,21,RT0033,D006,R2,South,Port Harcourt,2017
+C00503,Customer 00503,General Trade,Micro,Small,0,RT0033,D006,R2,South,Port Harcourt,2018
+C00504,Customer 00504,General Trade,Micro,Small,14,RT0033,D006,R2,South,Port Harcourt,2017
+C00505,Customer 00505,E-commerce,Mid-market,Medium,30,RT0033,D006,R2,South,Port Harcourt,2022
+C00506,Customer 00506,General Trade,SME,Small,0,RT0033,D006,R2,South,Port Harcourt,2018
+C00507,Customer 00507,General Trade,Mid-market,Medium,14,RT0033,D006,R2,South,Port Harcourt,2024
+C00508,Customer 00508,Modern Trade,Key Account,Small,30,RT0033,D006,R2,South,Port Harcourt,2018
+C00509,Customer 00509,General Trade,SME,Medium,14,RT0033,D006,R2,South,Port Harcourt,2018
+C00510,Customer 00510,General Trade,Micro,Small,14,RT0033,D006,R2,South,Port Harcourt,2022
+C00511,Customer 00511,Modern Trade,SME,Small,21,RT0033,D006,R2,South,Port Harcourt,2023
+C00512,Customer 00512,HoReCa,Mid-market,Small,30,RT0033,D006,R2,South,Port Harcourt,2022
+C00513,Customer 00513,HoReCa,Mid-market,Medium,30,RT0033,D006,R2,South,Port Harcourt,2021
+C00514,Customer 00514,General Trade,Key Account,Medium,0,RT0033,D006,R2,South,Port Harcourt,2020
+C00515,Customer 00515,HoReCa,SME,Medium,7,RT0033,D006,R2,South,Port Harcourt,2021
+C00516,Customer 00516,E-commerce,Mid-market,Small,14,RT0033,D006,R2,South,Port Harcourt,2016
+C00517,Customer 00517,Wholesale,Micro,Small,14,RT0033,D006,R2,South,Port Harcourt,2019
+C00518,Customer 00518,General Trade,Micro,Small,14,RT0034,D006,R2,South,Port Harcourt,2021
+C00519,Customer 00519,Wholesale,Mid-market,Medium,30,RT0034,D006,R2,South,Port Harcourt,2016
+C00520,Customer 00520,HoReCa,Key Account,Medium,0,RT0034,D006,R2,South,Port Harcourt,2016
+C00521,Customer 00521,HoReCa,SME,Small,7,RT0034,D006,R2,South,Port Harcourt,2021
+C00522,Customer 00522,Modern Trade,SME,Small,30,RT0034,D006,R2,South,Port Harcourt,2019
+C00523,Customer 00523,General Trade,Mid-market,Large,7,RT0034,D006,R2,South,Port Harcourt,2020
+C00524,Customer 00524,General Trade,Micro,Small,21,RT0034,D006,R2,South,Port Harcourt,2019
+C00525,Customer 00525,General Trade,Micro,Small,21,RT0034,D006,R2,South,Port Harcourt,2023
+C00526,Customer 00526,Wholesale,Key Account,Large,14,RT0034,D006,R2,South,Port Harcourt,2023
+C00527,Customer 00527,Modern Trade,Micro,Small,21,RT0034,D006,R2,South,Port Harcourt,2017
+C00528,Customer 00528,Wholesale,SME,Small,30,RT0034,D006,R2,South,Port Harcourt,2021
+C00529,Customer 00529,General Trade,SME,Small,7,RT0034,D006,R2,South,Port Harcourt,2016
+C00530,Customer 00530,General Trade,Mid-market,Medium,0,RT0034,D006,R2,South,Port Harcourt,2019
+C00531,Customer 00531,HoReCa,Mid-market,Medium,30,RT0034,D006,R2,South,Port Harcourt,2024
+C00532,Customer 00532,Wholesale,Micro,Medium,21,RT0034,D006,R2,South,Port Harcourt,2022
+C00533,Customer 00533,General Trade,Micro,Small,14,RT0034,D006,R2,South,Port Harcourt,2018
+C00534,Customer 00534,Wholesale,Key Account,Large,30,RT0034,D006,R2,South,Port Harcourt,2018
+C00535,Customer 00535,Wholesale,Micro,Medium,14,RT0034,D006,R2,South,Port Harcourt,2018
+C00536,Customer 00536,General Trade,Micro,Small,21,RT0035,D006,R2,South,Port Harcourt,2019
+C00537,Customer 00537,Modern Trade,Micro,Medium,14,RT0035,D006,R2,South,Port Harcourt,2020
+C00538,Customer 00538,General Trade,Key Account,Medium,7,RT0035,D006,R2,South,Port Harcourt,2019
+C00539,Customer 00539,Wholesale,SME,Small,14,RT0035,D006,R2,South,Port Harcourt,2022
+C00540,Customer 00540,Wholesale,SME,Medium,14,RT0035,D006,R2,South,Port Harcourt,2020
+C00541,Customer 00541,General Trade,SME,Medium,30,RT0035,D006,R2,South,Port Harcourt,2017
+C00542,Customer 00542,Modern Trade,SME,Small,7,RT0035,D006,R2,South,Port Harcourt,2018
+C00543,Customer 00543,General Trade,Mid-market,Medium,7,RT0035,D006,R2,South,Port Harcourt,2022
+C00544,Customer 00544,Modern Trade,Micro,Small,30,RT0035,D006,R2,South,Port Harcourt,2023
+C00545,Customer 00545,Modern Trade,SME,Medium,7,RT0035,D006,R2,South,Port Harcourt,2019
+C00546,Customer 00546,Modern Trade,Key Account,Large,21,RT0036,D006,R2,South,Port Harcourt,2020
+C00547,Customer 00547,HoReCa,SME,Large,21,RT0036,D006,R2,South,Port Harcourt,2017
+C00548,Customer 00548,Wholesale,SME,Medium,30,RT0036,D006,R2,South,Port Harcourt,2022
+C00549,Customer 00549,Modern Trade,Micro,Medium,14,RT0036,D006,R2,South,Port Harcourt,2023
+C00550,Customer 00550,General Trade,Micro,Medium,21,RT0036,D006,R2,South,Port Harcourt,2021
+C00551,Customer 00551,Wholesale,SME,Medium,7,RT0036,D006,R2,South,Port Harcourt,2017
+C00552,Customer 00552,General Trade,SME,Small,21,RT0036,D006,R2,South,Port Harcourt,2019
+C00553,Customer 00553,General Trade,Key Account,Medium,14,RT0036,D006,R2,South,Port Harcourt,2016
+C00554,Customer 00554,General Trade,Mid-market,Small,7,RT0036,D006,R2,South,Port Harcourt,2017
+C00555,Customer 00555,Wholesale,Micro,Small,30,RT0036,D006,R2,South,Port Harcourt,2020
+C00556,Customer 00556,General Trade,Micro,Small,30,RT0036,D006,R2,South,Port Harcourt,2016
+C00557,Customer 00557,General Trade,Key Account,Medium,14,RT0036,D006,R2,South,Port Harcourt,2022
+C00558,Customer 00558,General Trade,SME,Small,7,RT0036,D006,R2,South,Port Harcourt,2023
+C00559,Customer 00559,General Trade,Micro,Medium,7,RT0036,D006,R2,South,Port Harcourt,2021
+C00560,Customer 00560,General Trade,Mid-market,Small,14,RT0036,D006,R2,South,Port Harcourt,2019
+C00561,Customer 00561,Wholesale,Micro,Medium,21,RT0037,D006,R2,South,Port Harcourt,2017
+C00562,Customer 00562,Modern Trade,SME,Medium,7,RT0037,D006,R2,South,Port Harcourt,2017
+C00563,Customer 00563,HoReCa,Micro,Large,30,RT0037,D006,R2,South,Port Harcourt,2021
+C00564,Customer 00564,Modern Trade,Micro,Small,21,RT0037,D006,R2,South,Port Harcourt,2017
+C00565,Customer 00565,General Trade,Micro,Small,0,RT0037,D006,R2,South,Port Harcourt,2018
+C00566,Customer 00566,General Trade,Mid-market,Medium,30,RT0037,D006,R2,South,Port Harcourt,2020
+C00567,Customer 00567,General Trade,Key Account,Medium,7,RT0037,D006,R2,South,Port Harcourt,2022
+C00568,Customer 00568,Modern Trade,Micro,Small,21,RT0037,D006,R2,South,Port Harcourt,2018
+C00569,Customer 00569,HoReCa,SME,Small,14,RT0037,D006,R2,South,Port Harcourt,2017
+C00570,Customer 00570,Modern Trade,Mid-market,Medium,14,RT0037,D006,R2,South,Port Harcourt,2021
+C00571,Customer 00571,Wholesale,Micro,Medium,7,RT0037,D006,R2,South,Port Harcourt,2016
+C00572,Customer 00572,Modern Trade,SME,Small,0,RT0037,D006,R2,South,Port Harcourt,2018
+C00573,Customer 00573,General Trade,Micro,Small,14,RT0037,D006,R2,South,Port Harcourt,2016
+C00574,Customer 00574,Modern Trade,SME,Medium,30,RT0037,D006,R2,South,Port Harcourt,2019
+C00575,Customer 00575,HoReCa,Micro,Medium,30,RT0037,D006,R2,South,Port Harcourt,2018
+C00576,Customer 00576,Modern Trade,Key Account,Small,30,RT0037,D006,R2,South,Port Harcourt,2019
+C00577,Customer 00577,Wholesale,Micro,Medium,30,RT0037,D006,R2,South,Port Harcourt,2018
+C00578,Customer 00578,General Trade,SME,Small,0,RT0037,D006,R2,South,Port Harcourt,2019
+C00579,Customer 00579,Wholesale,SME,Small,21,RT0037,D006,R2,South,Port Harcourt,2018
+C00580,Customer 00580,General Trade,Micro,Medium,7,RT0038,D007,R3,East,Owerri,2017
+C00581,Customer 00581,General Trade,Key Account,Large,7,RT0038,D007,R3,East,Owerri,2019
+C00582,Customer 00582,General Trade,Key Account,Medium,21,RT0038,D007,R3,East,Owerri,2021
+C00583,Customer 00583,General Trade,SME,Small,21,RT0038,D007,R3,East,Owerri,2019
+C00584,Customer 00584,General Trade,SME,Medium,7,RT0038,D007,R3,East,Owerri,2020
+C00585,Customer 00585,General Trade,Micro,Small,30,RT0038,D007,R3,East,Owerri,2020
+C00586,Customer 00586,HoReCa,Micro,Small,30,RT0038,D007,R3,East,Owerri,2017
+C00587,Customer 00587,HoReCa,SME,Small,21,RT0038,D007,R3,East,Owerri,2024
+C00588,Customer 00588,General Trade,SME,Medium,21,RT0038,D007,R3,East,Owerri,2019
+C00589,Customer 00589,General Trade,Key Account,Medium,7,RT0038,D007,R3,East,Owerri,2024
+C00590,Customer 00590,General Trade,SME,Small,0,RT0038,D007,R3,East,Owerri,2020
+C00591,Customer 00591,General Trade,SME,Large,14,RT0038,D007,R3,East,Owerri,2024
+C00592,Customer 00592,HoReCa,SME,Medium,21,RT0038,D007,R3,East,Owerri,2016
+C00593,Customer 00593,Wholesale,Mid-market,Medium,30,RT0038,D007,R3,East,Owerri,2016
+C00594,Customer 00594,General Trade,Micro,Medium,0,RT0038,D007,R3,East,Owerri,2021
+C00595,Customer 00595,General Trade,Micro,Medium,0,RT0039,D007,R3,East,Owerri,2022
+C00596,Customer 00596,General Trade,Micro,Large,0,RT0039,D007,R3,East,Owerri,2023
+C00597,Customer 00597,Modern Trade,Micro,Small,30,RT0039,D007,R3,East,Owerri,2016
+C00598,Customer 00598,General Trade,Key Account,Large,21,RT0039,D007,R3,East,Owerri,2023
+C00599,Customer 00599,HoReCa,Mid-market,Medium,0,RT0039,D007,R3,East,Owerri,2018
+C00600,Customer 00600,General Trade,SME,Small,0,RT0039,D007,R3,East,Owerri,2017
+C00601,Customer 00601,General Trade,Micro,Medium,30,RT0039,D007,R3,East,Owerri,2019
+C00602,Customer 00602,General Trade,Micro,Small,7,RT0039,D007,R3,East,Owerri,2018
+C00603,Customer 00603,General Trade,Mid-market,Medium,14,RT0039,D007,R3,East,Owerri,2016
+C00604,Customer 00604,General Trade,Micro,Small,7,RT0039,D007,R3,East,Owerri,2023
+C00605,Customer 00605,General Trade,Mid-market,Medium,7,RT0039,D007,R3,East,Owerri,2021
+C00606,Customer 00606,Wholesale,Mid-market,Medium,21,RT0039,D007,R3,East,Owerri,2017
+C00607,Customer 00607,Modern Trade,Mid-market,Medium,0,RT0039,D007,R3,East,Owerri,2020
+C00608,Customer 00608,General Trade,Micro,Small,7,RT0039,D007,R3,East,Owerri,2020
+C00609,Customer 00609,Wholesale,SME,Medium,30,RT0039,D007,R3,East,Owerri,2023
+C00610,Customer 00610,General Trade,SME,Medium,30,RT0039,D007,R3,East,Owerri,2023
+C00611,Customer 00611,General Trade,Mid-market,Medium,21,RT0039,D007,R3,East,Owerri,2020
+C00612,Customer 00612,General Trade,Micro,Small,21,RT0039,D007,R3,East,Owerri,2019
+C00613,Customer 00613,General Trade,SME,Medium,0,RT0039,D007,R3,East,Owerri,2017
+C00614,Customer 00614,HoReCa,Mid-market,Medium,21,RT0039,D007,R3,East,Owerri,2020
+C00615,Customer 00615,General Trade,SME,Small,14,RT0040,D007,R3,East,Owerri,2017
+C00616,Customer 00616,Modern Trade,Mid-market,Medium,7,RT0040,D007,R3,East,Owerri,2017
+C00617,Customer 00617,Wholesale,Mid-market,Large,30,RT0040,D007,R3,East,Owerri,2021
+C00618,Customer 00618,General Trade,SME,Medium,7,RT0040,D007,R3,East,Owerri,2016
+C00619,Customer 00619,Modern Trade,Micro,Medium,7,RT0040,D007,R3,East,Owerri,2021
+C00620,Customer 00620,General Trade,Mid-market,Large,0,RT0040,D007,R3,East,Owerri,2018
+C00621,Customer 00621,General Trade,Micro,Medium,14,RT0040,D007,R3,East,Owerri,2022
+C00622,Customer 00622,General Trade,SME,Small,0,RT0040,D007,R3,East,Owerri,2020
+C00623,Customer 00623,HoReCa,Key Account,Medium,7,RT0040,D007,R3,East,Owerri,2018
+C00624,Customer 00624,HoReCa,SME,Small,30,RT0040,D007,R3,East,Owerri,2017
+C00625,Customer 00625,General Trade,SME,Small,30,RT0040,D007,R3,East,Owerri,2022
+C00626,Customer 00626,General Trade,Micro,Small,0,RT0040,D007,R3,East,Owerri,2018
+C00627,Customer 00627,General Trade,SME,Medium,30,RT0040,D007,R3,East,Owerri,2020
+C00628,Customer 00628,General Trade,Key Account,Small,14,RT0040,D007,R3,East,Owerri,2019
+C00629,Customer 00629,Wholesale,Mid-market,Small,21,RT0040,D007,R3,East,Owerri,2018
+C00630,Customer 00630,Wholesale,Micro,Small,30,RT0041,D007,R3,East,Owerri,2021
+C00631,Customer 00631,Modern Trade,Mid-market,Small,21,RT0041,D007,R3,East,Owerri,2021
+C00632,Customer 00632,General Trade,SME,Medium,21,RT0041,D007,R3,East,Owerri,2023
+C00633,Customer 00633,General Trade,SME,Medium,7,RT0041,D007,R3,East,Owerri,2016
+C00634,Customer 00634,General Trade,SME,Small,7,RT0041,D007,R3,East,Owerri,2018
+C00635,Customer 00635,General Trade,SME,Small,14,RT0041,D007,R3,East,Owerri,2017
+C00636,Customer 00636,General Trade,SME,Small,14,RT0041,D007,R3,East,Owerri,2019
+C00637,Customer 00637,HoReCa,SME,Small,21,RT0041,D007,R3,East,Owerri,2020
+C00638,Customer 00638,General Trade,SME,Medium,0,RT0041,D007,R3,East,Owerri,2017
+C00639,Customer 00639,General Trade,Micro,Small,30,RT0041,D007,R3,East,Owerri,2020
+C00640,Customer 00640,HoReCa,SME,Small,7,RT0042,D007,R3,East,Owerri,2018
+C00641,Customer 00641,Wholesale,Mid-market,Medium,21,RT0042,D007,R3,East,Owerri,2023
+C00642,Customer 00642,General Trade,Key Account,Small,30,RT0042,D007,R3,East,Owerri,2021
+C00643,Customer 00643,General Trade,Mid-market,Medium,0,RT0042,D007,R3,East,Owerri,2024
+C00644,Customer 00644,Wholesale,SME,Medium,14,RT0042,D007,R3,East,Owerri,2022
+C00645,Customer 00645,Wholesale,SME,Medium,14,RT0042,D007,R3,East,Owerri,2018
+C00646,Customer 00646,General Trade,SME,Medium,30,RT0042,D007,R3,East,Owerri,2021
+C00647,Customer 00647,Wholesale,Micro,Small,21,RT0042,D007,R3,East,Owerri,2017
+C00648,Customer 00648,Modern Trade,Micro,Small,30,RT0042,D007,R3,East,Owerri,2021
+C00649,Customer 00649,Modern Trade,SME,Small,0,RT0042,D007,R3,East,Owerri,2018
+C00650,Customer 00650,General Trade,SME,Small,21,RT0042,D007,R3,East,Owerri,2020
+C00651,Customer 00651,Modern Trade,SME,Small,30,RT0042,D007,R3,East,Owerri,2016
+C00652,Customer 00652,General Trade,Micro,Small,0,RT0042,D007,R3,East,Owerri,2019
+C00653,Customer 00653,General Trade,SME,Small,30,RT0042,D007,R3,East,Owerri,2022
+C00654,Customer 00654,Modern Trade,SME,Medium,14,RT0042,D007,R3,East,Owerri,2023
+C00655,Customer 00655,Wholesale,Micro,Small,14,RT0042,D007,R3,East,Owerri,2019
+C00656,Customer 00656,Wholesale,Key Account,Large,14,RT0042,D007,R3,East,Owerri,2017
+C00657,Customer 00657,General Trade,SME,Small,30,RT0043,D007,R3,East,Owerri,2021
+C00658,Customer 00658,General Trade,SME,Medium,21,RT0043,D007,R3,East,Owerri,2016
+C00659,Customer 00659,HoReCa,Micro,Small,0,RT0043,D007,R3,East,Owerri,2020
+C00660,Customer 00660,General Trade,Micro,Small,30,RT0043,D007,R3,East,Owerri,2021
+C00661,Customer 00661,General Trade,Mid-market,Medium,21,RT0043,D007,R3,East,Owerri,2022
+C00662,Customer 00662,General Trade,Mid-market,Small,14,RT0043,D007,R3,East,Owerri,2016
+C00663,Customer 00663,General Trade,SME,Large,7,RT0043,D007,R3,East,Owerri,2018
+C00664,Customer 00664,Modern Trade,SME,Small,30,RT0043,D007,R3,East,Owerri,2023
+C00665,Customer 00665,General Trade,Mid-market,Medium,21,RT0043,D007,R3,East,Owerri,2016
+C00666,Customer 00666,Modern Trade,SME,Small,21,RT0043,D007,R3,East,Owerri,2024
+C00667,Customer 00667,General Trade,SME,Small,30,RT0043,D007,R3,East,Owerri,2024
+C00668,Customer 00668,General Trade,Micro,Small,14,RT0043,D007,R3,East,Owerri,2018
+C00669,Customer 00669,General Trade,Mid-market,Medium,0,RT0043,D007,R3,East,Owerri,2023
+C00670,Customer 00670,General Trade,Mid-market,Large,14,RT0044,D008,R3,East,Owerri,2018
+C00671,Customer 00671,General Trade,Micro,Large,0,RT0044,D008,R3,East,Owerri,2023
+C00672,Customer 00672,HoReCa,Micro,Medium,21,RT0044,D008,R3,East,Owerri,2019
+C00673,Customer 00673,Wholesale,SME,Medium,14,RT0044,D008,R3,East,Owerri,2022
+C00674,Customer 00674,Wholesale,Mid-market,Large,21,RT0044,D008,R3,East,Owerri,2023
+C00675,Customer 00675,General Trade,SME,Large,0,RT0044,D008,R3,East,Owerri,2023
+C00676,Customer 00676,General Trade,SME,Small,14,RT0044,D008,R3,East,Owerri,2019
+C00677,Customer 00677,General Trade,Mid-market,Small,30,RT0044,D008,R3,East,Owerri,2024
+C00678,Customer 00678,General Trade,Micro,Small,14,RT0044,D008,R3,East,Owerri,2022
+C00679,Customer 00679,HoReCa,SME,Medium,14,RT0044,D008,R3,East,Owerri,2024
+C00680,Customer 00680,General Trade,SME,Medium,14,RT0044,D008,R3,East,Owerri,2017
+C00681,Customer 00681,HoReCa,Mid-market,Medium,14,RT0044,D008,R3,East,Owerri,2018
+C00682,Customer 00682,Modern Trade,SME,Small,7,RT0044,D008,R3,East,Owerri,2019
+C00683,Customer 00683,Wholesale,Micro,Medium,14,RT0045,D008,R3,East,Owerri,2022
+C00684,Customer 00684,General Trade,Mid-market,Medium,0,RT0045,D008,R3,East,Owerri,2018
+C00685,Customer 00685,Wholesale,Micro,Small,14,RT0045,D008,R3,East,Owerri,2018
+C00686,Customer 00686,General Trade,Key Account,Large,0,RT0045,D008,R3,East,Owerri,2019
+C00687,Customer 00687,General Trade,Micro,Medium,30,RT0045,D008,R3,East,Owerri,2022
+C00688,Customer 00688,General Trade,Mid-market,Medium,7,RT0045,D008,R3,East,Owerri,2021
+C00689,Customer 00689,General Trade,Key Account,Medium,14,RT0045,D008,R3,East,Owerri,2022
+C00690,Customer 00690,General Trade,SME,Small,0,RT0045,D008,R3,East,Owerri,2019
+C00691,Customer 00691,General Trade,Mid-market,Medium,0,RT0045,D008,R3,East,Owerri,2016
+C00692,Customer 00692,General Trade,Mid-market,Small,14,RT0045,D008,R3,East,Owerri,2018
+C00693,Customer 00693,General Trade,SME,Medium,21,RT0045,D008,R3,East,Owerri,2022
+C00694,Customer 00694,Wholesale,SME,Medium,21,RT0045,D008,R3,East,Owerri,2018
+C00695,Customer 00695,General Trade,Mid-market,Large,14,RT0045,D008,R3,East,Owerri,2022
+C00696,Customer 00696,General Trade,SME,Small,0,RT0045,D008,R3,East,Owerri,2022
+C00697,Customer 00697,Modern Trade,SME,Medium,14,RT0045,D008,R3,East,Owerri,2024
+C00698,Customer 00698,General Trade,SME,Small,0,RT0045,D008,R3,East,Owerri,2017
+C00699,Customer 00699,Modern Trade,Micro,Medium,7,RT0045,D008,R3,East,Owerri,2020
+C00700,Customer 00700,General Trade,Key Account,Medium,14,RT0045,D008,R3,East,Owerri,2016
+C00701,Customer 00701,General Trade,Mid-market,Large,0,RT0046,D008,R3,East,Owerri,2024
+C00702,Customer 00702,E-commerce,Micro,Medium,21,RT0046,D008,R3,East,Owerri,2023
+C00703,Customer 00703,General Trade,SME,Medium,7,RT0046,D008,R3,East,Owerri,2019
+C00704,Customer 00704,General Trade,SME,Medium,0,RT0046,D008,R3,East,Owerri,2023
+C00705,Customer 00705,Modern Trade,Micro,Small,30,RT0046,D008,R3,East,Owerri,2016
+C00706,Customer 00706,Wholesale,Key Account,Large,30,RT0046,D008,R3,East,Owerri,2018
+C00707,Customer 00707,General Trade,Micro,Small,21,RT0046,D008,R3,East,Owerri,2017
+C00708,Customer 00708,General Trade,Micro,Medium,21,RT0046,D008,R3,East,Owerri,2019
+C00709,Customer 00709,Modern Trade,SME,Medium,21,RT0046,D008,R3,East,Owerri,2021
+C00710,Customer 00710,General Trade,Mid-market,Large,0,RT0046,D008,R3,East,Owerri,2021
+C00711,Customer 00711,General Trade,SME,Medium,0,RT0046,D008,R3,East,Owerri,2016
+C00712,Customer 00712,General Trade,SME,Medium,0,RT0046,D008,R3,East,Owerri,2022
+C00713,Customer 00713,General Trade,SME,Large,7,RT0046,D008,R3,East,Owerri,2020
+C00714,Customer 00714,Modern Trade,Micro,Medium,21,RT0047,D008,R3,East,Owerri,2022
+C00715,Customer 00715,Modern Trade,Micro,Small,21,RT0047,D008,R3,East,Owerri,2022
+C00716,Customer 00716,General Trade,Micro,Small,0,RT0047,D008,R3,East,Owerri,2016
+C00717,Customer 00717,General Trade,SME,Medium,0,RT0047,D008,R3,East,Owerri,2022
+C00718,Customer 00718,Wholesale,Mid-market,Large,30,RT0047,D008,R3,East,Owerri,2022
+C00719,Customer 00719,Wholesale,Micro,Medium,14,RT0047,D008,R3,East,Owerri,2022
+C00720,Customer 00720,Modern Trade,SME,Small,30,RT0047,D008,R3,East,Owerri,2016
+C00721,Customer 00721,HoReCa,SME,Small,21,RT0047,D008,R3,East,Owerri,2016
+C00722,Customer 00722,Modern Trade,Micro,Medium,7,RT0047,D008,R3,East,Owerri,2017
+C00723,Customer 00723,Wholesale,Micro,Small,21,RT0047,D008,R3,East,Owerri,2018
+C00724,Customer 00724,HoReCa,SME,Small,14,RT0047,D008,R3,East,Owerri,2023
+C00725,Customer 00725,General Trade,SME,Small,0,RT0047,D008,R3,East,Owerri,2016
+C00726,Customer 00726,Wholesale,Micro,Medium,30,RT0047,D008,R3,East,Owerri,2020
+C00727,Customer 00727,Wholesale,SME,Medium,30,RT0047,D008,R3,East,Owerri,2018
+C00728,Customer 00728,General Trade,SME,Small,0,RT0047,D008,R3,East,Owerri,2022
+C00729,Customer 00729,E-commerce,SME,Small,0,RT0047,D008,R3,East,Owerri,2023
+C00730,Customer 00730,General Trade,SME,Small,7,RT0047,D008,R3,East,Owerri,2020
+C00731,Customer 00731,Wholesale,SME,Medium,14,RT0047,D008,R3,East,Owerri,2022
+C00732,Customer 00732,Modern Trade,SME,Medium,30,RT0048,D009,R3,East,Owerri,2023
+C00733,Customer 00733,General Trade,Micro,Medium,0,RT0048,D009,R3,East,Owerri,2016
+C00734,Customer 00734,General Trade,SME,Medium,21,RT0048,D009,R3,East,Owerri,2017
+C00735,Customer 00735,General Trade,Micro,Small,7,RT0048,D009,R3,East,Owerri,2021
+C00736,Customer 00736,Modern Trade,Mid-market,Small,7,RT0048,D009,R3,East,Owerri,2021
+C00737,Customer 00737,Modern Trade,Mid-market,Medium,30,RT0048,D009,R3,East,Owerri,2016
+C00738,Customer 00738,General Trade,SME,Small,7,RT0048,D009,R3,East,Owerri,2021
+C00739,Customer 00739,HoReCa,Micro,Small,30,RT0048,D009,R3,East,Owerri,2019
+C00740,Customer 00740,Modern Trade,SME,Small,30,RT0048,D009,R3,East,Owerri,2020
+C00741,Customer 00741,General Trade,Micro,Small,7,RT0048,D009,R3,East,Owerri,2016
+C00742,Customer 00742,Wholesale,Micro,Small,21,RT0048,D009,R3,East,Owerri,2019
+C00743,Customer 00743,Wholesale,SME,Small,30,RT0048,D009,R3,East,Owerri,2018
+C00744,Customer 00744,General Trade,SME,Large,7,RT0048,D009,R3,East,Owerri,2016
+C00745,Customer 00745,General Trade,SME,Small,14,RT0048,D009,R3,East,Owerri,2024
+C00746,Customer 00746,General Trade,Mid-market,Large,7,RT0049,D009,R3,East,Owerri,2019
+C00747,Customer 00747,Modern Trade,SME,Medium,0,RT0049,D009,R3,East,Owerri,2022
+C00748,Customer 00748,HoReCa,SME,Large,7,RT0049,D009,R3,East,Owerri,2020
+C00749,Customer 00749,Modern Trade,SME,Small,14,RT0049,D009,R3,East,Owerri,2017
+C00750,Customer 00750,General Trade,Mid-market,Medium,0,RT0049,D009,R3,East,Owerri,2016
+C00751,Customer 00751,Modern Trade,SME,Medium,21,RT0049,D009,R3,East,Owerri,2019
+C00752,Customer 00752,Wholesale,SME,Small,21,RT0049,D009,R3,East,Owerri,2023
+C00753,Customer 00753,General Trade,Mid-market,Small,0,RT0049,D009,R3,East,Owerri,2019
+C00754,Customer 00754,Modern Trade,Mid-market,Large,30,RT0049,D009,R3,East,Owerri,2021
+C00755,Customer 00755,Wholesale,Mid-market,Medium,21,RT0049,D009,R3,East,Owerri,2022
+C00756,Customer 00756,Wholesale,Mid-market,Large,7,RT0049,D009,R3,East,Owerri,2023
+C00757,Customer 00757,E-commerce,Mid-market,Medium,0,RT0049,D009,R3,East,Owerri,2019
+C00758,Customer 00758,General Trade,SME,Large,14,RT0049,D009,R3,East,Owerri,2020
+C00759,Customer 00759,Wholesale,SME,Small,30,RT0050,D009,R3,East,Owerri,2016
+C00760,Customer 00760,General Trade,SME,Small,14,RT0050,D009,R3,East,Owerri,2016
+C00761,Customer 00761,General Trade,Mid-market,Small,7,RT0050,D009,R3,East,Owerri,2022
+C00762,Customer 00762,HoReCa,Micro,Small,21,RT0050,D009,R3,East,Owerri,2017
+C00763,Customer 00763,General Trade,SME,Small,0,RT0050,D009,R3,East,Owerri,2023
+C00764,Customer 00764,General Trade,SME,Small,0,RT0050,D009,R3,East,Owerri,2023
+C00765,Customer 00765,General Trade,SME,Small,7,RT0050,D009,R3,East,Owerri,2016
+C00766,Customer 00766,Wholesale,Micro,Medium,14,RT0050,D009,R3,East,Owerri,2022
+C00767,Customer 00767,Modern Trade,SME,Medium,0,RT0050,D009,R3,East,Owerri,2017
+C00768,Customer 00768,Wholesale,Mid-market,Medium,14,RT0050,D009,R3,East,Owerri,2023
+C00769,Customer 00769,HoReCa,Micro,Small,7,RT0050,D009,R3,East,Owerri,2020
+C00770,Customer 00770,General Trade,Key Account,Medium,14,RT0050,D009,R3,East,Owerri,2024
+C00771,Customer 00771,General Trade,Mid-market,Small,30,RT0050,D009,R3,East,Owerri,2022
+C00772,Customer 00772,Wholesale,Micro,Small,21,RT0050,D009,R3,East,Owerri,2019
+C00773,Customer 00773,General Trade,Key Account,Small,0,RT0051,D009,R3,East,Owerri,2017
+C00774,Customer 00774,General Trade,Mid-market,Medium,30,RT0051,D009,R3,East,Owerri,2021
+C00775,Customer 00775,HoReCa,Mid-market,Medium,21,RT0051,D009,R3,East,Owerri,2016
+C00776,Customer 00776,General Trade,SME,Medium,7,RT0051,D009,R3,East,Owerri,2020
+C00777,Customer 00777,General Trade,Key Account,Medium,0,RT0051,D009,R3,East,Owerri,2016
+C00778,Customer 00778,HoReCa,SME,Medium,14,RT0051,D009,R3,East,Owerri,2019
+C00779,Customer 00779,General Trade,Mid-market,Small,21,RT0051,D009,R3,East,Owerri,2021
+C00780,Customer 00780,Modern Trade,SME,Large,0,RT0051,D009,R3,East,Owerri,2018
+C00781,Customer 00781,General Trade,Micro,Large,0,RT0051,D009,R3,East,Owerri,2023
+C00782,Customer 00782,Wholesale,Mid-market,Medium,14,RT0051,D009,R3,East,Owerri,2024
+C00783,Customer 00783,General Trade,Micro,Small,21,RT0051,D009,R3,East,Owerri,2019
+C00784,Customer 00784,Modern Trade,Micro,Medium,30,RT0051,D009,R3,East,Owerri,2016
+C00785,Customer 00785,Modern Trade,Mid-market,Medium,21,RT0051,D009,R3,East,Owerri,2019
+C00786,Customer 00786,General Trade,Micro,Small,14,RT0051,D009,R3,East,Owerri,2019
+C00787,Customer 00787,General Trade,Mid-market,Large,21,RT0051,D009,R3,East,Owerri,2023
+C00788,Customer 00788,E-commerce,Mid-market,Medium,21,RT0051,D009,R3,East,Owerri,2020
+C00789,Customer 00789,General Trade,SME,Small,14,RT0051,D009,R3,East,Owerri,2017
+C00790,Customer 00790,General Trade,SME,Small,0,RT0052,D009,R3,East,Owerri,2022
+C00791,Customer 00791,General Trade,SME,Small,14,RT0052,D009,R3,East,Owerri,2019
+C00792,Customer 00792,Wholesale,SME,Small,21,RT0052,D009,R3,East,Owerri,2017
+C00793,Customer 00793,General Trade,SME,Large,0,RT0052,D009,R3,East,Owerri,2021
+C00794,Customer 00794,General Trade,SME,Small,30,RT0052,D009,R3,East,Owerri,2018
+C00795,Customer 00795,General Trade,SME,Small,0,RT0052,D009,R3,East,Owerri,2021
+C00796,Customer 00796,General Trade,Key Account,Medium,7,RT0052,D009,R3,East,Owerri,2017
+C00797,Customer 00797,General Trade,SME,Small,14,RT0052,D009,R3,East,Owerri,2017
+C00798,Customer 00798,Modern Trade,SME,Medium,30,RT0052,D009,R3,East,Owerri,2021
+C00799,Customer 00799,General Trade,Mid-market,Medium,0,RT0052,D009,R3,East,Owerri,2017
+C00800,Customer 00800,Wholesale,SME,Small,21,RT0052,D009,R3,East,Owerri,2021
+C00801,Customer 00801,General Trade,Micro,Small,21,RT0052,D009,R3,East,Owerri,2022
+C00802,Customer 00802,Wholesale,SME,Small,14,RT0052,D009,R3,East,Owerri,2021
+C00803,Customer 00803,General Trade,Micro,Small,7,RT0052,D009,R3,East,Owerri,2018
+C00804,Customer 00804,General Trade,SME,Medium,14,RT0052,D009,R3,East,Owerri,2022
+C00805,Customer 00805,HoReCa,Micro,Small,30,RT0052,D009,R3,East,Owerri,2018
+C00806,Customer 00806,General Trade,SME,Small,0,RT0052,D009,R3,East,Owerri,2017
+C00807,Customer 00807,General Trade,Micro,Small,0,RT0052,D009,R3,East,Owerri,2019
+C00808,Customer 00808,General Trade,Micro,Medium,7,RT0053,D009,R3,East,Owerri,2019
+C00809,Customer 00809,General Trade,Micro,Medium,30,RT0053,D009,R3,East,Owerri,2018
+C00810,Customer 00810,Wholesale,Micro,Medium,30,RT0053,D009,R3,East,Owerri,2019
+C00811,Customer 00811,General Trade,SME,Medium,14,RT0053,D009,R3,East,Owerri,2018
+C00812,Customer 00812,General Trade,SME,Small,14,RT0053,D009,R3,East,Owerri,2022
+C00813,Customer 00813,General Trade,SME,Small,0,RT0053,D009,R3,East,Owerri,2022
+C00814,Customer 00814,HoReCa,SME,Medium,30,RT0053,D009,R3,East,Owerri,2023
+C00815,Customer 00815,General Trade,Micro,Small,7,RT0053,D009,R3,East,Owerri,2016
+C00816,Customer 00816,General Trade,Mid-market,Medium,7,RT0053,D009,R3,East,Owerri,2022
+C00817,Customer 00817,Wholesale,SME,Medium,30,RT0053,D009,R3,East,Owerri,2022
+C00818,Customer 00818,General Trade,SME,Large,14,RT0053,D009,R3,East,Owerri,2019
+C00819,Customer 00819,General Trade,SME,Small,0,RT0053,D009,R3,East,Owerri,2018
+C00820,Customer 00820,Wholesale,Micro,Small,30,RT0053,D009,R3,East,Owerri,2019
+C00821,Customer 00821,Modern Trade,Micro,Medium,30,RT0053,D009,R3,East,Owerri,2018
+C00822,Customer 00822,Wholesale,Micro,Small,0,RT0054,D009,R3,East,Owerri,2021
+C00823,Customer 00823,Modern Trade,SME,Small,30,RT0054,D009,R3,East,Owerri,2024
+C00824,Customer 00824,General Trade,Mid-market,Small,21,RT0054,D009,R3,East,Owerri,2021
+C00825,Customer 00825,Modern Trade,SME,Small,14,RT0054,D009,R3,East,Owerri,2020
+C00826,Customer 00826,Wholesale,Micro,Large,30,RT0054,D009,R3,East,Owerri,2019
+C00827,Customer 00827,General Trade,Micro,Large,0,RT0054,D009,R3,East,Owerri,2018
+C00828,Customer 00828,General Trade,SME,Small,7,RT0054,D009,R3,East,Owerri,2016
+C00829,Customer 00829,General Trade,Micro,Small,14,RT0054,D009,R3,East,Owerri,2021
+C00830,Customer 00830,Wholesale,Mid-market,Large,21,RT0054,D009,R3,East,Owerri,2024
+C00831,Customer 00831,HoReCa,Mid-market,Small,14,RT0054,D009,R3,East,Owerri,2020
+C00832,Customer 00832,General Trade,Mid-market,Medium,0,RT0054,D009,R3,East,Owerri,2017
+C00833,Customer 00833,General Trade,Key Account,Medium,7,RT0054,D009,R3,East,Owerri,2020
+C00834,Customer 00834,Wholesale,SME,Small,14,RT0054,D009,R3,East,Owerri,2022
+C00835,Customer 00835,HoReCa,Micro,Medium,7,RT0054,D009,R3,East,Owerri,2018
+C00836,Customer 00836,General Trade,Micro,Medium,21,RT0054,D009,R3,East,Owerri,2018
+C00837,Customer 00837,Wholesale,Mid-market,Small,14,RT0054,D009,R3,East,Owerri,2021
+C00838,Customer 00838,General Trade,Micro,Small,14,RT0054,D009,R3,East,Owerri,2020
+C00839,Customer 00839,General Trade,Micro,Medium,21,RT0054,D009,R3,East,Owerri,2023
+C00840,Customer 00840,Wholesale,Mid-market,Medium,14,RT0054,D009,R3,East,Owerri,2018
+C00841,Customer 00841,General Trade,Micro,Medium,0,RT0054,D009,R3,East,Owerri,2022
+C00842,Customer 00842,General Trade,Mid-market,Large,0,RT0055,D010,R3,East,Enugu,2021
+C00843,Customer 00843,General Trade,SME,Medium,14,RT0055,D010,R3,East,Enugu,2022
+C00844,Customer 00844,Wholesale,Micro,Medium,0,RT0055,D010,R3,East,Enugu,2020
+C00845,Customer 00845,General Trade,Micro,Small,14,RT0055,D010,R3,East,Enugu,2018
+C00846,Customer 00846,Wholesale,Micro,Small,30,RT0055,D010,R3,East,Enugu,2018
+C00847,Customer 00847,Modern Trade,Micro,Small,30,RT0055,D010,R3,East,Enugu,2017
+C00848,Customer 00848,General Trade,Micro,Small,30,RT0055,D010,R3,East,Enugu,2024
+C00849,Customer 00849,General Trade,SME,Small,7,RT0055,D010,R3,East,Enugu,2016
+C00850,Customer 00850,General Trade,SME,Small,30,RT0055,D010,R3,East,Enugu,2022
+C00851,Customer 00851,Wholesale,SME,Medium,14,RT0055,D010,R3,East,Enugu,2022
+C00852,Customer 00852,E-commerce,SME,Medium,30,RT0055,D010,R3,East,Enugu,2023
+C00853,Customer 00853,Wholesale,Mid-market,Medium,0,RT0055,D010,R3,East,Enugu,2022
+C00854,Customer 00854,General Trade,Micro,Small,0,RT0055,D010,R3,East,Enugu,2020
+C00855,Customer 00855,Wholesale,Mid-market,Medium,21,RT0055,D010,R3,East,Enugu,2018
+C00856,Customer 00856,General Trade,Micro,Small,0,RT0055,D010,R3,East,Enugu,2022
+C00857,Customer 00857,General Trade,Mid-market,Medium,7,RT0056,D010,R3,East,Enugu,2019
+C00858,Customer 00858,Modern Trade,Mid-market,Medium,7,RT0056,D010,R3,East,Enugu,2018
+C00859,Customer 00859,General Trade,Micro,Medium,14,RT0056,D010,R3,East,Enugu,2017
+C00860,Customer 00860,Modern Trade,Mid-market,Medium,14,RT0056,D010,R3,East,Enugu,2016
+C00861,Customer 00861,General Trade,Micro,Large,7,RT0056,D010,R3,East,Enugu,2016
+C00862,Customer 00862,General Trade,SME,Large,0,RT0056,D010,R3,East,Enugu,2022
+C00863,Customer 00863,General Trade,Micro,Small,21,RT0056,D010,R3,East,Enugu,2019
+C00864,Customer 00864,Modern Trade,Mid-market,Small,30,RT0056,D010,R3,East,Enugu,2023
+C00865,Customer 00865,HoReCa,SME,Medium,0,RT0056,D010,R3,East,Enugu,2019
+C00866,Customer 00866,General Trade,SME,Small,0,RT0056,D010,R3,East,Enugu,2021
+C00867,Customer 00867,Wholesale,SME,Small,7,RT0056,D010,R3,East,Enugu,2018
+C00868,Customer 00868,General Trade,SME,Medium,14,RT0056,D010,R3,East,Enugu,2019
+C00869,Customer 00869,Wholesale,Mid-market,Medium,30,RT0056,D010,R3,East,Enugu,2017
+C00870,Customer 00870,General Trade,Micro,Small,14,RT0056,D010,R3,East,Enugu,2016
+C00871,Customer 00871,Modern Trade,SME,Small,21,RT0056,D010,R3,East,Enugu,2018
+C00872,Customer 00872,General Trade,Mid-market,Small,7,RT0056,D010,R3,East,Enugu,2016
+C00873,Customer 00873,Wholesale,SME,Small,30,RT0057,D010,R3,East,Enugu,2019
+C00874,Customer 00874,General Trade,SME,Small,21,RT0057,D010,R3,East,Enugu,2018
+C00875,Customer 00875,General Trade,Mid-market,Small,21,RT0057,D010,R3,East,Enugu,2022
+C00876,Customer 00876,General Trade,SME,Small,30,RT0057,D010,R3,East,Enugu,2017
+C00877,Customer 00877,General Trade,SME,Small,14,RT0057,D010,R3,East,Enugu,2016
+C00878,Customer 00878,General Trade,SME,Small,21,RT0057,D010,R3,East,Enugu,2016
+C00879,Customer 00879,General Trade,SME,Small,14,RT0057,D010,R3,East,Enugu,2022
+C00880,Customer 00880,General Trade,Micro,Small,7,RT0057,D010,R3,East,Enugu,2019
+C00881,Customer 00881,General Trade,Micro,Medium,21,RT0057,D010,R3,East,Enugu,2024
+C00882,Customer 00882,Wholesale,SME,Small,21,RT0057,D010,R3,East,Enugu,2016
+C00883,Customer 00883,Wholesale,SME,Small,0,RT0057,D010,R3,East,Enugu,2019
+C00884,Customer 00884,Modern Trade,SME,Medium,21,RT0057,D010,R3,East,Enugu,2021
+C00885,Customer 00885,General Trade,Mid-market,Medium,14,RT0057,D010,R3,East,Enugu,2016
+C00886,Customer 00886,General Trade,Mid-market,Medium,7,RT0057,D010,R3,East,Enugu,2021
+C00887,Customer 00887,HoReCa,SME,Medium,14,RT0058,D010,R3,East,Enugu,2020
+C00888,Customer 00888,General Trade,Mid-market,Small,0,RT0058,D010,R3,East,Enugu,2024
+C00889,Customer 00889,General Trade,SME,Medium,14,RT0058,D010,R3,East,Enugu,2017
+C00890,Customer 00890,Wholesale,SME,Medium,30,RT0058,D010,R3,East,Enugu,2024
+C00891,Customer 00891,Modern Trade,SME,Medium,0,RT0058,D010,R3,East,Enugu,2023
+C00892,Customer 00892,General Trade,SME,Medium,14,RT0058,D010,R3,East,Enugu,2019
+C00893,Customer 00893,General Trade,Micro,Small,21,RT0058,D010,R3,East,Enugu,2016
+C00894,Customer 00894,Wholesale,Micro,Small,14,RT0058,D010,R3,East,Enugu,2017
+C00895,Customer 00895,Wholesale,SME,Medium,7,RT0058,D010,R3,East,Enugu,2018
+C00896,Customer 00896,General Trade,SME,Small,21,RT0058,D010,R3,East,Enugu,2021
+C00897,Customer 00897,General Trade,Mid-market,Medium,0,RT0059,D010,R3,East,Enugu,2016
+C00898,Customer 00898,Modern Trade,Micro,Small,30,RT0059,D010,R3,East,Enugu,2022
+C00899,Customer 00899,General Trade,Key Account,Small,21,RT0059,D010,R3,East,Enugu,2022
+C00900,Customer 00900,HoReCa,SME,Small,7,RT0059,D010,R3,East,Enugu,2022
+C00901,Customer 00901,General Trade,SME,Small,0,RT0059,D010,R3,East,Enugu,2018
+C00902,Customer 00902,General Trade,Mid-market,Small,21,RT0059,D010,R3,East,Enugu,2022
+C00903,Customer 00903,General Trade,Micro,Small,14,RT0059,D010,R3,East,Enugu,2023
+C00904,Customer 00904,Wholesale,Micro,Small,0,RT0059,D010,R3,East,Enugu,2023
+C00905,Customer 00905,General Trade,Mid-market,Medium,21,RT0059,D010,R3,East,Enugu,2023
+C00906,Customer 00906,General Trade,Micro,Small,0,RT0059,D010,R3,East,Enugu,2021
+C00907,Customer 00907,General Trade,SME,Medium,7,RT0059,D010,R3,East,Enugu,2017
+C00908,Customer 00908,General Trade,SME,Small,21,RT0059,D010,R3,East,Enugu,2022
+C00909,Customer 00909,Wholesale,Mid-market,Small,21,RT0060,D010,R3,East,Enugu,2022
+C00910,Customer 00910,General Trade,SME,Small,0,RT0060,D010,R3,East,Enugu,2016
+C00911,Customer 00911,Wholesale,Mid-market,Small,14,RT0060,D010,R3,East,Enugu,2023
+C00912,Customer 00912,General Trade,SME,Small,7,RT0060,D010,R3,East,Enugu,2021
+C00913,Customer 00913,Modern Trade,SME,Small,7,RT0060,D010,R3,East,Enugu,2019
+C00914,Customer 00914,General Trade,Micro,Large,30,RT0060,D010,R3,East,Enugu,2023
+C00915,Customer 00915,Modern Trade,Micro,Small,21,RT0060,D010,R3,East,Enugu,2020
+C00916,Customer 00916,General Trade,Micro,Small,7,RT0060,D010,R3,East,Enugu,2023
+C00917,Customer 00917,General Trade,SME,Large,14,RT0060,D010,R3,East,Enugu,2020
+C00918,Customer 00918,General Trade,SME,Medium,14,RT0060,D010,R3,East,Enugu,2020
+C00919,Customer 00919,General Trade,Key Account,Large,7,RT0060,D010,R3,East,Enugu,2021
+C00920,Customer 00920,General Trade,SME,Large,14,RT0060,D010,R3,East,Enugu,2017
+C00921,Customer 00921,Modern Trade,Micro,Small,30,RT0060,D010,R3,East,Enugu,2021
+C00922,Customer 00922,Wholesale,Mid-market,Medium,30,RT0061,D010,R3,East,Enugu,2020
+C00923,Customer 00923,Modern Trade,SME,Small,21,RT0061,D010,R3,East,Enugu,2017
+C00924,Customer 00924,General Trade,Mid-market,Medium,30,RT0061,D010,R3,East,Enugu,2024
+C00925,Customer 00925,General Trade,Mid-market,Medium,21,RT0061,D010,R3,East,Enugu,2018
+C00926,Customer 00926,HoReCa,SME,Large,30,RT0061,D010,R3,East,Enugu,2022
+C00927,Customer 00927,General Trade,Key Account,Medium,7,RT0061,D010,R3,East,Enugu,2016
+C00928,Customer 00928,General Trade,SME,Medium,14,RT0061,D010,R3,East,Enugu,2017
+C00929,Customer 00929,E-commerce,Mid-market,Medium,21,RT0061,D010,R3,East,Enugu,2022
+C00930,Customer 00930,General Trade,SME,Medium,0,RT0061,D010,R3,East,Enugu,2021
+C00931,Customer 00931,HoReCa,Micro,Small,14,RT0061,D010,R3,East,Enugu,2018
+C00932,Customer 00932,General Trade,Mid-market,Medium,30,RT0061,D010,R3,East,Enugu,2023
+C00933,Customer 00933,General Trade,SME,Small,0,RT0061,D010,R3,East,Enugu,2021
+C00934,Customer 00934,Modern Trade,Micro,Medium,21,RT0061,D010,R3,East,Enugu,2021
+C00935,Customer 00935,General Trade,SME,Small,0,RT0061,D010,R3,East,Enugu,2018
+C00936,Customer 00936,General Trade,Micro,Small,7,RT0061,D010,R3,East,Enugu,2019
+C00937,Customer 00937,Modern Trade,Mid-market,Large,30,RT0061,D010,R3,East,Enugu,2021
+C00938,Customer 00938,Modern Trade,Key Account,Medium,30,RT0061,D010,R3,East,Enugu,2016
+C00939,Customer 00939,General Trade,SME,Small,30,RT0061,D010,R3,East,Enugu,2017
+C00940,Customer 00940,Wholesale,SME,Medium,14,RT0061,D010,R3,East,Enugu,2020
+C00941,Customer 00941,HoReCa,Micro,Small,30,RT0062,D011,R4,West,Abeokuta,2023
+C00942,Customer 00942,General Trade,SME,Small,30,RT0062,D011,R4,West,Abeokuta,2021
+C00943,Customer 00943,General Trade,Micro,Small,0,RT0062,D011,R4,West,Abeokuta,2020
+C00944,Customer 00944,General Trade,Micro,Small,21,RT0062,D011,R4,West,Abeokuta,2020
+C00945,Customer 00945,General Trade,Micro,Small,7,RT0062,D011,R4,West,Abeokuta,2020
+C00946,Customer 00946,Wholesale,SME,Small,7,RT0062,D011,R4,West,Abeokuta,2018
+C00947,Customer 00947,Wholesale,SME,Small,7,RT0062,D011,R4,West,Abeokuta,2019
+C00948,Customer 00948,HoReCa,SME,Large,21,RT0062,D011,R4,West,Abeokuta,2017
+C00949,Customer 00949,HoReCa,SME,Medium,30,RT0062,D011,R4,West,Abeokuta,2016
+C00950,Customer 00950,General Trade,Micro,Small,0,RT0062,D011,R4,West,Abeokuta,2016
+C00951,Customer 00951,General Trade,Micro,Small,7,RT0062,D011,R4,West,Abeokuta,2021
+C00952,Customer 00952,General Trade,Key Account,Large,0,RT0062,D011,R4,West,Abeokuta,2022
+C00953,Customer 00953,HoReCa,SME,Small,21,RT0062,D011,R4,West,Abeokuta,2019
+C00954,Customer 00954,HoReCa,Micro,Small,21,RT0062,D011,R4,West,Abeokuta,2023
+C00955,Customer 00955,E-commerce,SME,Small,14,RT0062,D011,R4,West,Abeokuta,2024
+C00956,Customer 00956,General Trade,SME,Small,0,RT0062,D011,R4,West,Abeokuta,2019
+C00957,Customer 00957,Modern Trade,Micro,Small,21,RT0063,D011,R4,West,Abeokuta,2022
+C00958,Customer 00958,General Trade,Key Account,Small,0,RT0063,D011,R4,West,Abeokuta,2023
+C00959,Customer 00959,General Trade,Micro,Small,0,RT0063,D011,R4,West,Abeokuta,2019
+C00960,Customer 00960,Wholesale,SME,Large,21,RT0063,D011,R4,West,Abeokuta,2021
+C00961,Customer 00961,Modern Trade,Micro,Medium,0,RT0063,D011,R4,West,Abeokuta,2020
+C00962,Customer 00962,Modern Trade,Micro,Small,30,RT0063,D011,R4,West,Abeokuta,2024
+C00963,Customer 00963,General Trade,Micro,Small,0,RT0063,D011,R4,West,Abeokuta,2017
+C00964,Customer 00964,General Trade,Micro,Small,0,RT0063,D011,R4,West,Abeokuta,2017
+C00965,Customer 00965,General Trade,Mid-market,Medium,0,RT0063,D011,R4,West,Abeokuta,2023
+C00966,Customer 00966,Wholesale,Key Account,Large,0,RT0063,D011,R4,West,Abeokuta,2018
+C00967,Customer 00967,General Trade,SME,Medium,7,RT0064,D011,R4,West,Abeokuta,2022
+C00968,Customer 00968,General Trade,Micro,Small,0,RT0064,D011,R4,West,Abeokuta,2017
+C00969,Customer 00969,General Trade,SME,Medium,0,RT0064,D011,R4,West,Abeokuta,2022
+C00970,Customer 00970,Modern Trade,Micro,Small,21,RT0064,D011,R4,West,Abeokuta,2023
+C00971,Customer 00971,Modern Trade,SME,Small,14,RT0064,D011,R4,West,Abeokuta,2021
+C00972,Customer 00972,Wholesale,Mid-market,Medium,21,RT0064,D011,R4,West,Abeokuta,2020
+C00973,Customer 00973,Modern Trade,Micro,Small,30,RT0064,D011,R4,West,Abeokuta,2017
+C00974,Customer 00974,General Trade,Mid-market,Small,0,RT0064,D011,R4,West,Abeokuta,2017
+C00975,Customer 00975,Wholesale,Mid-market,Medium,0,RT0064,D011,R4,West,Abeokuta,2024
+C00976,Customer 00976,Wholesale,Key Account,Large,21,RT0064,D011,R4,West,Abeokuta,2022
+C00977,Customer 00977,Modern Trade,SME,Medium,14,RT0064,D011,R4,West,Abeokuta,2016
+C00978,Customer 00978,Wholesale,SME,Small,0,RT0064,D011,R4,West,Abeokuta,2020
+C00979,Customer 00979,E-commerce,Mid-market,Medium,21,RT0064,D011,R4,West,Abeokuta,2022
+C00980,Customer 00980,General Trade,SME,Large,14,RT0064,D011,R4,West,Abeokuta,2017
+C00981,Customer 00981,General Trade,SME,Small,0,RT0064,D011,R4,West,Abeokuta,2023
+C00982,Customer 00982,General Trade,Micro,Small,21,RT0064,D011,R4,West,Abeokuta,2022
+C00983,Customer 00983,General Trade,SME,Small,21,RT0064,D011,R4,West,Abeokuta,2023
+C00984,Customer 00984,Wholesale,Mid-market,Small,14,RT0065,D011,R4,West,Abeokuta,2018
+C00985,Customer 00985,General Trade,Micro,Medium,21,RT0065,D011,R4,West,Abeokuta,2019
+C00986,Customer 00986,Modern Trade,SME,Small,30,RT0065,D011,R4,West,Abeokuta,2016
+C00987,Customer 00987,General Trade,SME,Medium,21,RT0065,D011,R4,West,Abeokuta,2018
+C00988,Customer 00988,Wholesale,Mid-market,Medium,30,RT0065,D011,R4,West,Abeokuta,2021
+C00989,Customer 00989,E-commerce,Mid-market,Medium,21,RT0065,D011,R4,West,Abeokuta,2023
+C00990,Customer 00990,General Trade,Micro,Small,0,RT0065,D011,R4,West,Abeokuta,2020
+C00991,Customer 00991,General Trade,SME,Medium,14,RT0065,D011,R4,West,Abeokuta,2021
+C00992,Customer 00992,General Trade,Key Account,Medium,14,RT0065,D011,R4,West,Abeokuta,2018
+C00993,Customer 00993,General Trade,SME,Small,0,RT0065,D011,R4,West,Abeokuta,2020
+C00994,Customer 00994,General Trade,Micro,Medium,21,RT0065,D011,R4,West,Abeokuta,2017
+C00995,Customer 00995,Wholesale,Micro,Medium,7,RT0065,D011,R4,West,Abeokuta,2021
+C00996,Customer 00996,Modern Trade,SME,Small,21,RT0066,D011,R4,West,Abeokuta,2016
+C00997,Customer 00997,Modern Trade,Mid-market,Medium,14,RT0066,D011,R4,West,Abeokuta,2020
+C00998,Customer 00998,General Trade,SME,Medium,0,RT0066,D011,R4,West,Abeokuta,2017
+C00999,Customer 00999,General Trade,Micro,Small,7,RT0066,D011,R4,West,Abeokuta,2017
+C01000,Customer 01000,Modern Trade,Micro,Medium,21,RT0066,D011,R4,West,Abeokuta,2016
+C01001,Customer 01001,General Trade,Key Account,Medium,0,RT0066,D011,R4,West,Abeokuta,2018
+C01002,Customer 01002,General Trade,Micro,Medium,21,RT0066,D011,R4,West,Abeokuta,2022
+C01003,Customer 01003,General Trade,Micro,Small,14,RT0066,D011,R4,West,Abeokuta,2019
+C01004,Customer 01004,E-commerce,Mid-market,Medium,30,RT0066,D011,R4,West,Abeokuta,2016
+C01005,Customer 01005,Modern Trade,Micro,Medium,30,RT0066,D011,R4,West,Abeokuta,2024
+C01006,Customer 01006,General Trade,Micro,Medium,14,RT0066,D011,R4,West,Abeokuta,2017
+C01007,Customer 01007,Modern Trade,Micro,Large,14,RT0066,D011,R4,West,Abeokuta,2016
+C01008,Customer 01008,General Trade,Micro,Medium,7,RT0066,D011,R4,West,Abeokuta,2016
+C01009,Customer 01009,General Trade,SME,Large,14,RT0066,D011,R4,West,Abeokuta,2018
+C01010,Customer 01010,Modern Trade,Key Account,Large,14,RT0066,D011,R4,West,Abeokuta,2020
+C01011,Customer 01011,General Trade,SME,Medium,21,RT0066,D011,R4,West,Abeokuta,2018
+C01012,Customer 01012,General Trade,Mid-market,Medium,0,RT0066,D011,R4,West,Abeokuta,2021
+C01013,Customer 01013,Wholesale,Micro,Large,21,RT0067,D011,R4,West,Abeokuta,2023
+C01014,Customer 01014,Wholesale,SME,Small,7,RT0067,D011,R4,West,Abeokuta,2023
+C01015,Customer 01015,General Trade,SME,Medium,7,RT0067,D011,R4,West,Abeokuta,2018
+C01016,Customer 01016,Modern Trade,Key Account,Medium,21,RT0067,D011,R4,West,Abeokuta,2021
+C01017,Customer 01017,Modern Trade,SME,Small,21,RT0067,D011,R4,West,Abeokuta,2022
+C01018,Customer 01018,Wholesale,Micro,Small,14,RT0067,D011,R4,West,Abeokuta,2024
+C01019,Customer 01019,General Trade,Mid-market,Medium,0,RT0067,D011,R4,West,Abeokuta,2018
+C01020,Customer 01020,E-commerce,SME,Small,30,RT0067,D011,R4,West,Abeokuta,2024
+C01021,Customer 01021,General Trade,Mid-market,Large,21,RT0067,D011,R4,West,Abeokuta,2021
+C01022,Customer 01022,HoReCa,SME,Small,21,RT0067,D011,R4,West,Abeokuta,2018
+C01023,Customer 01023,Wholesale,SME,Small,21,RT0067,D011,R4,West,Abeokuta,2019
+C01024,Customer 01024,General Trade,SME,Small,21,RT0067,D011,R4,West,Abeokuta,2016
+C01025,Customer 01025,Modern Trade,Micro,Medium,21,RT0067,D011,R4,West,Abeokuta,2024
+C01026,Customer 01026,Modern Trade,SME,Large,0,RT0068,D011,R4,West,Abeokuta,2021
+C01027,Customer 01027,General Trade,Micro,Small,0,RT0068,D011,R4,West,Abeokuta,2020
+C01028,Customer 01028,HoReCa,Mid-market,Small,30,RT0068,D011,R4,West,Abeokuta,2020
+C01029,Customer 01029,HoReCa,Mid-market,Medium,14,RT0068,D011,R4,West,Abeokuta,2017
+C01030,Customer 01030,Modern Trade,SME,Medium,14,RT0068,D011,R4,West,Abeokuta,2020
+C01031,Customer 01031,General Trade,Micro,Small,7,RT0068,D011,R4,West,Abeokuta,2019
+C01032,Customer 01032,Modern Trade,Mid-market,Large,14,RT0068,D011,R4,West,Abeokuta,2023
+C01033,Customer 01033,General Trade,SME,Large,0,RT0068,D011,R4,West,Abeokuta,2024
+C01034,Customer 01034,General Trade,Micro,Medium,7,RT0068,D011,R4,West,Abeokuta,2017
+C01035,Customer 01035,General Trade,Mid-market,Small,0,RT0068,D011,R4,West,Abeokuta,2019
+C01036,Customer 01036,Wholesale,Mid-market,Small,21,RT0068,D011,R4,West,Abeokuta,2017
+C01037,Customer 01037,General Trade,Mid-market,Large,21,RT0068,D011,R4,West,Abeokuta,2019
+C01038,Customer 01038,Modern Trade,SME,Medium,21,RT0068,D011,R4,West,Abeokuta,2021
+C01039,Customer 01039,General Trade,Mid-market,Medium,14,RT0069,D011,R4,West,Abeokuta,2017
+C01040,Customer 01040,General Trade,SME,Small,0,RT0069,D011,R4,West,Abeokuta,2020
+C01041,Customer 01041,Modern Trade,Mid-market,Small,30,RT0069,D011,R4,West,Abeokuta,2018
+C01042,Customer 01042,General Trade,Micro,Medium,7,RT0069,D011,R4,West,Abeokuta,2020
+C01043,Customer 01043,General Trade,Key Account,Medium,0,RT0069,D011,R4,West,Abeokuta,2020
+C01044,Customer 01044,HoReCa,Micro,Small,21,RT0069,D011,R4,West,Abeokuta,2020
+C01045,Customer 01045,Wholesale,Mid-market,Small,7,RT0069,D011,R4,West,Abeokuta,2019
+C01046,Customer 01046,General Trade,Micro,Medium,7,RT0069,D011,R4,West,Abeokuta,2020
+C01047,Customer 01047,General Trade,Micro,Large,30,RT0069,D011,R4,West,Abeokuta,2023
+C01048,Customer 01048,General Trade,Key Account,Medium,30,RT0069,D011,R4,West,Abeokuta,2017
+C01049,Customer 01049,General Trade,Micro,Small,7,RT0069,D011,R4,West,Abeokuta,2021
+C01050,Customer 01050,General Trade,Mid-market,Large,14,RT0069,D011,R4,West,Abeokuta,2024
+C01051,Customer 01051,General Trade,Key Account,Medium,14,RT0069,D011,R4,West,Abeokuta,2018
+C01052,Customer 01052,Wholesale,Mid-market,Medium,0,RT0069,D011,R4,West,Abeokuta,2019
+C01053,Customer 01053,General Trade,SME,Medium,30,RT0069,D011,R4,West,Abeokuta,2017
+C01054,Customer 01054,General Trade,Key Account,Small,14,RT0069,D011,R4,West,Abeokuta,2022
+C01055,Customer 01055,General Trade,SME,Small,0,RT0070,D012,R4,West,Ibadan,2021
+C01056,Customer 01056,E-commerce,SME,Medium,21,RT0070,D012,R4,West,Ibadan,2017
+C01057,Customer 01057,Modern Trade,Mid-market,Small,21,RT0070,D012,R4,West,Ibadan,2023
+C01058,Customer 01058,General Trade,SME,Medium,21,RT0070,D012,R4,West,Ibadan,2022
+C01059,Customer 01059,General Trade,Micro,Small,14,RT0070,D012,R4,West,Ibadan,2016
+C01060,Customer 01060,Modern Trade,Mid-market,Medium,14,RT0070,D012,R4,West,Ibadan,2017
+C01061,Customer 01061,Modern Trade,Micro,Large,7,RT0070,D012,R4,West,Ibadan,2022
+C01062,Customer 01062,Modern Trade,SME,Small,21,RT0070,D012,R4,West,Ibadan,2024
+C01063,Customer 01063,Modern Trade,SME,Small,7,RT0070,D012,R4,West,Ibadan,2022
+C01064,Customer 01064,Wholesale,Mid-market,Large,14,RT0070,D012,R4,West,Ibadan,2024
+C01065,Customer 01065,General Trade,Mid-market,Medium,7,RT0070,D012,R4,West,Ibadan,2016
+C01066,Customer 01066,General Trade,Mid-market,Large,14,RT0071,D012,R4,West,Ibadan,2020
+C01067,Customer 01067,General Trade,Mid-market,Medium,7,RT0071,D012,R4,West,Ibadan,2024
+C01068,Customer 01068,General Trade,SME,Small,30,RT0071,D012,R4,West,Ibadan,2022
+C01069,Customer 01069,General Trade,Micro,Small,14,RT0071,D012,R4,West,Ibadan,2017
+C01070,Customer 01070,General Trade,Mid-market,Large,7,RT0071,D012,R4,West,Ibadan,2024
+C01071,Customer 01071,Modern Trade,SME,Small,7,RT0071,D012,R4,West,Ibadan,2019
+C01072,Customer 01072,General Trade,SME,Small,21,RT0071,D012,R4,West,Ibadan,2018
+C01073,Customer 01073,General Trade,SME,Large,21,RT0071,D012,R4,West,Ibadan,2019
+C01074,Customer 01074,General Trade,Mid-market,Large,14,RT0071,D012,R4,West,Ibadan,2018
+C01075,Customer 01075,Modern Trade,Mid-market,Large,7,RT0071,D012,R4,West,Ibadan,2021
+C01076,Customer 01076,General Trade,SME,Large,0,RT0072,D012,R4,West,Ibadan,2019
+C01077,Customer 01077,General Trade,SME,Small,7,RT0072,D012,R4,West,Ibadan,2018
+C01078,Customer 01078,Modern Trade,Micro,Medium,30,RT0072,D012,R4,West,Ibadan,2021
+C01079,Customer 01079,General Trade,Mid-market,Large,7,RT0072,D012,R4,West,Ibadan,2017
+C01080,Customer 01080,Wholesale,Mid-market,Medium,30,RT0072,D012,R4,West,Ibadan,2023
+C01081,Customer 01081,General Trade,Micro,Medium,21,RT0072,D012,R4,West,Ibadan,2016
+C01082,Customer 01082,General Trade,SME,Medium,14,RT0072,D012,R4,West,Ibadan,2017
+C01083,Customer 01083,General Trade,Micro,Small,14,RT0072,D012,R4,West,Ibadan,2016
+C01084,Customer 01084,General Trade,SME,Medium,7,RT0072,D012,R4,West,Ibadan,2018
+C01085,Customer 01085,Wholesale,Mid-market,Medium,30,RT0072,D012,R4,West,Ibadan,2017
+C01086,Customer 01086,HoReCa,Mid-market,Medium,14,RT0072,D012,R4,West,Ibadan,2024
+C01087,Customer 01087,General Trade,SME,Large,14,RT0072,D012,R4,West,Ibadan,2020
+C01088,Customer 01088,General Trade,Micro,Small,0,RT0072,D012,R4,West,Ibadan,2021
+C01089,Customer 01089,General Trade,Micro,Large,21,RT0072,D012,R4,West,Ibadan,2022
+C01090,Customer 01090,Modern Trade,Mid-market,Large,7,RT0072,D012,R4,West,Ibadan,2019
+C01091,Customer 01091,Wholesale,SME,Medium,7,RT0072,D012,R4,West,Ibadan,2021
+C01092,Customer 01092,General Trade,SME,Medium,14,RT0072,D012,R4,West,Ibadan,2018
+C01093,Customer 01093,General Trade,Mid-market,Medium,30,RT0072,D012,R4,West,Ibadan,2018
+C01094,Customer 01094,Wholesale,Micro,Small,21,RT0072,D012,R4,West,Ibadan,2022
+C01095,Customer 01095,General Trade,Mid-market,Small,30,RT0072,D012,R4,West,Ibadan,2023
+C01096,Customer 01096,General Trade,SME,Small,0,RT0073,D012,R4,West,Ibadan,2021
+C01097,Customer 01097,E-commerce,Micro,Medium,0,RT0073,D012,R4,West,Ibadan,2018
+C01098,Customer 01098,General Trade,Micro,Medium,7,RT0073,D012,R4,West,Ibadan,2019
+C01099,Customer 01099,General Trade,Mid-market,Medium,0,RT0073,D012,R4,West,Ibadan,2020
+C01100,Customer 01100,Wholesale,SME,Small,7,RT0073,D012,R4,West,Ibadan,2020
+C01101,Customer 01101,General Trade,SME,Small,14,RT0073,D012,R4,West,Ibadan,2022
+C01102,Customer 01102,General Trade,Micro,Small,0,RT0073,D012,R4,West,Ibadan,2020
+C01103,Customer 01103,Modern Trade,Micro,Medium,30,RT0073,D012,R4,West,Ibadan,2023
+C01104,Customer 01104,Modern Trade,SME,Small,30,RT0073,D012,R4,West,Ibadan,2022
+C01105,Customer 01105,General Trade,Micro,Small,7,RT0073,D012,R4,West,Ibadan,2018
+C01106,Customer 01106,Modern Trade,Micro,Small,0,RT0073,D012,R4,West,Ibadan,2018
+C01107,Customer 01107,Modern Trade,SME,Small,7,RT0073,D012,R4,West,Ibadan,2020
+C01108,Customer 01108,General Trade,Micro,Small,14,RT0073,D012,R4,West,Ibadan,2018
+C01109,Customer 01109,General Trade,Mid-market,Medium,30,RT0073,D012,R4,West,Ibadan,2023
+C01110,Customer 01110,Modern Trade,SME,Medium,21,RT0073,D012,R4,West,Ibadan,2017
+C01111,Customer 01111,Wholesale,SME,Small,14,RT0073,D012,R4,West,Ibadan,2018
+C01112,Customer 01112,General Trade,Mid-market,Small,0,RT0073,D012,R4,West,Ibadan,2021
+C01113,Customer 01113,General Trade,Micro,Small,0,RT0074,D013,R4,West,Abeokuta,2022
+C01114,Customer 01114,Modern Trade,Micro,Small,21,RT0074,D013,R4,West,Abeokuta,2016
+C01115,Customer 01115,General Trade,Key Account,Large,21,RT0074,D013,R4,West,Abeokuta,2022
+C01116,Customer 01116,General Trade,SME,Small,7,RT0074,D013,R4,West,Abeokuta,2019
+C01117,Customer 01117,Wholesale,SME,Small,0,RT0074,D013,R4,West,Abeokuta,2017
+C01118,Customer 01118,General Trade,Micro,Medium,21,RT0074,D013,R4,West,Abeokuta,2020
+C01119,Customer 01119,General Trade,Mid-market,Large,21,RT0074,D013,R4,West,Abeokuta,2017
+C01120,Customer 01120,General Trade,SME,Medium,30,RT0074,D013,R4,West,Abeokuta,2021
+C01121,Customer 01121,Modern Trade,Key Account,Small,7,RT0074,D013,R4,West,Abeokuta,2016
+C01122,Customer 01122,Wholesale,Micro,Small,30,RT0074,D013,R4,West,Abeokuta,2017
+C01123,Customer 01123,General Trade,Mid-market,Medium,0,RT0074,D013,R4,West,Abeokuta,2020
+C01124,Customer 01124,General Trade,Micro,Small,0,RT0074,D013,R4,West,Abeokuta,2016
+C01125,Customer 01125,Modern Trade,Key Account,Large,21,RT0074,D013,R4,West,Abeokuta,2020
+C01126,Customer 01126,Modern Trade,Mid-market,Small,14,RT0074,D013,R4,West,Abeokuta,2021
+C01127,Customer 01127,General Trade,Mid-market,Large,0,RT0074,D013,R4,West,Abeokuta,2022
+C01128,Customer 01128,Wholesale,Mid-market,Small,7,RT0074,D013,R4,West,Abeokuta,2021
+C01129,Customer 01129,Modern Trade,Micro,Large,21,RT0074,D013,R4,West,Abeokuta,2017
+C01130,Customer 01130,General Trade,Micro,Small,0,RT0074,D013,R4,West,Abeokuta,2022
+C01131,Customer 01131,General Trade,Micro,Medium,0,RT0074,D013,R4,West,Abeokuta,2024
+C01132,Customer 01132,General Trade,SME,Small,0,RT0074,D013,R4,West,Abeokuta,2020
+C01133,Customer 01133,General Trade,SME,Medium,21,RT0075,D013,R4,West,Abeokuta,2017
+C01134,Customer 01134,General Trade,SME,Small,21,RT0075,D013,R4,West,Abeokuta,2022
+C01135,Customer 01135,General Trade,SME,Small,14,RT0075,D013,R4,West,Abeokuta,2017
+C01136,Customer 01136,E-commerce,Micro,Small,21,RT0075,D013,R4,West,Abeokuta,2023
+C01137,Customer 01137,Modern Trade,Mid-market,Medium,30,RT0075,D013,R4,West,Abeokuta,2021
+C01138,Customer 01138,Modern Trade,Micro,Medium,30,RT0075,D013,R4,West,Abeokuta,2016
+C01139,Customer 01139,Modern Trade,Micro,Medium,21,RT0075,D013,R4,West,Abeokuta,2017
+C01140,Customer 01140,Wholesale,Micro,Small,21,RT0075,D013,R4,West,Abeokuta,2017
+C01141,Customer 01141,General Trade,Key Account,Medium,14,RT0075,D013,R4,West,Abeokuta,2021
+C01142,Customer 01142,Modern Trade,Micro,Small,7,RT0075,D013,R4,West,Abeokuta,2023
+C01143,Customer 01143,General Trade,Micro,Medium,14,RT0075,D013,R4,West,Abeokuta,2024
+C01144,Customer 01144,General Trade,SME,Medium,7,RT0075,D013,R4,West,Abeokuta,2023
+C01145,Customer 01145,General Trade,SME,Small,14,RT0075,D013,R4,West,Abeokuta,2018
+C01146,Customer 01146,General Trade,Micro,Small,21,RT0075,D013,R4,West,Abeokuta,2021
+C01147,Customer 01147,General Trade,SME,Small,0,RT0076,D013,R4,West,Abeokuta,2017
+C01148,Customer 01148,Modern Trade,Mid-market,Medium,30,RT0076,D013,R4,West,Abeokuta,2024
+C01149,Customer 01149,Wholesale,Micro,Medium,14,RT0076,D013,R4,West,Abeokuta,2021
+C01150,Customer 01150,Wholesale,SME,Small,30,RT0076,D013,R4,West,Abeokuta,2016
+C01151,Customer 01151,Modern Trade,Mid-market,Medium,21,RT0076,D013,R4,West,Abeokuta,2016
+C01152,Customer 01152,General Trade,SME,Medium,30,RT0076,D013,R4,West,Abeokuta,2020
+C01153,Customer 01153,Wholesale,SME,Small,7,RT0076,D013,R4,West,Abeokuta,2021
+C01154,Customer 01154,General Trade,Mid-market,Medium,21,RT0076,D013,R4,West,Abeokuta,2019
+C01155,Customer 01155,General Trade,SME,Small,14,RT0076,D013,R4,West,Abeokuta,2018
+C01156,Customer 01156,Modern Trade,Micro,Small,30,RT0076,D013,R4,West,Abeokuta,2019
+C01157,Customer 01157,General Trade,SME,Small,0,RT0076,D013,R4,West,Abeokuta,2019
+C01158,Customer 01158,Wholesale,Micro,Medium,7,RT0076,D013,R4,West,Abeokuta,2021
+C01159,Customer 01159,Modern Trade,Micro,Medium,30,RT0076,D013,R4,West,Abeokuta,2019
+C01160,Customer 01160,Modern Trade,Mid-market,Large,7,RT0076,D013,R4,West,Abeokuta,2016
+C01161,Customer 01161,General Trade,Micro,Small,7,RT0076,D013,R4,West,Abeokuta,2024
+C01162,Customer 01162,HoReCa,SME,Small,30,RT0076,D013,R4,West,Abeokuta,2023
+C01163,Customer 01163,Modern Trade,SME,Small,30,RT0076,D013,R4,West,Abeokuta,2021
+C01164,Customer 01164,General Trade,Key Account,Large,14,RT0076,D013,R4,West,Abeokuta,2017
+C01165,Customer 01165,Modern Trade,SME,Small,30,RT0076,D013,R4,West,Abeokuta,2021
+C01166,Customer 01166,HoReCa,Key Account,Small,7,RT0076,D013,R4,West,Abeokuta,2021
+C01167,Customer 01167,General Trade,SME,Medium,14,RT0077,D013,R4,West,Abeokuta,2022
+C01168,Customer 01168,General Trade,SME,Small,7,RT0077,D013,R4,West,Abeokuta,2022
+C01169,Customer 01169,Modern Trade,Micro,Small,21,RT0077,D013,R4,West,Abeokuta,2019
+C01170,Customer 01170,General Trade,Micro,Medium,30,RT0077,D013,R4,West,Abeokuta,2018
+C01171,Customer 01171,Wholesale,Key Account,Large,14,RT0077,D013,R4,West,Abeokuta,2018
+C01172,Customer 01172,General Trade,Micro,Small,7,RT0077,D013,R4,West,Abeokuta,2023
+C01173,Customer 01173,General Trade,Mid-market,Medium,7,RT0077,D013,R4,West,Abeokuta,2023
+C01174,Customer 01174,Wholesale,SME,Large,21,RT0077,D013,R4,West,Abeokuta,2016
+C01175,Customer 01175,General Trade,SME,Small,30,RT0077,D013,R4,West,Abeokuta,2022
+C01176,Customer 01176,General Trade,SME,Medium,30,RT0077,D013,R4,West,Abeokuta,2023
+C01177,Customer 01177,General Trade,Micro,Small,14,RT0077,D013,R4,West,Abeokuta,2017
+C01178,Customer 01178,General Trade,SME,Small,0,RT0077,D013,R4,West,Abeokuta,2022
+C01179,Customer 01179,General Trade,Mid-market,Large,14,RT0078,D013,R4,West,Abeokuta,2019
+C01180,Customer 01180,General Trade,SME,Small,0,RT0078,D013,R4,West,Abeokuta,2016
+C01181,Customer 01181,General Trade,SME,Small,21,RT0078,D013,R4,West,Abeokuta,2018
+C01182,Customer 01182,Modern Trade,Micro,Medium,30,RT0078,D013,R4,West,Abeokuta,2024
+C01183,Customer 01183,General Trade,Micro,Medium,7,RT0078,D013,R4,West,Abeokuta,2018
+C01184,Customer 01184,HoReCa,Micro,Small,21,RT0078,D013,R4,West,Abeokuta,2022
+C01185,Customer 01185,Modern Trade,SME,Medium,21,RT0078,D013,R4,West,Abeokuta,2020
+C01186,Customer 01186,Wholesale,Micro,Medium,14,RT0078,D013,R4,West,Abeokuta,2019
+C01187,Customer 01187,E-commerce,Mid-market,Medium,21,RT0078,D013,R4,West,Abeokuta,2022
+C01188,Customer 01188,General Trade,Mid-market,Small,21,RT0078,D013,R4,West,Abeokuta,2018
+C01189,Customer 01189,General Trade,SME,Medium,7,RT0078,D013,R4,West,Abeokuta,2017
+C01190,Customer 01190,Modern Trade,Micro,Medium,30,RT0078,D013,R4,West,Abeokuta,2023
+C01191,Customer 01191,General Trade,Micro,Medium,30,RT0079,D013,R4,West,Abeokuta,2023
+C01192,Customer 01192,Modern Trade,Key Account,Large,30,RT0079,D013,R4,West,Abeokuta,2022
+C01193,Customer 01193,General Trade,Mid-market,Large,21,RT0079,D013,R4,West,Abeokuta,2024
+C01194,Customer 01194,General Trade,Mid-market,Medium,21,RT0079,D013,R4,West,Abeokuta,2017
+C01195,Customer 01195,General Trade,Micro,Small,21,RT0079,D013,R4,West,Abeokuta,2019
+C01196,Customer 01196,Wholesale,SME,Large,30,RT0079,D013,R4,West,Abeokuta,2016
+C01197,Customer 01197,General Trade,Mid-market,Medium,30,RT0079,D013,R4,West,Abeokuta,2020
+C01198,Customer 01198,Modern Trade,Mid-market,Large,30,RT0079,D013,R4,West,Abeokuta,2018
+C01199,Customer 01199,General Trade,Mid-market,Medium,14,RT0079,D013,R4,West,Abeokuta,2017
+C01200,Customer 01200,General Trade,SME,Small,14,RT0079,D013,R4,West,Abeokuta,2016
+C01201,Customer 01201,Wholesale,Micro,Small,0,RT0079,D013,R4,West,Abeokuta,2022
+C01202,Customer 01202,HoReCa,Mid-market,Medium,7,RT0079,D013,R4,West,Abeokuta,2021
+C01203,Customer 01203,General Trade,SME,Medium,14,RT0079,D013,R4,West,Abeokuta,2019
+C01204,Customer 01204,General Trade,SME,Small,0,RT0079,D013,R4,West,Abeokuta,2023
+C01205,Customer 01205,General Trade,Micro,Large,0,RT0079,D013,R4,West,Abeokuta,2019
+C01206,Customer 01206,Modern Trade,Micro,Large,30,RT0079,D013,R4,West,Abeokuta,2016
+C01207,Customer 01207,Modern Trade,SME,Small,0,RT0079,D013,R4,West,Abeokuta,2017
+C01208,Customer 01208,Wholesale,SME,Small,14,RT0079,D013,R4,West,Abeokuta,2023
+C01209,Customer 01209,General Trade,Mid-market,Medium,30,RT0080,D014,R4,West,Abeokuta,2021
+C01210,Customer 01210,Modern Trade,SME,Small,30,RT0080,D014,R4,West,Abeokuta,2020
+C01211,Customer 01211,General Trade,Mid-market,Medium,30,RT0080,D014,R4,West,Abeokuta,2018
+C01212,Customer 01212,Wholesale,Micro,Small,0,RT0080,D014,R4,West,Abeokuta,2017
+C01213,Customer 01213,Wholesale,Mid-market,Medium,21,RT0080,D014,R4,West,Abeokuta,2022
+C01214,Customer 01214,General Trade,SME,Small,14,RT0080,D014,R4,West,Abeokuta,2022
+C01215,Customer 01215,General Trade,Micro,Medium,14,RT0080,D014,R4,West,Abeokuta,2021
+C01216,Customer 01216,General Trade,Mid-market,Medium,14,RT0080,D014,R4,West,Abeokuta,2021
+C01217,Customer 01217,General Trade,Micro,Small,0,RT0080,D014,R4,West,Abeokuta,2020
+C01218,Customer 01218,Wholesale,Micro,Small,30,RT0080,D014,R4,West,Abeokuta,2018
+C01219,Customer 01219,General Trade,Micro,Medium,14,RT0080,D014,R4,West,Abeokuta,2023
+C01220,Customer 01220,General Trade,Micro,Small,0,RT0080,D014,R4,West,Abeokuta,2018
+C01221,Customer 01221,Modern Trade,Mid-market,Small,30,RT0081,D014,R4,West,Abeokuta,2020
+C01222,Customer 01222,General Trade,Micro,Small,21,RT0081,D014,R4,West,Abeokuta,2018
+C01223,Customer 01223,General Trade,Micro,Small,21,RT0081,D014,R4,West,Abeokuta,2018
+C01224,Customer 01224,Modern Trade,Micro,Small,30,RT0081,D014,R4,West,Abeokuta,2021
+C01225,Customer 01225,Modern Trade,SME,Medium,0,RT0081,D014,R4,West,Abeokuta,2018
+C01226,Customer 01226,Wholesale,Micro,Small,21,RT0081,D014,R4,West,Abeokuta,2020
+C01227,Customer 01227,General Trade,Mid-market,Medium,0,RT0081,D014,R4,West,Abeokuta,2022
+C01228,Customer 01228,Wholesale,SME,Small,14,RT0081,D014,R4,West,Abeokuta,2020
+C01229,Customer 01229,Wholesale,SME,Medium,14,RT0081,D014,R4,West,Abeokuta,2018
+C01230,Customer 01230,General Trade,Key Account,Medium,7,RT0081,D014,R4,West,Abeokuta,2023
+C01231,Customer 01231,Wholesale,Mid-market,Medium,14,RT0081,D014,R4,West,Abeokuta,2019
+C01232,Customer 01232,General Trade,Micro,Medium,21,RT0082,D014,R4,West,Abeokuta,2019
+C01233,Customer 01233,General Trade,SME,Small,7,RT0082,D014,R4,West,Abeokuta,2022
+C01234,Customer 01234,General Trade,Micro,Small,14,RT0082,D014,R4,West,Abeokuta,2016
+C01235,Customer 01235,General Trade,Mid-market,Large,21,RT0082,D014,R4,West,Abeokuta,2020
+C01236,Customer 01236,General Trade,Micro,Small,0,RT0082,D014,R4,West,Abeokuta,2021
+C01237,Customer 01237,HoReCa,Key Account,Medium,30,RT0082,D014,R4,West,Abeokuta,2017
+C01238,Customer 01238,General Trade,SME,Medium,7,RT0082,D014,R4,West,Abeokuta,2024
+C01239,Customer 01239,Modern Trade,Key Account,Large,14,RT0082,D014,R4,West,Abeokuta,2018
+C01240,Customer 01240,Modern Trade,SME,Small,0,RT0082,D014,R4,West,Abeokuta,2020
+C01241,Customer 01241,Wholesale,SME,Large,14,RT0082,D014,R4,West,Abeokuta,2018
+C01242,Customer 01242,General Trade,Mid-market,Medium,21,RT0082,D014,R4,West,Abeokuta,2023
+C01243,Customer 01243,E-commerce,Mid-market,Large,14,RT0082,D014,R4,West,Abeokuta,2017
+C01244,Customer 01244,Wholesale,SME,Small,14,RT0082,D014,R4,West,Abeokuta,2018
+C01245,Customer 01245,Wholesale,SME,Large,0,RT0082,D014,R4,West,Abeokuta,2019
+C01246,Customer 01246,General Trade,SME,Small,21,RT0082,D014,R4,West,Abeokuta,2023
+C01247,Customer 01247,HoReCa,Micro,Medium,21,RT0082,D014,R4,West,Abeokuta,2022
+C01248,Customer 01248,General Trade,SME,Small,7,RT0082,D014,R4,West,Abeokuta,2018
+C01249,Customer 01249,E-commerce,SME,Small,21,RT0082,D014,R4,West,Abeokuta,2016
+C01250,Customer 01250,Modern Trade,SME,Small,30,RT0083,D014,R4,West,Abeokuta,2022
+C01251,Customer 01251,HoReCa,Micro,Small,7,RT0083,D014,R4,West,Abeokuta,2016
+C01252,Customer 01252,General Trade,SME,Medium,14,RT0083,D014,R4,West,Abeokuta,2016
+C01253,Customer 01253,Modern Trade,Micro,Small,30,RT0083,D014,R4,West,Abeokuta,2022
+C01254,Customer 01254,HoReCa,Micro,Medium,14,RT0083,D014,R4,West,Abeokuta,2016
+C01255,Customer 01255,General Trade,Mid-market,Large,7,RT0083,D014,R4,West,Abeokuta,2023
+C01256,Customer 01256,General Trade,SME,Large,7,RT0083,D014,R4,West,Abeokuta,2019
+C01257,Customer 01257,General Trade,SME,Small,14,RT0083,D014,R4,West,Abeokuta,2021
+C01258,Customer 01258,Wholesale,Micro,Small,14,RT0083,D014,R4,West,Abeokuta,2022
+C01259,Customer 01259,General Trade,SME,Small,21,RT0083,D014,R4,West,Abeokuta,2019
+C01260,Customer 01260,General Trade,SME,Medium,0,RT0083,D014,R4,West,Abeokuta,2020
+C01261,Customer 01261,Wholesale,Micro,Medium,14,RT0083,D014,R4,West,Abeokuta,2018
+C01262,Customer 01262,Wholesale,Micro,Small,7,RT0083,D014,R4,West,Abeokuta,2022
+C01263,Customer 01263,General Trade,SME,Small,0,RT0083,D014,R4,West,Abeokuta,2019
+C01264,Customer 01264,Wholesale,SME,Small,14,RT0083,D014,R4,West,Abeokuta,2020
+C01265,Customer 01265,General Trade,SME,Medium,0,RT0083,D014,R4,West,Abeokuta,2016
+C01266,Customer 01266,General Trade,SME,Medium,0,RT0083,D014,R4,West,Abeokuta,2023
+C01267,Customer 01267,General Trade,Micro,Small,14,RT0083,D014,R4,West,Abeokuta,2020
+C01268,Customer 01268,General Trade,Micro,Medium,14,RT0083,D014,R4,West,Abeokuta,2017
+C01269,Customer 01269,General Trade,Micro,Small,14,RT0083,D014,R4,West,Abeokuta,2021
+C01270,Customer 01270,General Trade,SME,Small,0,RT0084,D014,R4,West,Abeokuta,2018
+C01271,Customer 01271,Wholesale,Micro,Small,14,RT0084,D014,R4,West,Abeokuta,2024
+C01272,Customer 01272,General Trade,Mid-market,Medium,0,RT0084,D014,R4,West,Abeokuta,2019
+C01273,Customer 01273,HoReCa,SME,Small,30,RT0084,D014,R4,West,Abeokuta,2016
+C01274,Customer 01274,General Trade,SME,Medium,0,RT0084,D014,R4,West,Abeokuta,2019
+C01275,Customer 01275,Modern Trade,SME,Medium,14,RT0084,D014,R4,West,Abeokuta,2016
+C01276,Customer 01276,General Trade,Mid-market,Large,7,RT0084,D014,R4,West,Abeokuta,2018
+C01277,Customer 01277,Wholesale,SME,Small,30,RT0084,D014,R4,West,Abeokuta,2023
+C01278,Customer 01278,Modern Trade,Key Account,Medium,30,RT0084,D014,R4,West,Abeokuta,2017
+C01279,Customer 01279,General Trade,Micro,Small,21,RT0084,D014,R4,West,Abeokuta,2020
+C01280,Customer 01280,General Trade,Key Account,Large,7,RT0084,D014,R4,West,Abeokuta,2020
+C01281,Customer 01281,Modern Trade,Micro,Large,21,RT0084,D014,R4,West,Abeokuta,2019
+C01282,Customer 01282,HoReCa,SME,Small,7,RT0084,D014,R4,West,Abeokuta,2023
+C01283,Customer 01283,General Trade,SME,Small,0,RT0084,D014,R4,West,Abeokuta,2021
+C01284,Customer 01284,General Trade,SME,Small,7,RT0084,D014,R4,West,Abeokuta,2022
+C01285,Customer 01285,Wholesale,Micro,Small,7,RT0084,D014,R4,West,Abeokuta,2020
+C01286,Customer 01286,HoReCa,Micro,Medium,14,RT0084,D014,R4,West,Abeokuta,2019
+C01287,Customer 01287,Wholesale,SME,Medium,30,RT0085,D014,R4,West,Abeokuta,2019
+C01288,Customer 01288,Modern Trade,Mid-market,Large,14,RT0085,D014,R4,West,Abeokuta,2020
+C01289,Customer 01289,Wholesale,Micro,Small,21,RT0085,D014,R4,West,Abeokuta,2019
+C01290,Customer 01290,General Trade,SME,Small,7,RT0085,D014,R4,West,Abeokuta,2022
+C01291,Customer 01291,General Trade,SME,Small,0,RT0085,D014,R4,West,Abeokuta,2017
+C01292,Customer 01292,Modern Trade,Micro,Small,0,RT0085,D014,R4,West,Abeokuta,2023
+C01293,Customer 01293,General Trade,Micro,Small,21,RT0085,D014,R4,West,Abeokuta,2018
+C01294,Customer 01294,Wholesale,Micro,Small,0,RT0085,D014,R4,West,Abeokuta,2022
+C01295,Customer 01295,Modern Trade,Key Account,Small,30,RT0085,D014,R4,West,Abeokuta,2018
+C01296,Customer 01296,Modern Trade,SME,Medium,30,RT0085,D014,R4,West,Abeokuta,2024
+C01297,Customer 01297,General Trade,Micro,Small,14,RT0085,D014,R4,West,Abeokuta,2020
+C01298,Customer 01298,General Trade,Micro,Small,14,RT0085,D014,R4,West,Abeokuta,2022
+C01299,Customer 01299,Wholesale,Mid-market,Medium,30,RT0085,D014,R4,West,Abeokuta,2018
+C01300,Customer 01300,General Trade,Mid-market,Medium,30,RT0085,D014,R4,West,Abeokuta,2020
+C01301,Customer 01301,Modern Trade,SME,Small,0,RT0085,D014,R4,West,Abeokuta,2018
+C01302,Customer 01302,General Trade,SME,Small,7,RT0085,D014,R4,West,Abeokuta,2019
+C01303,Customer 01303,General Trade,Micro,Small,0,RT0085,D014,R4,West,Abeokuta,2016
+C01304,Customer 01304,E-commerce,Mid-market,Large,0,RT0085,D014,R4,West,Abeokuta,2023
+C01305,Customer 01305,Modern Trade,Micro,Small,30,RT0086,D014,R4,West,Abeokuta,2019
+C01306,Customer 01306,General Trade,SME,Small,14,RT0086,D014,R4,West,Abeokuta,2021
+C01307,Customer 01307,General Trade,Mid-market,Small,30,RT0086,D014,R4,West,Abeokuta,2021
+C01308,Customer 01308,General Trade,SME,Small,21,RT0086,D014,R4,West,Abeokuta,2016
+C01309,Customer 01309,General Trade,Micro,Small,0,RT0086,D014,R4,West,Abeokuta,2024
+C01310,Customer 01310,Modern Trade,Mid-market,Small,0,RT0086,D014,R4,West,Abeokuta,2018
+C01311,Customer 01311,HoReCa,SME,Medium,30,RT0086,D014,R4,West,Abeokuta,2019
+C01312,Customer 01312,General Trade,SME,Large,21,RT0086,D014,R4,West,Abeokuta,2016
+C01313,Customer 01313,Modern Trade,SME,Large,7,RT0086,D014,R4,West,Abeokuta,2020
+C01314,Customer 01314,Wholesale,SME,Small,0,RT0086,D014,R4,West,Abeokuta,2018
+C01315,Customer 01315,HoReCa,Mid-market,Medium,21,RT0087,D015,R5,Central,Ilorin,2017
+C01316,Customer 01316,General Trade,Micro,Medium,14,RT0087,D015,R5,Central,Ilorin,2021
+C01317,Customer 01317,General Trade,Micro,Small,21,RT0087,D015,R5,Central,Ilorin,2018
+C01318,Customer 01318,HoReCa,Micro,Medium,7,RT0087,D015,R5,Central,Ilorin,2020
+C01319,Customer 01319,Modern Trade,Micro,Small,30,RT0087,D015,R5,Central,Ilorin,2023
+C01320,Customer 01320,General Trade,Micro,Small,7,RT0087,D015,R5,Central,Ilorin,2018
+C01321,Customer 01321,Modern Trade,Micro,Small,21,RT0087,D015,R5,Central,Ilorin,2021
+C01322,Customer 01322,Wholesale,Key Account,Large,21,RT0087,D015,R5,Central,Ilorin,2018
+C01323,Customer 01323,General Trade,SME,Medium,7,RT0087,D015,R5,Central,Ilorin,2022
+C01324,Customer 01324,General Trade,SME,Large,21,RT0087,D015,R5,Central,Ilorin,2018
+C01325,Customer 01325,General Trade,Mid-market,Medium,21,RT0087,D015,R5,Central,Ilorin,2022
+C01326,Customer 01326,General Trade,SME,Small,0,RT0088,D015,R5,Central,Ilorin,2018
+C01327,Customer 01327,HoReCa,Mid-market,Large,30,RT0088,D015,R5,Central,Ilorin,2022
+C01328,Customer 01328,HoReCa,Mid-market,Medium,21,RT0088,D015,R5,Central,Ilorin,2018
+C01329,Customer 01329,Wholesale,SME,Medium,0,RT0088,D015,R5,Central,Ilorin,2023
+C01330,Customer 01330,General Trade,SME,Small,21,RT0088,D015,R5,Central,Ilorin,2019
+C01331,Customer 01331,HoReCa,Micro,Medium,0,RT0088,D015,R5,Central,Ilorin,2023
+C01332,Customer 01332,Wholesale,Mid-market,Small,7,RT0088,D015,R5,Central,Ilorin,2016
+C01333,Customer 01333,Modern Trade,Micro,Small,21,RT0088,D015,R5,Central,Ilorin,2024
+C01334,Customer 01334,General Trade,Micro,Small,14,RT0088,D015,R5,Central,Ilorin,2019
+C01335,Customer 01335,Modern Trade,Key Account,Large,14,RT0088,D015,R5,Central,Ilorin,2023
+C01336,Customer 01336,General Trade,Mid-market,Medium,0,RT0088,D015,R5,Central,Ilorin,2022
+C01337,Customer 01337,E-commerce,Micro,Small,21,RT0088,D015,R5,Central,Ilorin,2021
+C01338,Customer 01338,Wholesale,Key Account,Medium,21,RT0088,D015,R5,Central,Ilorin,2017
+C01339,Customer 01339,General Trade,SME,Medium,30,RT0088,D015,R5,Central,Ilorin,2021
+C01340,Customer 01340,General Trade,Mid-market,Large,30,RT0088,D015,R5,Central,Ilorin,2023
+C01341,Customer 01341,Wholesale,SME,Medium,14,RT0088,D015,R5,Central,Ilorin,2019
+C01342,Customer 01342,Wholesale,Key Account,Small,21,RT0088,D015,R5,Central,Ilorin,2020
+C01343,Customer 01343,HoReCa,Mid-market,Small,7,RT0088,D015,R5,Central,Ilorin,2016
+C01344,Customer 01344,General Trade,SME,Small,21,RT0088,D015,R5,Central,Ilorin,2024
+C01345,Customer 01345,Modern Trade,Key Account,Small,21,RT0089,D015,R5,Central,Ilorin,2018
+C01346,Customer 01346,General Trade,SME,Small,30,RT0089,D015,R5,Central,Ilorin,2023
+C01347,Customer 01347,Wholesale,Key Account,Small,21,RT0089,D015,R5,Central,Ilorin,2017
+C01348,Customer 01348,E-commerce,Mid-market,Medium,14,RT0089,D015,R5,Central,Ilorin,2021
+C01349,Customer 01349,General Trade,SME,Small,30,RT0089,D015,R5,Central,Ilorin,2016
+C01350,Customer 01350,HoReCa,Micro,Small,30,RT0089,D015,R5,Central,Ilorin,2016
+C01351,Customer 01351,E-commerce,SME,Small,14,RT0089,D015,R5,Central,Ilorin,2016
+C01352,Customer 01352,E-commerce,Key Account,Medium,21,RT0089,D015,R5,Central,Ilorin,2024
+C01353,Customer 01353,General Trade,SME,Small,21,RT0089,D015,R5,Central,Ilorin,2016
+C01354,Customer 01354,General Trade,Mid-market,Medium,0,RT0089,D015,R5,Central,Ilorin,2021
+C01355,Customer 01355,General Trade,Key Account,Small,30,RT0090,D015,R5,Central,Ilorin,2022
+C01356,Customer 01356,HoReCa,Mid-market,Large,7,RT0090,D015,R5,Central,Ilorin,2020
+C01357,Customer 01357,Wholesale,SME,Small,7,RT0090,D015,R5,Central,Ilorin,2017
+C01358,Customer 01358,Modern Trade,SME,Medium,21,RT0090,D015,R5,Central,Ilorin,2021
+C01359,Customer 01359,General Trade,Mid-market,Large,0,RT0090,D015,R5,Central,Ilorin,2021
+C01360,Customer 01360,General Trade,Micro,Medium,0,RT0090,D015,R5,Central,Ilorin,2018
+C01361,Customer 01361,Modern Trade,SME,Small,30,RT0090,D015,R5,Central,Ilorin,2017
+C01362,Customer 01362,Wholesale,SME,Small,21,RT0090,D015,R5,Central,Ilorin,2020
+C01363,Customer 01363,General Trade,SME,Small,0,RT0090,D015,R5,Central,Ilorin,2017
+C01364,Customer 01364,General Trade,Mid-market,Medium,14,RT0090,D015,R5,Central,Ilorin,2020
+C01365,Customer 01365,Wholesale,Micro,Small,21,RT0090,D015,R5,Central,Ilorin,2018
+C01366,Customer 01366,HoReCa,Key Account,Medium,30,RT0090,D015,R5,Central,Ilorin,2016
+C01367,Customer 01367,General Trade,SME,Small,21,RT0090,D015,R5,Central,Ilorin,2022
+C01368,Customer 01368,General Trade,Key Account,Medium,7,RT0090,D015,R5,Central,Ilorin,2021
+C01369,Customer 01369,General Trade,SME,Small,14,RT0090,D015,R5,Central,Ilorin,2020
+C01370,Customer 01370,General Trade,SME,Small,0,RT0090,D015,R5,Central,Ilorin,2019
+C01371,Customer 01371,General Trade,SME,Small,14,RT0090,D015,R5,Central,Ilorin,2023
+C01372,Customer 01372,General Trade,Mid-market,Small,14,RT0090,D015,R5,Central,Ilorin,2020
+C01373,Customer 01373,General Trade,SME,Small,7,RT0091,D016,R5,Central,Jos,2017
+C01374,Customer 01374,General Trade,SME,Medium,7,RT0091,D016,R5,Central,Jos,2020
+C01375,Customer 01375,General Trade,Mid-market,Small,30,RT0091,D016,R5,Central,Jos,2018
+C01376,Customer 01376,General Trade,Mid-market,Small,14,RT0091,D016,R5,Central,Jos,2016
+C01377,Customer 01377,General Trade,SME,Small,21,RT0091,D016,R5,Central,Jos,2020
+C01378,Customer 01378,General Trade,SME,Small,14,RT0091,D016,R5,Central,Jos,2019
+C01379,Customer 01379,General Trade,SME,Medium,30,RT0091,D016,R5,Central,Jos,2021
+C01380,Customer 01380,General Trade,Mid-market,Medium,7,RT0091,D016,R5,Central,Jos,2019
+C01381,Customer 01381,HoReCa,SME,Small,14,RT0091,D016,R5,Central,Jos,2022
+C01382,Customer 01382,Modern Trade,SME,Small,30,RT0091,D016,R5,Central,Jos,2016
+C01383,Customer 01383,Wholesale,SME,Small,21,RT0091,D016,R5,Central,Jos,2021
+C01384,Customer 01384,General Trade,Micro,Small,7,RT0091,D016,R5,Central,Jos,2017
+C01385,Customer 01385,General Trade,SME,Small,14,RT0091,D016,R5,Central,Jos,2019
+C01386,Customer 01386,HoReCa,Micro,Large,30,RT0092,D016,R5,Central,Jos,2021
+C01387,Customer 01387,General Trade,Mid-market,Medium,14,RT0092,D016,R5,Central,Jos,2020
+C01388,Customer 01388,Wholesale,Micro,Small,21,RT0092,D016,R5,Central,Jos,2024
+C01389,Customer 01389,General Trade,Micro,Small,14,RT0092,D016,R5,Central,Jos,2018
+C01390,Customer 01390,HoReCa,SME,Small,14,RT0092,D016,R5,Central,Jos,2020
+C01391,Customer 01391,E-commerce,Micro,Small,14,RT0092,D016,R5,Central,Jos,2020
+C01392,Customer 01392,Wholesale,Micro,Small,30,RT0092,D016,R5,Central,Jos,2021
+C01393,Customer 01393,HoReCa,Micro,Medium,30,RT0092,D016,R5,Central,Jos,2018
+C01394,Customer 01394,Wholesale,SME,Small,14,RT0092,D016,R5,Central,Jos,2022
+C01395,Customer 01395,General Trade,SME,Small,0,RT0092,D016,R5,Central,Jos,2017
+C01396,Customer 01396,Wholesale,Micro,Small,30,RT0092,D016,R5,Central,Jos,2022
+C01397,Customer 01397,General Trade,Micro,Large,7,RT0092,D016,R5,Central,Jos,2018
+C01398,Customer 01398,HoReCa,SME,Small,21,RT0092,D016,R5,Central,Jos,2020
+C01399,Customer 01399,Wholesale,SME,Small,21,RT0092,D016,R5,Central,Jos,2020
+C01400,Customer 01400,Modern Trade,Micro,Medium,21,RT0093,D016,R5,Central,Jos,2017
+C01401,Customer 01401,Wholesale,SME,Medium,30,RT0093,D016,R5,Central,Jos,2016
+C01402,Customer 01402,Wholesale,Key Account,Medium,21,RT0093,D016,R5,Central,Jos,2017
+C01403,Customer 01403,Wholesale,Key Account,Small,21,RT0093,D016,R5,Central,Jos,2022
+C01404,Customer 01404,HoReCa,Micro,Medium,14,RT0093,D016,R5,Central,Jos,2016
+C01405,Customer 01405,General Trade,SME,Medium,7,RT0093,D016,R5,Central,Jos,2022
+C01406,Customer 01406,Modern Trade,Key Account,Small,30,RT0093,D016,R5,Central,Jos,2022
+C01407,Customer 01407,HoReCa,Mid-market,Large,7,RT0093,D016,R5,Central,Jos,2016
+C01408,Customer 01408,E-commerce,Mid-market,Medium,7,RT0093,D016,R5,Central,Jos,2021
+C01409,Customer 01409,HoReCa,SME,Medium,7,RT0093,D016,R5,Central,Jos,2021
+C01410,Customer 01410,General Trade,Mid-market,Medium,0,RT0093,D016,R5,Central,Jos,2023
+C01411,Customer 01411,General Trade,Mid-market,Medium,7,RT0093,D016,R5,Central,Jos,2022
+C01412,Customer 01412,E-commerce,SME,Medium,21,RT0093,D016,R5,Central,Jos,2017
+C01413,Customer 01413,General Trade,SME,Small,0,RT0094,D016,R5,Central,Jos,2019
+C01414,Customer 01414,General Trade,SME,Small,14,RT0094,D016,R5,Central,Jos,2023
+C01415,Customer 01415,Wholesale,Micro,Large,7,RT0094,D016,R5,Central,Jos,2017
+C01416,Customer 01416,Modern Trade,Micro,Large,0,RT0094,D016,R5,Central,Jos,2019
+C01417,Customer 01417,General Trade,Micro,Medium,0,RT0094,D016,R5,Central,Jos,2020
+C01418,Customer 01418,Modern Trade,Micro,Small,30,RT0094,D016,R5,Central,Jos,2021
+C01419,Customer 01419,Wholesale,Micro,Small,7,RT0094,D016,R5,Central,Jos,2022
+C01420,Customer 01420,General Trade,Micro,Medium,21,RT0094,D016,R5,Central,Jos,2018
+C01421,Customer 01421,General Trade,SME,Small,21,RT0094,D016,R5,Central,Jos,2022
+C01422,Customer 01422,General Trade,Micro,Small,7,RT0094,D016,R5,Central,Jos,2024
+C01423,Customer 01423,E-commerce,SME,Large,21,RT0094,D016,R5,Central,Jos,2018
+C01424,Customer 01424,General Trade,Micro,Small,14,RT0094,D016,R5,Central,Jos,2020
+C01425,Customer 01425,General Trade,Micro,Medium,7,RT0095,D016,R5,Central,Jos,2018
+C01426,Customer 01426,Wholesale,Key Account,Large,14,RT0095,D016,R5,Central,Jos,2021
+C01427,Customer 01427,HoReCa,SME,Small,21,RT0095,D016,R5,Central,Jos,2019
+C01428,Customer 01428,General Trade,Micro,Medium,14,RT0095,D016,R5,Central,Jos,2019
+C01429,Customer 01429,General Trade,Key Account,Medium,21,RT0095,D016,R5,Central,Jos,2020
+C01430,Customer 01430,Wholesale,Key Account,Medium,14,RT0095,D016,R5,Central,Jos,2020
+C01431,Customer 01431,General Trade,Micro,Small,30,RT0095,D016,R5,Central,Jos,2019
+C01432,Customer 01432,E-commerce,SME,Large,0,RT0095,D016,R5,Central,Jos,2022
+C01433,Customer 01433,HoReCa,Mid-market,Small,14,RT0095,D016,R5,Central,Jos,2023
+C01434,Customer 01434,Modern Trade,SME,Small,0,RT0095,D016,R5,Central,Jos,2022
+C01435,Customer 01435,General Trade,SME,Large,0,RT0095,D016,R5,Central,Jos,2021
+C01436,Customer 01436,General Trade,SME,Small,21,RT0095,D016,R5,Central,Jos,2018
+C01437,Customer 01437,Modern Trade,Mid-market,Medium,14,RT0096,D017,R5,Central,Jos,2021
+C01438,Customer 01438,General Trade,SME,Small,7,RT0096,D017,R5,Central,Jos,2018
+C01439,Customer 01439,Wholesale,Mid-market,Large,30,RT0096,D017,R5,Central,Jos,2017
+C01440,Customer 01440,Modern Trade,Mid-market,Medium,30,RT0096,D017,R5,Central,Jos,2021
+C01441,Customer 01441,Modern Trade,Mid-market,Medium,7,RT0096,D017,R5,Central,Jos,2022
+C01442,Customer 01442,General Trade,Micro,Small,7,RT0096,D017,R5,Central,Jos,2019
+C01443,Customer 01443,General Trade,SME,Medium,30,RT0096,D017,R5,Central,Jos,2020
+C01444,Customer 01444,General Trade,Key Account,Large,0,RT0096,D017,R5,Central,Jos,2024
+C01445,Customer 01445,General Trade,SME,Large,0,RT0096,D017,R5,Central,Jos,2021
+C01446,Customer 01446,Modern Trade,Mid-market,Medium,21,RT0096,D017,R5,Central,Jos,2022
+C01447,Customer 01447,General Trade,Micro,Small,0,RT0096,D017,R5,Central,Jos,2018
+C01448,Customer 01448,General Trade,SME,Small,7,RT0097,D017,R5,Central,Jos,2024
+C01449,Customer 01449,General Trade,SME,Medium,0,RT0097,D017,R5,Central,Jos,2019
+C01450,Customer 01450,Modern Trade,SME,Small,14,RT0097,D017,R5,Central,Jos,2021
+C01451,Customer 01451,Modern Trade,SME,Small,21,RT0097,D017,R5,Central,Jos,2024
+C01452,Customer 01452,Modern Trade,Micro,Small,30,RT0097,D017,R5,Central,Jos,2023
+C01453,Customer 01453,General Trade,SME,Small,7,RT0097,D017,R5,Central,Jos,2017
+C01454,Customer 01454,Wholesale,Key Account,Medium,21,RT0097,D017,R5,Central,Jos,2018
+C01455,Customer 01455,HoReCa,Micro,Small,14,RT0097,D017,R5,Central,Jos,2018
+C01456,Customer 01456,Wholesale,Mid-market,Medium,30,RT0097,D017,R5,Central,Jos,2018
+C01457,Customer 01457,Wholesale,Key Account,Large,7,RT0097,D017,R5,Central,Jos,2021
+C01458,Customer 01458,General Trade,Micro,Small,0,RT0097,D017,R5,Central,Jos,2021
+C01459,Customer 01459,General Trade,SME,Medium,7,RT0097,D017,R5,Central,Jos,2018
+C01460,Customer 01460,General Trade,SME,Small,7,RT0097,D017,R5,Central,Jos,2017
+C01461,Customer 01461,General Trade,Micro,Small,14,RT0097,D017,R5,Central,Jos,2022
+C01462,Customer 01462,Wholesale,SME,Medium,30,RT0097,D017,R5,Central,Jos,2016
+C01463,Customer 01463,General Trade,Mid-market,Medium,7,RT0097,D017,R5,Central,Jos,2022
+C01464,Customer 01464,General Trade,SME,Small,14,RT0097,D017,R5,Central,Jos,2022
+C01465,Customer 01465,HoReCa,SME,Small,30,RT0098,D017,R5,Central,Jos,2018
+C01466,Customer 01466,General Trade,Micro,Small,30,RT0098,D017,R5,Central,Jos,2024
+C01467,Customer 01467,General Trade,SME,Small,7,RT0098,D017,R5,Central,Jos,2022
+C01468,Customer 01468,Wholesale,SME,Small,14,RT0098,D017,R5,Central,Jos,2018
+C01469,Customer 01469,Wholesale,Mid-market,Large,21,RT0098,D017,R5,Central,Jos,2022
+C01470,Customer 01470,General Trade,SME,Medium,21,RT0098,D017,R5,Central,Jos,2020
+C01471,Customer 01471,General Trade,SME,Small,7,RT0098,D017,R5,Central,Jos,2024
+C01472,Customer 01472,General Trade,SME,Small,14,RT0098,D017,R5,Central,Jos,2017
+C01473,Customer 01473,Modern Trade,Mid-market,Small,30,RT0098,D017,R5,Central,Jos,2019
+C01474,Customer 01474,E-commerce,Key Account,Medium,7,RT0098,D017,R5,Central,Jos,2019
+C01475,Customer 01475,E-commerce,Micro,Small,21,RT0098,D017,R5,Central,Jos,2021
+C01476,Customer 01476,General Trade,Mid-market,Large,30,RT0098,D017,R5,Central,Jos,2024
+C01477,Customer 01477,Wholesale,SME,Small,7,RT0098,D017,R5,Central,Jos,2016
+C01478,Customer 01478,Modern Trade,Micro,Medium,30,RT0098,D017,R5,Central,Jos,2023
+C01479,Customer 01479,E-commerce,Mid-market,Large,21,RT0098,D017,R5,Central,Jos,2018
+C01480,Customer 01480,E-commerce,Micro,Small,0,RT0098,D017,R5,Central,Jos,2021
+C01481,Customer 01481,Modern Trade,Micro,Small,0,RT0098,D017,R5,Central,Jos,2018
+C01482,Customer 01482,General Trade,Key Account,Large,7,RT0098,D017,R5,Central,Jos,2019
+C01483,Customer 01483,General Trade,Mid-market,Large,14,RT0098,D017,R5,Central,Jos,2022
+C01484,Customer 01484,General Trade,SME,Small,7,RT0098,D017,R5,Central,Jos,2022
+C01485,Customer 01485,Modern Trade,Mid-market,Medium,30,RT0099,D017,R5,Central,Jos,2021
+C01486,Customer 01486,Modern Trade,Micro,Medium,14,RT0099,D017,R5,Central,Jos,2018
+C01487,Customer 01487,Wholesale,Micro,Small,14,RT0099,D017,R5,Central,Jos,2024
+C01488,Customer 01488,General Trade,SME,Small,21,RT0099,D017,R5,Central,Jos,2016
+C01489,Customer 01489,Modern Trade,Key Account,Medium,30,RT0099,D017,R5,Central,Jos,2019
+C01490,Customer 01490,Modern Trade,SME,Small,30,RT0099,D017,R5,Central,Jos,2018
+C01491,Customer 01491,Wholesale,Mid-market,Medium,14,RT0099,D017,R5,Central,Jos,2021
+C01492,Customer 01492,General Trade,Micro,Small,0,RT0099,D017,R5,Central,Jos,2022
+C01493,Customer 01493,Wholesale,Key Account,Medium,14,RT0099,D017,R5,Central,Jos,2022
+C01494,Customer 01494,Wholesale,Micro,Medium,14,RT0099,D017,R5,Central,Jos,2022
+C01495,Customer 01495,Modern Trade,Key Account,Medium,30,RT0099,D017,R5,Central,Jos,2023
+C01496,Customer 01496,General Trade,Micro,Medium,0,RT0099,D017,R5,Central,Jos,2020
+C01497,Customer 01497,Wholesale,SME,Small,30,RT0099,D017,R5,Central,Jos,2023
+C01498,Customer 01498,Modern Trade,Micro,Small,7,RT0099,D017,R5,Central,Jos,2021
+C01499,Customer 01499,General Trade,Micro,Small,7,RT0099,D017,R5,Central,Jos,2019
+C01500,Customer 01500,E-commerce,Key Account,Medium,14,RT0100,D017,R5,Central,Jos,2020
+C01501,Customer 01501,Modern Trade,SME,Small,30,RT0100,D017,R5,Central,Jos,2021
+C01502,Customer 01502,Wholesale,Mid-market,Medium,21,RT0100,D017,R5,Central,Jos,2019
+C01503,Customer 01503,General Trade,SME,Small,0,RT0100,D017,R5,Central,Jos,2017
+C01504,Customer 01504,Modern Trade,SME,Large,30,RT0100,D017,R5,Central,Jos,2016
+C01505,Customer 01505,HoReCa,Micro,Small,21,RT0100,D017,R5,Central,Jos,2024
+C01506,Customer 01506,Modern Trade,Micro,Small,7,RT0100,D017,R5,Central,Jos,2020
+C01507,Customer 01507,Modern Trade,Micro,Large,14,RT0100,D017,R5,Central,Jos,2016
+C01508,Customer 01508,Wholesale,SME,Small,21,RT0100,D017,R5,Central,Jos,2022
+C01509,Customer 01509,Wholesale,SME,Small,30,RT0100,D017,R5,Central,Jos,2021
+C01510,Customer 01510,General Trade,Mid-market,Medium,0,RT0100,D017,R5,Central,Jos,2017
+C01511,Customer 01511,Modern Trade,Mid-market,Medium,7,RT0100,D017,R5,Central,Jos,2021
+C01512,Customer 01512,General Trade,Key Account,Small,30,RT0100,D017,R5,Central,Jos,2023
+C01513,Customer 01513,General Trade,Micro,Medium,30,RT0100,D017,R5,Central,Jos,2019

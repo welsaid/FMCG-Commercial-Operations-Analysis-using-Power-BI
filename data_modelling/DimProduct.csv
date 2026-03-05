@@ -1,0 +1,61 @@
+ProductID,Product,Category,Subcategory,Brand,Pack,UOM,CaseSize,ListPrice,StdCost,LifecycleStatus,LaunchDate
+SKU001,FizzUp Carbonated 330ml,Beverages,Carbonated,FizzUp,330ml,Unit,12,701.0,390.0,Active,2019-05-01
+SKU002,FizzUp Carbonated 330ml,Beverages,Carbonated,FizzUp,330ml,Unit,6,643.0,439.0,Active,2023-11-01
+SKU003,SunSip Carbonated 330ml,Beverages,Carbonated,SunSip,330ml,Unit,24,523.0,371.0,Active,2023-04-01
+SKU004,AquaPure Carbonated 330ml,Beverages,Carbonated,AquaPure,330ml,Unit,24,537.0,357.0,Active,2020-07-01
+SKU005,FizzUp Juice 250ml,Beverages,Juice,FizzUp,250ml,Unit,12,566.0,348.0,Active,2023-07-01
+SKU006,FizzUp Juice 500ml,Beverages,Juice,FizzUp,500ml,Unit,6,1588.0,1041.0,Active,2021-02-01
+SKU007,SunSip Juice 500ml,Beverages,Juice,SunSip,500ml,Unit,12,1274.0,763.0,Active,2023-03-01
+SKU008,SunSip Juice 500ml,Beverages,Juice,SunSip,500ml,Unit,6,785.0,433.0,Active,2019-10-01
+SKU009,AquaPure Juice 600ml,Beverages,Juice,AquaPure,600ml,Unit,6,1100.0,780.0,Active,2019-10-01
+SKU010,AquaPure Juice 600ml,Beverages,Juice,AquaPure,600ml,Unit,6,1591.0,908.0,Active,2024-12-01
+SKU011,FizzUp Water 1000ml,Beverages,Water,FizzUp,1000ml,Unit,12,2439.0,1369.0,Active,2021-11-01
+SKU012,FizzUp Water 250ml,Beverages,Water,FizzUp,250ml,Unit,24,520.0,345.0,Active,2024-04-01
+SKU013,SunSip Water 250ml,Beverages,Water,SunSip,250ml,Unit,12,421.0,244.0,Active,2022-01-01
+SKU014,AquaPure Water 600ml,Beverages,Water,AquaPure,600ml,Unit,24,1236.0,702.0,Active,2019-12-01
+SKU015,Crunchio Chips 80g,Snacks,Chips,Crunchio,80g,Unit,48,866.0,500.0,Active,2020-03-01
+SKU016,Biscotti Chips 80g,Snacks,Chips,Biscotti,80g,Unit,24,653.0,373.0,Active,2019-06-01
+SKU017,SweetBite Chips 400g,Snacks,Chips,SweetBite,400g,Unit,24,3178.0,1808.0,Active,2023-05-01
+SKU018,SweetBite Chips 120g,Snacks,Chips,SweetBite,120g,Unit,48,793.0,443.0,Active,2023-08-01
+SKU019,Crunchio Biscuits 80g,Snacks,Biscuits,Crunchio,80g,Unit,24,640.0,425.0,Active,2019-03-01
+SKU020,Crunchio Biscuits 120g,Snacks,Biscuits,Crunchio,120g,Unit,48,1383.0,991.0,Active,2021-12-01
+SKU021,Biscotti Biscuits 80g,Snacks,Biscuits,Biscotti,80g,Unit,12,567.0,324.0,Active,2023-08-01
+SKU022,SweetBite Biscuits 120g,Snacks,Biscuits,SweetBite,120g,Unit,48,736.0,507.0,Active,2022-03-01
+SKU023,SweetBite Biscuits 200g,Snacks,Biscuits,SweetBite,200g,Unit,24,1934.0,1293.0,Active,2025-06-01
+SKU024,Crunchio Candy 400g,Snacks,Candy,Crunchio,400g,Unit,24,3650.0,2468.0,Active,2020-05-01
+SKU025,Biscotti Candy 400g,Snacks,Candy,Biscotti,400g,Unit,12,3205.0,2295.0,Active,2019-06-01
+SKU026,SweetBite Candy 120g,Snacks,Candy,SweetBite,120g,Unit,48,1038.0,574.0,Active,2025-02-01
+SKU027,SweetBite Candy 200g,Snacks,Candy,SweetBite,200g,Unit,24,1285.0,748.0,Active,2019-12-01
+SKU028,CleanWave Soap 100g,Personal Care,Soap,CleanWave,100g,Unit,48,1638.0,959.0,Active,2019-09-01
+SKU029,CleanWave Soap 200g,Personal Care,Soap,CleanWave,200g,Unit,12,2083.0,1209.0,Active,2021-07-01
+SKU030,BrightSmile Soap 100g,Personal Care,Soap,BrightSmile,100g,Unit,24,1983.0,1306.0,Active,2024-07-01
+SKU031,FreshGuard Soap 150g,Personal Care,Soap,FreshGuard,150g,Unit,24,2760.0,1868.0,Active,2023-04-01
+SKU032,FreshGuard Soap 50g,Personal Care,Soap,FreshGuard,50g,Unit,24,524.0,328.0,Active,2023-05-01
+SKU033,CleanWave Toothpaste 150g,Personal Care,Toothpaste,CleanWave,150g,Unit,24,2827.0,1608.0,Active,2024-09-01
+SKU034,CleanWave Toothpaste 200g,Personal Care,Toothpaste,CleanWave,200g,Unit,24,3486.0,2191.0,Discontinued,2025-03-01
+SKU035,BrightSmile Toothpaste 75g,Personal Care,Toothpaste,BrightSmile,75g,Unit,24,1118.0,646.0,Active,2021-09-01
+SKU036,FreshGuard Toothpaste 150g,Personal Care,Toothpaste,FreshGuard,150g,Unit,48,1377.0,859.0,Discontinued,2025-01-01
+SKU037,CleanWave Deodorant 50g,Personal Care,Deodorant,CleanWave,50g,Unit,12,590.0,353.0,Active,2024-10-01
+SKU038,CleanWave Deodorant 100g,Personal Care,Deodorant,CleanWave,100g,Unit,12,1775.0,1016.0,Active,2019-06-01
+SKU039,BrightSmile Deodorant 200g,Personal Care,Deodorant,BrightSmile,200g,Unit,24,3162.0,2259.0,Active,2024-11-01
+SKU040,FreshGuard Deodorant 100g,Personal Care,Deodorant,FreshGuard,100g,Unit,12,1324.0,818.0,Active,2021-06-01
+SKU041,FreshGuard Deodorant 75g,Personal Care,Deodorant,FreshGuard,75g,Unit,12,804.0,521.0,Active,2020-06-01
+SKU042,Sparkle Detergent 250ml,Home Care,Detergent,Sparkle,250ml,Unit,24,440.0,304.0,Active,2020-10-01
+SKU043,GermAway Detergent 1000ml,Home Care,Detergent,GermAway,1000ml,Unit,24,3028.0,1712.0,Active,2019-06-01
+SKU044,GermAway Detergent 1000ml,Home Care,Detergent,GermAway,1000ml,Unit,48,3318.0,2269.0,Active,2022-04-01
+SKU045,Breeze Detergent 250ml,Home Care,Detergent,Breeze,250ml,Unit,48,974.0,618.0,Discontinued,2022-09-01
+SKU046,Sparkle Disinfectant 500ml,Home Care,Disinfectant,Sparkle,500ml,Unit,24,1799.0,1250.0,Active,2020-06-01
+SKU047,GermAway Disinfectant 1000ml,Home Care,Disinfectant,GermAway,1000ml,Unit,24,2676.0,1918.0,Active,2023-12-01
+SKU048,Breeze Disinfectant 1000ml,Home Care,Disinfectant,Breeze,1000ml,Unit,48,2364.0,1367.0,Active,2024-09-01
+SKU049,Breeze Disinfectant 1000ml,Home Care,Disinfectant,Breeze,1000ml,Unit,24,2147.0,1185.0,Active,2022-04-01
+SKU050,Sparkle Air Freshener 750ml,Home Care,Air Freshener,Sparkle,750ml,Unit,48,1756.0,1005.0,Active,2019-11-01
+SKU051,GermAway Air Freshener 1000ml,Home Care,Air Freshener,GermAway,1000ml,Unit,24,2793.0,1736.0,Active,2024-02-01
+SKU052,Breeze Air Freshener 250ml,Home Care,Air Freshener,Breeze,250ml,Unit,12,726.0,431.0,Active,2022-10-01
+SKU053,Sparkle Disinfectant 750ml (Limited),Home Care,Disinfectant,Sparkle,750ml,Unit,12,2529.0,1664.0,Active,2023-07-01
+SKU054,Sparkle Air Freshener 750ml (Limited),Home Care,Air Freshener,Sparkle,750ml,Unit,12,2442.0,1428.0,Active,2022-09-01
+SKU055,GermAway Detergent 1000ml (Limited),Home Care,Detergent,GermAway,1000ml,Unit,24,3590.0,2129.0,Active,2021-03-01
+SKU056,Biscotti Candy 200g (Limited),Snacks,Candy,Biscotti,200g,Unit,24,1450.0,811.0,Active,2020-08-01
+SKU057,FizzUp Water 500ml (Limited),Beverages,Water,FizzUp,500ml,Unit,24,1275.0,871.0,Active,2022-11-01
+SKU058,Crunchio Chips 80g (Limited),Snacks,Chips,Crunchio,80g,Unit,48,1380.0,928.0,Active,2022-08-01
+SKU059,FizzUp Carbonated 500ml (Limited),Beverages,Carbonated,FizzUp,500ml,Unit,24,899.0,618.0,Active,2022-04-01
+SKU060,Breeze Disinfectant 500ml (Limited),Home Care,Disinfectant,Breeze,500ml,Unit,24,1066.0,664.0,Active,2021-09-01

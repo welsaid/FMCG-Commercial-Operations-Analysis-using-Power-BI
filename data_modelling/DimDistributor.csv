@@ -1,0 +1,18 @@
+DistributorID,Distributor,RegionID,Region,State,PrimaryHub
+D001,North Distribution Co. 1,R1,North,Kaduna,Kaduna Hub
+D002,North Distribution Co. 2,R1,North,Abuja,Abuja Hub
+D003,North Distribution Co. 3,R1,North,Abuja,Abuja Hub
+D004,North Distribution Co. 4,R1,North,Kaduna,Kaduna Hub
+D005,South Distribution Co. 1,R2,South,Benin,Benin Hub
+D006,South Distribution Co. 2,R2,South,Port Harcourt,Port Harcourt Hub
+D007,East Distribution Co. 1,R3,East,Owerri,Owerri Hub
+D008,East Distribution Co. 2,R3,East,Owerri,Owerri Hub
+D009,East Distribution Co. 3,R3,East,Owerri,Owerri Hub
+D010,East Distribution Co. 4,R3,East,Enugu,Enugu Hub
+D011,West Distribution Co. 1,R4,West,Abeokuta,Abeokuta Hub
+D012,West Distribution Co. 2,R4,West,Ibadan,Ibadan Hub
+D013,West Distribution Co. 3,R4,West,Abeokuta,Abeokuta Hub
+D014,West Distribution Co. 4,R4,West,Abeokuta,Abeokuta Hub
+D015,Central Distribution Co. 1,R5,Central,Ilorin,Ilorin Hub
+D016,Central Distribution Co. 2,R5,Central,Jos,Jos Hub
+D017,Central Distribution Co. 3,R5,Central,Jos,Jos Hub
