@@ -30,6 +30,7 @@ A fast-moving consumer goods company, which sells multiple brands and SKUs acros
 
 ---
 ### Dashboard
+<img width="3604" height="6821" alt="Picture1 (2)" src="https://github.com/user-attachments/assets/df4056e0-7574-4eed-b6a4-3d50f3c60e46" />
 
 ---
 ### Key Insights
