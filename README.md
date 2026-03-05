@@ -18,6 +18,15 @@ A fast-moving consumer goods company, which sells multiple brands and SKUs acros
   - Power Query for data transformation/cleansing to ensure accuracy and maintain data integrity.
   - DAX (Data Analysis Expression) for custom logic and calculated metric.
   - Powerpoint for designing the dashboard layout and visual structure.
+ 
+- Methodology
+  - Data Cleaning:
+    - Null values indicate invoices that are still unpaid as of the reporting date.
+    - Standardized inconsistent text format to ensure the accuracy and reliability of the analysis.
+   
+  - Data Modelling: Relationships between tables were structured to enable faster filtering and dynamic visualization.
+ 
+  - Visual Storytelling: Used line charts, column charts, bar charts, scatter plots, donut charts and tables to communicate insights clearly.
 
 ---
 ### Dashboard
