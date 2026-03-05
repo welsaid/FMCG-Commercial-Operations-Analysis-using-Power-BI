@@ -35,6 +35,12 @@ There are issues regarding uneven perfomance and execution challenges across the
 
 ---
 ### Key Insights
+- The business generated **6.55bn** net revenue and **2.05bn** gross profit, delivering a strong **31.26%** gross margin. This confirms that the business is profitable.
+- Although profianilit is high, target achievementis **92.39%**. which indicates that actual revenue is below plan.
+- The revenue line indicates fluctuations across months, with a noticeable late spike at the most recent period.
+- Revenue is heavily driven by Wholesales (), with Modern Trade also significant.
+- The top SKUs contribute the majority of the revenue figures (top SKU around **505M**)
+- The SKU underperformance table shows that some products struggle on net sales and margin, with discount and returns appearing as potentil contributors.
 
 ---
 ### Recommendations
