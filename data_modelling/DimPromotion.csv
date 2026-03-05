@@ -1,0 +1,25 @@
+PromoID,Promo,PromoType,StartDate,EndDate,RegionScope,DiscountPct,Budget
+P001,Trade Allowance P001,Trade Allowance,2024-03-31,2024-04-07,All,0.1,11269885.0
+P002,Price Discount P002,Price Discount,2025-09-22,2025-10-06,All,0.15,10457086.0
+P003,Bundle P003,Bundle,2025-05-10,2025-05-31,All,0.0,10473551.0
+P004,Display Incentive P004,Display Incentive,2025-10-22,2025-11-01,All,0.0,6570240.0
+P005,Price Discount P005,Price Discount,2024-06-29,2024-07-20,East,0.12,7854859.0
+P006,Display Incentive P006,Display Incentive,2024-08-28,2024-09-18,All,0.0,11426027.0
+P007,Display Incentive P007,Display Incentive,2026-02-04,2026-02-11,All,0.0,3271812.0
+P008,Price Discount P008,Price Discount,2024-08-13,2024-08-23,East,0.15,8546212.0
+P009,Bundle P009,Bundle,2025-11-06,2025-11-20,All,0.0,10610088.0
+P010,Price Discount P010,Price Discount,2024-04-15,2024-04-22,South,0.1,2278498.0
+P011,Price Discount P011,Price Discount,2024-03-01,2024-03-11,South,0.12,8383418.0
+P012,Bundle P012,Bundle,2025-05-10,2025-05-24,West,0.0,3615980.0
+P013,Price Discount P013,Price Discount,2025-01-10,2025-01-24,All,0.2,5077242.0
+P014,Bundle P014,Bundle,2024-05-15,2024-06-05,All,0.0,4889370.0
+P015,Bundle P015,Bundle,2025-09-07,2025-10-05,All,0.0,6110472.0
+P016,Display Incentive P016,Display Incentive,2025-01-10,2025-01-31,All,0.0,9284709.0
+P017,Price Discount P017,Price Discount,2024-06-14,2024-06-24,All,0.05,4235278.0
+P018,Price Discount P018,Price Discount,2025-06-09,2025-06-23,All,0.2,7133806.0
+P019,Price Discount P019,Price Discount,2024-09-12,2024-09-26,West,0.2,2743316.0
+P020,Bundle P020,Bundle,2024-07-14,2024-07-24,West,0.0,8326960.0
+P021,Price Discount P021,Price Discount,2024-10-12,2024-11-02,North,0.1,7981824.0
+P022,Price Discount P022,Price Discount,2025-06-09,2025-06-30,All,0.15,11257885.0
+P023,Bundle P023,Bundle,2024-07-29,2024-08-05,East,0.0,3603090.0
+P024,Price Discount P024,Price Discount,2024-03-01,2024-03-22,All,0.1,7868204.0

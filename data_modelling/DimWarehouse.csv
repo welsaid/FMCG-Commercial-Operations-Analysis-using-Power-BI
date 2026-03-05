@@ -1,0 +1,18 @@
+WarehouseID,Warehouse,DistributorID,RegionID,State,WarehouseType
+W001,Kaduna DC,D001,R1,Kaduna,Distributor DC
+W002,Abuja DC,D002,R1,Abuja,Distributor DC
+W003,Abuja DC,D003,R1,Abuja,Distributor DC
+W004,Kaduna DC,D004,R1,Kaduna,Distributor DC
+W005,Benin DC,D005,R2,Benin,Distributor DC
+W006,Port Harcourt DC,D006,R2,Port Harcourt,Distributor DC
+W007,Owerri DC,D007,R3,Owerri,Distributor DC
+W008,Owerri DC,D008,R3,Owerri,Distributor DC
+W009,Owerri DC,D009,R3,Owerri,Distributor DC
+W010,Enugu DC,D010,R3,Enugu,Distributor DC
+W011,Abeokuta DC,D011,R4,Abeokuta,Distributor DC
+W012,Ibadan DC,D012,R4,Ibadan,Distributor DC
+W013,Abeokuta DC,D013,R4,Abeokuta,Distributor DC
+W014,Abeokuta DC,D014,R4,Abeokuta,Distributor DC
+W015,Ilorin DC,D015,R5,Ilorin,Distributor DC
+W016,Jos DC,D016,R5,Jos,Distributor DC
+W017,Jos DC,D017,R5,Jos,Distributor DC

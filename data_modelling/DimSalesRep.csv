@@ -1,0 +1,93 @@
+SalesRepID,SalesRep,Role,DistributorID,RegionID,Region,State
+S0001,Rep 0001,Territory Sales Rep,D001,R1,North,Kaduna
+S0002,Rep 0002,Sales Rep,D001,R1,North,Kaduna
+S0003,Rep 0003,Account Exec,D001,R1,North,Kaduna
+S0004,Rep 0004,Sales Rep,D002,R1,North,Abuja
+S0005,Rep 0005,Territory Sales Rep,D002,R1,North,Abuja
+S0006,Rep 0006,Territory Sales Rep,D002,R1,North,Abuja
+S0007,Rep 0007,Sales Rep,D002,R1,North,Abuja
+S0008,Rep 0008,Sales Rep,D002,R1,North,Abuja
+S0009,Rep 0009,Territory Sales Rep,D002,R1,North,Abuja
+S0010,Rep 0010,Sales Rep,D002,R1,North,Abuja
+S0011,Rep 0011,Sales Rep,D003,R1,North,Abuja
+S0012,Rep 0012,Account Exec,D003,R1,North,Abuja
+S0013,Rep 0013,Sales Rep,D003,R1,North,Abuja
+S0014,Rep 0014,Account Exec,D004,R1,North,Kaduna
+S0015,Rep 0015,Account Exec,D004,R1,North,Kaduna
+S0016,Rep 0016,Sales Rep,D004,R1,North,Kaduna
+S0017,Rep 0017,Account Exec,D004,R1,North,Kaduna
+S0018,Rep 0018,Territory Sales Rep,D004,R1,North,Kaduna
+S0019,Rep 0019,Sales Rep,D004,R1,North,Kaduna
+S0020,Rep 0020,Territory Sales Rep,D005,R2,South,Benin
+S0021,Rep 0021,Sales Rep,D005,R2,South,Benin
+S0022,Rep 0022,Sales Rep,D005,R2,South,Benin
+S0023,Rep 0023,Sales Rep,D005,R2,South,Benin
+S0024,Rep 0024,Sales Rep,D006,R2,South,Port Harcourt
+S0025,Rep 0025,Account Exec,D006,R2,South,Port Harcourt
+S0026,Rep 0026,Territory Sales Rep,D006,R2,South,Port Harcourt
+S0027,Rep 0027,Sales Rep,D006,R2,South,Port Harcourt
+S0028,Rep 0028,Account Exec,D006,R2,South,Port Harcourt
+S0029,Rep 0029,Sales Rep,D007,R3,East,Owerri
+S0030,Rep 0030,Territory Sales Rep,D007,R3,East,Owerri
+S0031,Rep 0031,Sales Rep,D007,R3,East,Owerri
+S0032,Rep 0032,Account Exec,D007,R3,East,Owerri
+S0033,Rep 0033,Territory Sales Rep,D008,R3,East,Owerri
+S0034,Rep 0034,Account Exec,D008,R3,East,Owerri
+S0035,Rep 0035,Territory Sales Rep,D008,R3,East,Owerri
+S0036,Rep 0036,Account Exec,D008,R3,East,Owerri
+S0037,Rep 0037,Account Exec,D008,R3,East,Owerri
+S0038,Rep 0038,Sales Rep,D009,R3,East,Owerri
+S0039,Rep 0039,Sales Rep,D009,R3,East,Owerri
+S0040,Rep 0040,Account Exec,D009,R3,East,Owerri
+S0041,Rep 0041,Sales Rep,D009,R3,East,Owerri
+S0042,Rep 0042,Territory Sales Rep,D009,R3,East,Owerri
+S0043,Rep 0043,Sales Rep,D009,R3,East,Owerri
+S0044,Rep 0044,Territory Sales Rep,D009,R3,East,Owerri
+S0045,Rep 0045,Sales Rep,D010,R3,East,Enugu
+S0046,Rep 0046,Account Exec,D010,R3,East,Enugu
+S0047,Rep 0047,Account Exec,D010,R3,East,Enugu
+S0048,Rep 0048,Account Exec,D010,R3,East,Enugu
+S0049,Rep 0049,Territory Sales Rep,D010,R3,East,Enugu
+S0050,Rep 0050,Sales Rep,D010,R3,East,Enugu
+S0051,Rep 0051,Sales Rep,D010,R3,East,Enugu
+S0052,Rep 0052,Sales Rep,D011,R4,West,Abeokuta
+S0053,Rep 0053,Territory Sales Rep,D011,R4,West,Abeokuta
+S0054,Rep 0054,Sales Rep,D011,R4,West,Abeokuta
+S0055,Rep 0055,Sales Rep,D011,R4,West,Abeokuta
+S0056,Rep 0056,Sales Rep,D011,R4,West,Abeokuta
+S0057,Rep 0057,Sales Rep,D011,R4,West,Abeokuta
+S0058,Rep 0058,Sales Rep,D011,R4,West,Abeokuta
+S0059,Rep 0059,Territory Sales Rep,D012,R4,West,Ibadan
+S0060,Rep 0060,Territory Sales Rep,D012,R4,West,Ibadan
+S0061,Rep 0061,Account Exec,D012,R4,West,Ibadan
+S0062,Rep 0062,Territory Sales Rep,D012,R4,West,Ibadan
+S0063,Rep 0063,Territory Sales Rep,D013,R4,West,Abeokuta
+S0064,Rep 0064,Account Exec,D013,R4,West,Abeokuta
+S0065,Rep 0065,Sales Rep,D013,R4,West,Abeokuta
+S0066,Rep 0066,Sales Rep,D013,R4,West,Abeokuta
+S0067,Rep 0067,Account Exec,D013,R4,West,Abeokuta
+S0068,Rep 0068,Account Exec,D014,R4,West,Abeokuta
+S0069,Rep 0069,Sales Rep,D014,R4,West,Abeokuta
+S0070,Rep 0070,Account Exec,D014,R4,West,Abeokuta
+S0071,Rep 0071,Sales Rep,D014,R4,West,Abeokuta
+S0072,Rep 0072,Account Exec,D014,R4,West,Abeokuta
+S0073,Rep 0073,Territory Sales Rep,D014,R4,West,Abeokuta
+S0074,Rep 0074,Account Exec,D014,R4,West,Abeokuta
+S0075,Rep 0075,Sales Rep,D015,R5,Central,Ilorin
+S0076,Rep 0076,Territory Sales Rep,D015,R5,Central,Ilorin
+S0077,Rep 0077,Sales Rep,D015,R5,Central,Ilorin
+S0078,Rep 0078,Sales Rep,D015,R5,Central,Ilorin
+S0079,Rep 0079,Sales Rep,D015,R5,Central,Ilorin
+S0080,Rep 0080,Sales Rep,D015,R5,Central,Ilorin
+S0081,Rep 0081,Account Exec,D015,R5,Central,Ilorin
+S0082,Rep 0082,Account Exec,D016,R5,Central,Jos
+S0083,Rep 0083,Sales Rep,D016,R5,Central,Jos
+S0084,Rep 0084,Sales Rep,D016,R5,Central,Jos
+S0085,Rep 0085,Account Exec,D016,R5,Central,Jos
+S0086,Rep 0086,Account Exec,D016,R5,Central,Jos
+S0087,Rep 0087,Sales Rep,D017,R5,Central,Jos
+S0088,Rep 0088,Sales Rep,D017,R5,Central,Jos
+S0089,Rep 0089,Sales Rep,D017,R5,Central,Jos
+S0090,Rep 0090,Territory Sales Rep,D017,R5,Central,Jos
+S0091,Rep 0091,Sales Rep,D017,R5,Central,Jos
+S0092,Rep 0092,Sales Rep,D017,R5,Central,Jos
