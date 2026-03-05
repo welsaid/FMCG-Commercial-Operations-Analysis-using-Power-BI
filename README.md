@@ -1,10 +1,11 @@
 # FMCG Commercial Operations Analysis Report
 
 ### Project Overview
-A fast-moving consumer goods company, which sells multiple brands and SKUs across regions, channels, and distributors wants to improve the operation of the business by executing the right stategies. This project is meant to show how commercial performance is trending, where operational execution is helping or hurting sales, and how inventory and cash discipline affect sustainable growth.
+An FMCG (fast-moving consumer goods) company, which sells multiple brands and SKUs across regions, channels, and distributors wants to improve the operation of the business by executing the right stategies. This project aims to uncover how commercial performance is trending, where operational execution is helping or hurting sales, and how inventory and cash discipline affect sustainable growth.
 
 ---
 ### Problem Statement
+There are issues regarding uneven perfomance and execution challenges across the value chain of the business. The lack of a single and reliable insight on where distribution gaps are reducing sales and how inventory/receivables are impacting the working capital.
 
 ---
 ### Business Questions Answered
