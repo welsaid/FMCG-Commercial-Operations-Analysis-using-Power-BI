@@ -36,15 +36,15 @@ There are issues regarding uneven perfomance and execution challenges across the
 ---
 ### Key Insights
 - The business generated **6.55bn** net revenue and **2.05bn** gross profit, delivering a strong **31.26%** gross margin. This confirms that the business is profitable.
-- Although profianilit is high, target achievementis **92.39%**. which indicates that actual revenue is below plan.
+- Although profitability is high, target achievement is **92.39%**. which indicates that actual revenue is below plan.
 - The revenue line indicates fluctuations across months, with a noticeable late spike at the most recent period.
 - Revenue is heavily driven by Wholesales (**47.5%**), with Modern Trade also significant.
 - The top SKUs contribute the majority of the revenue figures (around **505M**)
 - The SKU underperformance table shows that some products struggle on net sales and margin, with discount and returns appearing as potentil contributors.
-- A 94.31% fill rate indicates that orders are largel being fulfilled.
-- On-time delivery is 70%, which is low compared to the fill rate.
+- A **94.31%** fill rate indicates that orders are largel being fulfilled.
+- On-time delivery is **70%**, which is low compared to the fill rate.
 - The route efficiency scatter plot shows uneven perfomances: some route have strong revenue efficiency, while others show higher cost/ weaker ouput.
-- Even with 19.38 days of civer, stockout rate is 21.67%, which suggests stock imbalace.
+- Even with **19.38 days** of civer, stockout rate is **21.67%**, which suggests stock imbalace.
 
 ---
 ### Recommendations
