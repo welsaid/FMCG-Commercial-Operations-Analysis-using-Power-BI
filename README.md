@@ -43,7 +43,7 @@ There are issues regarding uneven perfomance and execution challenges across the
 - The SKU underperformance table shows that some products struggle on net sales and margin, with discount and returns appearing as potentil contributors.
 - A **94.31%** fill rate indicates that orders are largel being fulfilled.
 - On-time delivery is **70%**, which is low compared to the fill rate.
-- The route efficiency scatter plot shows uneven perfomances: some route have strong revenue efficiency, while others show higher cost/ weaker ouput.
+- The route efficiency scatter plot shows uneven perfomances: some route have strong revenue efficiency, while others show higher cost and weaker ouput.
 - Even with **19.38 days** of cover, stockout rate is **21.67%**, which suggests stock imbalace.
 
 ---
