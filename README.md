@@ -48,4 +48,11 @@ There are issues regarding uneven perfomance and execution challenges across the
 
 ---
 ### Recommendations
-
+- Only run promos on products where the business still makes good profit.
+- Plan ahead for busy months by stocking and delivering more early.
+- Since Wholesale brings most sales, grow Modern Trade and General Trade too by pushing the right product packs and giving them clear targets.
+- Ensure that the top-selling SKUs never go out of stock and always get delivered on time, while also pushing the “next best” SKUs, so sales isn’t only coming from a few products.
+- Reduce discounts and adjust price of product that sell but don't make much profit.
+- Since fill rate is good, focus on delivering better by improve loading, dispatch timing, and delivery planning.
+- Reduce overload in routes that are always late.
+- Balance inventory so fast movers don’t stock out while slow movers don’t pile up.
