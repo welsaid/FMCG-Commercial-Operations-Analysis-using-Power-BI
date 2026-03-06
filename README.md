@@ -44,7 +44,7 @@ There are issues regarding uneven perfomance and execution challenges across the
 - A **94.31%** fill rate indicates that orders are largel being fulfilled.
 - On-time delivery is **70%**, which is low compared to the fill rate.
 - The route efficiency scatter plot shows uneven perfomances: some route have strong revenue efficiency, while others show higher cost/ weaker ouput.
-- Even with **19.38 days** of civer, stockout rate is **21.67%**, which suggests stock imbalace.
+- Even with **19.38 days** of cover, stockout rate is **21.67%**, which suggests stock imbalace.
 
 ---
 ### Recommendations
