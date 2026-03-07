@@ -45,6 +45,7 @@ There are issues regarding uneven perfomance and execution challenges across the
 - On-time delivery is **70%**, which is low compared to the fill rate.
 - The route efficiency scatter plot shows uneven perfomances: some route have strong revenue efficiency, while others show higher cost and weaker ouput.
 - Even with **19.38 days** of cover, stockout rate is **21.67%**, which suggests stock imbalace.
+- Inventory is building up faster than demand in the later months, suggesting possible overstocking and slow sell-through.
 
 ---
 ### Recommendations
@@ -56,3 +57,4 @@ There are issues regarding uneven perfomance and execution challenges across the
 - Since fill rate is good, focus on delivering better by improve loading, dispatch timing, and delivery planning.
 - Reduce overload in routes that are always late.
 - Balance inventory so fast movers don’t stock out while slow movers don’t pile up.
+- Stop overstocking slow movers and rebalance stock toward fast movers.
